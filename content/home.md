@@ -1,10 +1,11 @@
 +++
-date = "2016-01-22T11:35:08+01:00"
-draft = true
+date = "2016-01-24T07:37:29+01:00"
+draft = false
 title = "home"
 
 +++
-# Rubrik
+
+# Rubrik
 
 hkkkghg **hjghhjhj**
 
