@@ -1,12 +1,0 @@
-+++
-date = "2016-01-22T11:35:08+01:00"
-draft = false
-title = "about"
-
-+++
-# Text
-hhghghjg
-![enter image description here][1]
-
-
-  [1]: /images/NATURE-WaitingForSunset_1600x1200.jpg
