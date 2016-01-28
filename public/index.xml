@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Creative Theme</title>
+    <title>Hugo Agency Theme</title>
     <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on Hugo Creative Theme</description>
+    <description>Recent content on Hugo Agency Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2016 07:37:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2016 09:57:22 +0100</lastBuildDate>
     <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>home</title>
-      <link>http://replace-this-with-your-hugo-site.com/home/</link>
-      <pubDate>Sun, 24 Jan 2016 07:37:29 +0100</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/home/</guid>
-      <description>
-
-&lt;h1 id=&#34;rubrik:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Rubrik&lt;/h1&gt;
-
-&lt;p&gt;hkkkghg &lt;strong&gt;hjghhjhj&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;hjhghjghjgj&lt;/p&gt;
-
-&lt;h1 id=&#34;github:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Github&lt;/h1&gt;
-
-&lt;p&gt;Ändrar texten från github&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>about</title>
       <link>http://replace-this-with-your-hugo-site.com/about/</link>
-      <pubDate>Fri, 22 Jan 2016 11:35:08 +0100</pubDate>
+      <pubDate>Thu, 28 Jan 2016 09:57:22 +0100</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;text:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Text&lt;/h1&gt;
-
-&lt;p&gt;hhghghjg
-&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/NATURE-WaitingForSunset_1600x1200.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/NATURE-WaitingForSunset_1600x1200.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>firstpost</title>
       <link>http://replace-this-with-your-hugo-site.com/post/firstpost/</link>
-      <pubDate>Fri, 22 Jan 2016 11:35:08 +0100</pubDate>
+      <pubDate>Thu, 28 Jan 2016 09:57:22 +0100</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/post/firstpost/</guid>
-      <description>
-
-&lt;h1 id=&#34;ny-text:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Ny text&lt;/h1&gt;
-
-&lt;p&gt;text&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>http://replace-this-with-your-hugo-site.com/home/</link>
+      <pubDate>Thu, 28 Jan 2016 09:57:22 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/home/</guid>
+      <description></description>
     </item>
     
   </channel>

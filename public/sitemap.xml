@@ -3,23 +3,23 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
-    <lastmod>2016-01-24T07:37:29+01:00</lastmod>
+    <lastmod>2016-01-28T09:57:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/home/</loc>
-    <lastmod>2016-01-24T07:37:29+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://replace-this-with-your-hugo-site.com/about/</loc>
-    <lastmod>2016-01-22T11:35:08+01:00</lastmod>
+    <lastmod>2016-01-28T09:57:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/post/firstpost/</loc>
-    <lastmod>2016-01-22T11:35:08+01:00</lastmod>
+    <lastmod>2016-01-28T09:57:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/home/</loc>
+    <lastmod>2016-01-28T09:57:22+01:00</lastmod>
   </url>
   
 </urlset>
