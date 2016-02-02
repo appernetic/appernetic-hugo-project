@@ -6,8 +6,18 @@
     <description>Recent content on Hugo Agency Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2016 09:57:22 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2016 11:56:26 +0100</lastBuildDate>
     <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rtrre</title>
+      <link>http://replace-this-with-your-hugo-site.com/rtrre/</link>
+      <pubDate>Thu, 28 Jan 2016 11:56:26 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/rtrre/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/wallpaper-2039882.jpeg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
@@ -15,7 +25,9 @@
       <pubDate>Thu, 28 Jan 2016 09:57:22 +0100</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/NATURE-WaitingForSunset_1600x1200.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/NATURE-WaitingForSunset_1600x1200.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
+jj
+nbnb&lt;/p&gt;
 </description>
     </item>
     
@@ -34,7 +46,8 @@
       <pubDate>Thu, 28 Jan 2016 09:57:22 +0100</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/home/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/ss_geektool2_wall-1.jpeg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
