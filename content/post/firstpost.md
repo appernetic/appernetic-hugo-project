@@ -5,7 +5,6 @@ tags = []
 title = "firstpost"
 draft = false
 +++
-
-# First post!
+# First post!
 This is the first post.
 It is a draft.
