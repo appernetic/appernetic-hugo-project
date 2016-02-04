@@ -9,5 +9,8 @@ tags = []
 title = "about"
 
 +++
+<!--more-->
+![enter image description here][1]
 
-<!--more-->
+
+  [1]: /images/StayGreen_3dv8desk.jpg
