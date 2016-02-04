@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Creative Theme</title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
-    <description>Recent content in Posts on Hugo Creative Theme</description>
+    <title>Posts on Icarus</title>
+    <link>http://www.yourdomain.com/post/</link>
+    <description>Recent content in Posts on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2016 14:19:57 +0100</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Feb 2016 16:05:02 +0100</lastBuildDate>
+    <atom:link href="http://www.yourdomain.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/firstpost/</link>
-      <pubDate>Wed, 03 Feb 2016 14:19:57 +0100</pubDate>
+      <link>http://www.yourdomain.com/2016/02/04/firstpost</link>
+      <pubDate>Thu, 04 Feb 2016 16:05:02 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/firstpost/</guid>
-      <description>
-
-&lt;h1 id=&#34;first-post:f779394c000b834c435e35a4c53a5ecd&#34;&gt;First post!&lt;/h1&gt;
-
-&lt;p&gt;This is the first post.
-It is a draft.
-&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/Arrows_wild_wallpaper.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.yourdomain.com/2016/02/04/firstpost</guid>
+      <description></description>
     </item>
     
   </channel>
