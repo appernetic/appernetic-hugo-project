@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test</title>
+    <title>Icarus</title>
     <link>http://www.yourdomain.com/</link>
-    <description>Recent content on Test</description>
+    <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Feb 2016 16:05:02 +0100</lastBuildDate>
@@ -35,7 +35,8 @@
       <pubDate>Thu, 04 Feb 2016 16:05:02 +0100</pubDate>
       
       <guid>http://www.yourdomain.com/home/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.yourdomain.com/images/oldmanyellsatcloud.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
