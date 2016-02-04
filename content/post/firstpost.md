@@ -9,5 +9,8 @@ tags = []
 title = "firstpost"
 
 +++
+<!--more-->
+![enter image description here][1]
 
-<!--more-->
+
+  [1]: /images/Waste_type_wallpaper.jpg
