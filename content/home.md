@@ -9,5 +9,8 @@ tags = []
 title = "home"
 
 +++
+<!--more-->
+![enter image description here][1]
 
-<!--more-->
+
+  [1]: /images/oldmanyellsatcloud.jpg
