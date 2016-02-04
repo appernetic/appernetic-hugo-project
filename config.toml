@@ -1,100 +1,93 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://www.yourdomain.com/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
+title = "Icarus"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "spf13"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# Define the number of posts per site
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
 
 [params]
+    # Tell me who you are
+    author = "John Doe"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Earth"
+    site_description = ""
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    avatar = "css/images/avatar.png"
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
 
-	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
 
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more informtion take a look at the README.
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
 
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
 
-	# The path must be relative to the static folder
-	favicon = "favicon.ico"
-
-
-	# Navigation
-	[params.navigation]
-		brand = "Hugo Creative Theme"
-
-		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
-			contact   = "Contact"
-
-
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://github.com/digitalcraftsman"
 
 
-	# About section
-	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "digitalcraftsman"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "spf13"
 
-
-	# Service section
-	[params.services]
-		headline = "At your service"
-
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
-
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
-
-
-    # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
-
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
-	# Contact section
-	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
