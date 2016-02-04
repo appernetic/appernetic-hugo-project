@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
-    <lastmod>2016-01-28T11:56:26+01:00</lastmod>
+    <loc>http://www.yourdomain.com/</loc>
+    <lastmod>2016-02-04T11:55:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/rtrre/</loc>
-    <lastmod>2016-01-28T11:56:26+01:00</lastmod>
+    <loc>http://www.yourdomain.com/tertrt/</loc>
+    <lastmod>2016-02-04T11:55:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/about/</loc>
+    <loc>http://www.yourdomain.com/2016/02/03/firstpost</loc>
+    <lastmod>2016-02-03T14:19:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.yourdomain.com/about/</loc>
     <lastmod>2016-01-28T09:57:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/post/firstpost/</loc>
-    <lastmod>2016-01-28T09:57:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://replace-this-with-your-hugo-site.com/home/</loc>
+    <loc>http://www.yourdomain.com/home/</loc>
     <lastmod>2016-01-28T09:57:22+01:00</lastmod>
   </url>
   
