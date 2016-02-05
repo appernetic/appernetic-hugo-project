@@ -6,37 +6,34 @@
     <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2016 16:05:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2016 20:33:05 +0000</lastBuildDate>
     <atom:link href="http://www.yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
       <link>http://www.yourdomain.com/about/</link>
-      <pubDate>Thu, 04 Feb 2016 16:05:02 +0100</pubDate>
+      <pubDate>Fri, 05 Feb 2016 20:33:05 +0000</pubDate>
       
       <guid>http://www.yourdomain.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.yourdomain.com/images/StayGreen_3dv8desk.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>firstpost</title>
-      <link>http://www.yourdomain.com/2016/02/04/firstpost</link>
-      <pubDate>Thu, 04 Feb 2016 16:05:02 +0100</pubDate>
+      <link>http://www.yourdomain.com/2016/02/05/firstpost</link>
+      <pubDate>Fri, 05 Feb 2016 20:33:05 +0000</pubDate>
       
-      <guid>http://www.yourdomain.com/2016/02/04/firstpost</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.yourdomain.com/images/Waste_type_wallpaper.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.yourdomain.com/2016/02/05/firstpost</guid>
+      <description></description>
     </item>
     
     <item>
       <title>home</title>
       <link>http://www.yourdomain.com/home/</link>
-      <pubDate>Thu, 04 Feb 2016 16:05:02 +0100</pubDate>
+      <pubDate>Fri, 05 Feb 2016 20:33:05 +0000</pubDate>
       
       <guid>http://www.yourdomain.com/home/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.yourdomain.com/images/oldmanyellsatcloud.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
