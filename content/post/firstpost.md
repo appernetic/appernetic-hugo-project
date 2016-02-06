@@ -10,4 +10,7 @@ title = "firstpost"
 
 +++
 Test
-<!--more-->
+<!--more-->![enter image description here][1]
+
+
+  [1]: /images/websrvr-uptime.png
