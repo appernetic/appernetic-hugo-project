@@ -9,5 +9,4 @@ tags = []
 title = "about"
 
 +++
-
-<!--more-->
+<!--more-->
