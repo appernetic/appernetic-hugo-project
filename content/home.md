@@ -10,4 +10,10 @@ title = "home"
 
 +++
 Test
+
+
+![enter image description here][1]
 <!--more-->
+
+
+  [1]: /images/NATURE-FakaravaCoconutTree_1680x1050.jpg
