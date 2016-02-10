@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2016-02-10T19:50:09Z"
+date = "2016-02-10T20:21:11Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key", "words"]
 tags = ["one", "two"]
 title = "about"
@@ -10,7 +10,8 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-#Front Matter
+
+#Front Matter
 Now you can select yaml or toml front matter when you create a new file.
 
 If you don't select front matter, default settings is to create a toml file.
