@@ -12,3 +12,9 @@ type = "post"
 +++
 ## This is the first post
 Lets start blogging!
+
+Nice picture!
+![enter image description here][1]
+
+
+  [1]: /images/ss_geektool2_wall-1.jpeg
