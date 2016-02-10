@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>One on sitename</title>
-    <link>http://www.example.com/tags/one/</link>
-    <description>Recent content in One on sitename</description>
+    <title>One on Icarus</title>
+    <link>http://www.yourdomain.com/tags/one/</link>
+    <description>Recent content in One on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Wed, 10 Feb 2016 20:21:11 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yourdomain.com/tags/one/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://www.yourdomain.com/about/</link>
       <pubDate>Wed, 10 Feb 2016 20:21:11 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/about/</guid>
+      
+      <guid>http://www.yourdomain.com/about/</guid>
       <description>&lt;p&gt;#Front Matter
 Now you can select yaml or toml front matter when you create a new file.&lt;/p&gt;
 
