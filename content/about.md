@@ -12,7 +12,7 @@ type = "post"
 +++
 # Front Matter
 Now you can select yaml or toml front matter when you create a new file.
-
+## Heading ##
 If you don't select front matter, default settings is to create a toml file.
 ![enter image description here][1]
 We don't support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.
