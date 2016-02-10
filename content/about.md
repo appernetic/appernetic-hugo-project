@@ -14,7 +14,10 @@ type = "post"
 Now you can select yaml or toml front matter when you create a new file.
 
 If you don't select front matter, default settings is to create a toml file.
-
+![enter image description here][1]
 We don't support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.
 
 If the front matter can't be detected because there is no or wrong format set in config.toml we leave the md file as is. Therefore you will se some strange code in the PageDown editor.
+
+
+  [1]: /images/Mustang_monster_wall.jpg
