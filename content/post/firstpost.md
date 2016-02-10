@@ -10,4 +10,5 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-
+## This is the first post
+Lets start blogging!
