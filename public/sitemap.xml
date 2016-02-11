@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.yourdomain.com/</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2016-02-10T20:21:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.yourdomain.com/about/</loc>
+    <loc>http://example.com/about/</loc>
     <lastmod>2016-02-10T20:21:11+00:00</lastmod>
   </url>
   
