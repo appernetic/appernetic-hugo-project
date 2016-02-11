@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sitename</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on sitename</description>
+    <title>Aglaus</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Aglaus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2016 10:42:36 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>http://www.example.com/test/</link>
+      <link>http://example.com/test/</link>
       <pubDate>Thu, 11 Feb 2016 10:42:36 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/test/</guid>
+      
+      <guid>http://example.com/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://example.com/about/</link>
       <pubDate>Wed, 10 Feb 2016 20:21:11 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/about/</guid>
+      
+      <guid>http://example.com/about/</guid>
       <description>
 
-&lt;h1 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h1&gt;
+&lt;h1 id=&#34;front-matter:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Front Matter&lt;/h1&gt;
 
 &lt;p&gt;Now you can select yaml or toml front matter when you create a new file.&lt;/p&gt;
 
-&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
+&lt;h2 id=&#34;heading:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Heading&lt;/h2&gt;
 
 &lt;p&gt;If you don&amp;rsquo;t select front matter, default settings is to create a toml file.
-&lt;img src=&#34;http://www.example.com/images/Mustang_monster_wall.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;http://example.com/images/Mustang_monster_wall.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
 We don&amp;rsquo;t support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.&lt;/p&gt;
 
 &lt;p&gt;If the front matter can&amp;rsquo;t be detected because there is no or wrong format set in config.toml we leave the md file as is. Therefore you will se some strange code in the PageDown editor.&lt;/p&gt;
