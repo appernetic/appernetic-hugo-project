@@ -12,7 +12,7 @@ section = ""
 theme = ""
 paginatepath = "page"
 ################################################################################
-baseurl = ""
+baseurl = "https://appernetic.io/preview"
 
 paginate = 10
 buildDrafts = false
