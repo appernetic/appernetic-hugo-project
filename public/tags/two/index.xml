@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-
-
-
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-	<title> </title>
-	<description></description>
-	<generator uri="http://example.com"></generator>
-	<link>http://example.com/tags/two/</link>
-	<language>en-us</language>
-	
-	<copyright>All rights reserved.</copyright>
-	<updated>Wed, 10 Feb 2016 20:21:11 UTC</updated>
-	
-	
-	
-		<item>
-		<title>about</title>
-		<link>http://example.com/about/</link>
-		<pubDate>Wed, 10 Feb 2016 20:21:11 CST</pubDate>
-		<author>author</author>
-		<guid>http://example.com/about/</guid>
-		<description>
-			
+  <channel>
+    <title>Two on home</title>
+    <link>https://appernetic.io/preview/tags/two/</link>
+    <description>Recent content in Two on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2016 20:21:11 +0000</lastBuildDate>
+    <atom:link href="https://appernetic.io/preview/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://appernetic.io/preview/about/</link>
+      <pubDate>Wed, 10 Feb 2016 20:21:11 +0000</pubDate>
+      
+      <guid>https://appernetic.io/preview/about/</guid>
+      <description>
 
 &lt;h1 id=&#34;front-matter:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Front Matter&lt;/h1&gt;
 
@@ -31,15 +24,12 @@
 &lt;h2 id=&#34;heading:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Heading&lt;/h2&gt;
 
 &lt;p&gt;If you don&amp;rsquo;t select front matter, default settings is to create a toml file.
-&lt;img src=&#34;http://example.com/images/Mustang_monster_wall.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://appernetic.io/preview/images/Mustang_monster_wall.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
 We don&amp;rsquo;t support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.&lt;/p&gt;
 
 &lt;p&gt;If the front matter can&amp;rsquo;t be detected because there is no or wrong format set in config.toml we leave the md file as is. Therefore you will se some strange code in the PageDown editor.&lt;/p&gt;
-
-			&lt;a href=&#39;http://example.com/about/&#39;&gt;Continue Reading »&lt;/a&gt;
-		</description>
-		</item>
-	
-</channel>
+</description>
+    </item>
+    
+  </channel>
 </rss>
-
