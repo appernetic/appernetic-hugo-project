@@ -2,10 +2,10 @@
 baseurl = "https://appernetic.io/preview/"
 
 # Site title
-title = "sitename"
+title = "Appernetic.io"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2016 Appernetic.io"
 
 # Language
 languageCode = "en-EN"
@@ -18,7 +18,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-# theme = "hugo-bootstrap"
+theme = "hugo-bootstrap"
 
 # Pagination
 paginate = 10
@@ -44,13 +44,13 @@ disqusShortname = "your_disqus_shortname"
 #
 [params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
+    brand = "Appernetic"
+    topline = "A Static Site Generator as a Service"
     footline = "code with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "home"
+    home = "Home"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
