@@ -14,4 +14,7 @@ type = "post"
 Lets start blogging!
 sssaaa
 Nice picture!
-enter image description here
+![enter image description here][1]
+
+
+  [1]: /images/unsplash_6.jpg
