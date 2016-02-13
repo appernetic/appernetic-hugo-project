@@ -5,7 +5,7 @@ description = "description"
 draft = true
 keywords = ["key", "words"]
 tags = ["one", "two"]
-title = "a file"
+title = "A file"
 topics = ["topic 1"]
 type = "post"
 
