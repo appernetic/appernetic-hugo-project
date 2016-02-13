@@ -12,3 +12,7 @@ title: test
 
 <!--more-->
 test
+![enter image description here][1]
+
+
+  [1]: /images/The_Payment_of_the_Tithes_Bonhams.jpg
