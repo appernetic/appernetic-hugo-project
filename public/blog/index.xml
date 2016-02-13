@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Appernetic.io</title>
+    <link>http://localhost:1313/preview/blog/</link>
+    <description>Recent content in Blogs on Appernetic.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Appernetic.io</copyright>
+    <lastBuildDate>Fri, 12 Feb 2016 00:24:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/preview/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>http://localhost:1313/preview/blog/first-post/</link>
+      <pubDate>Fri, 12 Feb 2016 00:24:11 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/blog/first-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;post-1&#34;&gt;Post 1&lt;/h1&gt;
+
+&lt;p&gt;Tst&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

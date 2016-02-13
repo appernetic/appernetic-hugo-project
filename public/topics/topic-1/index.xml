@@ -1,23 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topic 1 on sitename</title>
-    <link>http://www.example.com/topics/topic-1/</link>
-    <description>Recent content in Topic 1 on sitename</description>
+    <title>Topic 1 on Appernetic.io</title>
+    <link>http://localhost:1313/preview/topics/topic-1/</link>
+    <description>Recent content in Topic 1 on Appernetic.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
-    <lastBuildDate>Wed, 10 Feb 2016 20:21:11 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) 2016 Appernetic.io</copyright>
+    <lastBuildDate>Sat, 13 Feb 2016 19:50:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/preview/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new file</title>
+      <link>http://localhost:1313/preview/new-file/</link>
+      <pubDate>Sat, 13 Feb 2016 19:50:35 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/new-file/</guid>
+      <description>&lt;p&gt;Test article&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A file</title>
+      <link>http://localhost:1313/preview/a-ficle/</link>
+      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/a-ficle/</guid>
+      <description>&lt;p&gt;dddff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A file</title>
+      <link>http://localhost:1313/preview/a-ficle1/</link>
+      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/a-ficle1/</guid>
+      <description>&lt;p&gt;dddff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a file</title>
+      <link>http://localhost:1313/preview/a-filed/</link>
+      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/a-filed/</guid>
+      <description>&lt;p&gt;dddff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a file</title>
+      <link>http://localhost:1313/preview/a-file/</link>
+      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/a-file/</guid>
+      <description>&lt;p&gt;dddff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>new content here about nothing</title>
+      <link>http://localhost:1313/preview/new-content-here-about-nothing/</link>
+      <pubDate>Fri, 12 Feb 2016 00:33:30 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/new-content-here-about-nothing/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-nothing&#34;&gt;About nothing&lt;/h1&gt;
+
+&lt;p&gt;hbhjh
+eeefff&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://localhost:1313/preview/about/</link>
       <pubDate>Wed, 10 Feb 2016 20:21:11 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://localhost:1313/preview/about/</guid>
       <description>
 
 &lt;h1 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h1&gt;
@@ -26,11 +91,30 @@
 
 &lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
 
-&lt;p&gt;If you don&amp;rsquo;t select front matter, default settings is to create a toml file.
-&lt;img src=&#34;http://www.example.com/images/Mustang_monster_wall.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
-We don&amp;rsquo;t support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t select front matter, default settings is to create a toml file.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;rsquo;t support json front matter yet. It conflicts heavilly with Restangular, so that needs to be investigated a little bit before implementing.&lt;/p&gt;
 
 &lt;p&gt;If the front matter can&amp;rsquo;t be detected because there is no or wrong format set in config.toml we leave the md file as is. Therefore you will se some strange code in the PageDown editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/preview/images/header_unsplash_1.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>http://localhost:1313/preview/2016/02/10/firstpost/</link>
+      <pubDate>Wed, 10 Feb 2016 19:50:09 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/2016/02/10/firstpost/</guid>
+      <description>
+
+&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
+
+&lt;p&gt;Lets start blogging!
+Nice picture!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/preview/images/unsplash_6.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
