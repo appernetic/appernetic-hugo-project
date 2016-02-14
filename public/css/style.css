@@ -38,7 +38,9 @@ img {
   height: auto;
 }
 
-
+.navbar-right {
+  padding-right: 15px;
+}
 
 
 .navbar-brand {

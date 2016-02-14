@@ -13,22 +13,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/preview/a-file/</loc>
-    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/preview/a-ficle1/</loc>
     <lastmod>2016-02-13T07:23:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/preview/a-ficle/</loc>
+    <loc>http://localhost:1313/preview/a-file/</loc>
     <lastmod>2016-02-13T07:23:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/preview/a-filed/</loc>
+    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/preview/a-ficle/</loc>
     <lastmod>2016-02-13T07:23:48+00:00</lastmod>
   </url>
   
