@@ -2,7 +2,7 @@
 author = "author"
 date = "2016-02-10T19:50:09Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key", "words"]
 tags = ["one", "two"]
 title = "firstpost"
