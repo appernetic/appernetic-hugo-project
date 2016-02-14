@@ -25,7 +25,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "your_disqus_shortname"
+disqusShortname = "supportapperneticio"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -57,7 +57,7 @@ disqusShortname = "your_disqus_shortname"
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-73770938-2"
 
     # Sidebar social links.
     github = "https://github.com/appernetic/" # Your Github profile ID
