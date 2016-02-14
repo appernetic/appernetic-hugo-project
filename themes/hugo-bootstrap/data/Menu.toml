@@ -1,0 +1,12 @@
+[about]
+    Name = "About"
+    IconClass = "fa-info-circle"
+    URL = "/about"
+
+[posts]
+    Name = "Posts"
+    URL = "/post"
+
+[tags]
+    Name = "Tags"
+    URL = "/tags"
