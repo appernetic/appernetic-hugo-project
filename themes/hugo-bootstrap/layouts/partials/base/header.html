@@ -9,9 +9,14 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="{{.Site.BaseURL}}" class="navbar-brand"><img src="/images/apperneticlogo.png"></a>
+        <a href="{{.Site.Params.home}}" class="navbar-brand"><img src="/images/apperneticlogo.png"></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li ><a href="https://appernetic.io/#/about">About</a></li>
+          <li ><a href="http://appernetic.github.io/">Blog</a></li>
+          <li ><a href="https://appernetic.io/#/dashboard/list/create">Dashboard</a></li>
+        </ul>
         <ul class="nav navbar-nav navbar-right">
           {{ range .Site.Data.Menu }}
           <li>

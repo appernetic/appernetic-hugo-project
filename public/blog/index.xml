@@ -6,8 +6,8 @@
     <description>Recent content in Blogs on Appernetic.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>support@appernetic.io (Göran Svensson)</managingEditor>
+    <webMaster>support@appernetic.io (Göran Svensson)</webMaster>
     <copyright>(c) 2016 Appernetic.io</copyright>
     <lastBuildDate>Fri, 12 Feb 2016 00:24:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/preview/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>first post</title>
       <link>http://localhost:1313/preview/blog/first-post/</link>
       <pubDate>Fri, 12 Feb 2016 00:24:11 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>support@appernetic.io (Göran Svensson)</author>
       <guid>http://localhost:1313/preview/blog/first-post/</guid>
       <description>
 

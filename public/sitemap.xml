@@ -2,63 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/preview/</loc>
-    <lastmod>2016-02-13T19:50:35+00:00</lastmod>
+    <loc>https://appernetic.io/preview/</loc>
+    <lastmod>2016-02-11T10:42:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/preview/new-file/</loc>
-    <lastmod>2016-02-13T19:50:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/a-ficle/</loc>
-    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/a-filed/</loc>
-    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/a-file/</loc>
-    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/a-ficle1/</loc>
-    <lastmod>2016-02-13T07:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/new-content-here-about-nothing/</loc>
-    <lastmod>2016-02-12T00:33:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/blog/first-post/</loc>
-    <lastmod>2016-02-12T00:24:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/newtest/</loc>
-    <lastmod>2016-02-11T19:57:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/preview/test/</loc>
+    <loc>https://appernetic.io/preview/test/</loc>
     <lastmod>2016-02-11T10:42:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/preview/about/</loc>
+    <loc>https://appernetic.io/preview/about/</loc>
     <lastmod>2016-02-10T20:21:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/preview/2016/02/10/firstpost/</loc>
+    <loc>https://appernetic.io/preview/2016/02/10/firstpost/</loc>
     <lastmod>2016-02-10T19:50:09+00:00</lastmod>
   </url>
   

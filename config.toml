@@ -36,8 +36,8 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Göran Svensson"
+    email = "support@appernetic.io"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -46,7 +46,7 @@ disqusShortname = "your_disqus_shortname"
     # You can use markdown here.
     brand = "Appernetic"
     topline = "A Static Site Generator as a Service"
-    footline = "code with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
+    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
     theme = "paper"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
@@ -60,12 +60,12 @@ disqusShortname = "your_disqus_shortname"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "https://github.com/appernetic/" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
-    facebook = "" # Your Facebook profile ID
-    twitter = "" # Your Twitter profile ID
+    facebook = "https://www.facebook.com/appernetic/" # Your Facebook profile ID
+    twitter = "https://twitter.com/appernetic" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
