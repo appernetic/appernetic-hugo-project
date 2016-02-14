@@ -46,11 +46,11 @@ disqusShortname = "your_disqus_shortname"
     # You can use markdown here.
     brand = "Appernetic"
     topline = "A Static Site Generator as a Service"
-    footline = "code with <i class='fa fa-heart'></i>"
+    footline = "code with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
     theme = "paper"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "Home"
+    home = "https://appernetic.io"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
