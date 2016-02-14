@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "/"
+baseurl = "//appernetic.github.io"
 
 # Site title
 title = "Appernetic.io"
