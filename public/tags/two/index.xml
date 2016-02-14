@@ -24,16 +24,6 @@
     
     <item>
       <title>A file</title>
-      <link>http://localhost:1313/preview/a-ficle/</link>
-      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/preview/a-ficle/</guid>
-      <description>&lt;p&gt;dddff&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A file</title>
       <link>http://localhost:1313/preview/a-ficle1/</link>
       <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
@@ -43,11 +33,11 @@
     </item>
     
     <item>
-      <title>a file</title>
-      <link>http://localhost:1313/preview/a-filed/</link>
+      <title>A file</title>
+      <link>http://localhost:1313/preview/a-ficle/</link>
       <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://localhost:1313/preview/a-filed/</guid>
+      <guid>http://localhost:1313/preview/a-ficle/</guid>
       <description>&lt;p&gt;dddff&lt;/p&gt;
 </description>
     </item>
@@ -58,6 +48,16 @@
       <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>http://localhost:1313/preview/a-file/</guid>
+      <description>&lt;p&gt;dddff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a file</title>
+      <link>http://localhost:1313/preview/a-filed/</link>
+      <pubDate>Sat, 13 Feb 2016 07:23:48 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://localhost:1313/preview/a-filed/</guid>
       <description>&lt;p&gt;dddff&lt;/p&gt;
 </description>
     </item>
@@ -78,7 +78,7 @@ eeefff&lt;/p&gt;
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>http://localhost:1313/preview/about/</link>
       <pubDate>Wed, 10 Feb 2016 20:21:11 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
