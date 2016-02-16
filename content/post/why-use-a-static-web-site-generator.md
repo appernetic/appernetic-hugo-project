@@ -22,6 +22,6 @@ Now there is a rich ecosystem of service providers for anything including forms,
  - **Fast**, static files can be served fast. There is no database or templating layer that slows requests down. A static site will always be the fastest way to deliver content.
  - **Secure**, static sites do not contain dynamic content, and are therefore immune to most common attacks that dynamic systems like Wordpress and Joomla are plagued with.
  - **Previewable**, It is easy to separate preview from the live site.
- - **Versioning**, static-site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
+ - **Versioning**, static site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
 
 With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub, auto save and theme cloning.
