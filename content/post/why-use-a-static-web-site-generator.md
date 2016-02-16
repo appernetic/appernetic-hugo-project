@@ -1,11 +1,11 @@
 +++
-author = "author"
+author = "Admin"
 date = "2016-02-10T19:50:09Z"
-description = "description"
+description = "With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub, auto save and theme cloning."
 draft = false
-keywords = ["key", "words"]
+keywords = ["St", "words"]
 tags = ["one", "two"]
-title = "firstpost"
+title = "Why use a static web site generator?"
 topics = ["topic 1"]
 type = "post"
 
