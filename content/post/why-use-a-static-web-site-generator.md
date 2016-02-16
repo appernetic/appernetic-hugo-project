@@ -6,7 +6,7 @@ draft = false
 keywords = ["Static web site generator", "dynamic CMS", "Appernetic", "Fast", "Secure"]
 tags = ["Static web site generator", "Internet"]
 title = "Why use a static web site generator?"
-topics = ["topic 1"]
+topics = ["Static web site generator"]
 type = "post"
 
 +++
