@@ -33,6 +33,7 @@ Interest over time. Web Search. Worldwide, 2004 to the present.
 With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub and atomic deploy, auto save and theme cloning. We also eat our own dog food and use it for everything possible. Keep your eye on the blog we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
 
 ![working on computer pexels.com][1]
+
 We are using Hugo for fast site generation and GitHub for deploy. 
 
 
