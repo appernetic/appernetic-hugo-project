@@ -11,7 +11,7 @@ type = "post"
 
 +++
 ## Full circle
-
+![enter image description here][1]
 Today we have come full circle with static site generators. A long time ago at the end of 1994 I built a static web site for the Swedish Tourist Association that contained hundreds of handcrafted html pages, it was quite advanced with a email to fax gateway that sent out bookings to remote mountain stations. Then I found ColdFusion in the beginning of 1995 and the the sites I built had dynamic content served from MS Access databases. Later I started to use mySQL and built my own hosted CMS that was easily updated by non-technical users. 
 
 ## The programmable web
@@ -33,7 +33,8 @@ With Appernetic we are building a static web generator as a service that is easy
 
 We are using Hugo for fast site generation and GitHub for deploy. 
 
-![enter image description here][1]
+![Hugo plus octocat][2]
 
 
-  [1]: /images/hugo-octocat.png
+  [1]: /images/man-person-apple-iphone-opt.jpg
+  [2]: /images/hugo-octocat.png
