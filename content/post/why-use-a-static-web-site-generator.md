@@ -26,7 +26,7 @@ Now there is a rich ecosystem of service providers for anything including forms,
  - **Versioning**, static-site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
 
 Static site generator are getting more popular and a view on Google Trends shows this:
-script type="text/javascript"
+<script type="text/javascript">
 //function which gets screen width
 function getWidth() {
   if (self.innerHeight) {
