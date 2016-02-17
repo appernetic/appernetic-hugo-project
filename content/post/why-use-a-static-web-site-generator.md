@@ -27,5 +27,10 @@ Now there is a rich ecosystem of service providers for anything including forms,
 Static site generator are getting more popular and a view on Google Trends shows this:
 <script type="text/javascript" src="//www.google.com/trends/embed.js?hl=sv&q=static+site+generator&cmpt=q&tz=Etc/GMT-1&tz=Etc/GMT-1&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
 
-A static site generator as a service
+## A static site generator as a service
 With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub and atomic deploy, auto save and theme cloning. We also eat our own dog food and use it for everything possible. Keep your eye on the blog we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
+
+![enter image description here][1]
+
+
+  [1]: /images/hugoopt.png
