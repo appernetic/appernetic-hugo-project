@@ -32,7 +32,7 @@ function getWidth() {
   if (self.innerHeight) {
     return self.innerWidth;
   }
-  if (document.documentElement \&& document.documentElement.clientHeight) {
+  if (document.documentElement && document.documentElement.clientHeight) {
     return document.documentElement.clientWidth;
   }
   if (document.body) {
@@ -45,7 +45,6 @@ function getWidth() {
     var embedCode = "//www.google.com.au/trends/embed.js?hl=sv&q=static+site+generator&cmpt=q&tz=Etc/GMT-1&tz=Etc/GMT-1&content=1&cid=TIMESERIES_GRAPH_0&export=5&w="+screenWidth+"&h=330";
 //write this new code to browser. Split '<script'> tags to prevent browser errors when writing.
 document.write('<scr'+'ipt type=\"text/javascript\" src=\"'+embedCode+'\"></scr'+'ipt>');
-
 </script>
 
 Interest over time. Web Search. Worldwide, 2004 to the present.
