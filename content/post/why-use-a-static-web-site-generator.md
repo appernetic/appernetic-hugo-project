@@ -32,7 +32,4 @@ With Appernetic we are building a static web generator as a service that is easy
 
 We are using Hugo for fast site generation and GitHub for deploy. 
 
-![enter image description here][1]
-
-
-  [1]: /images/hugoopt.png
+enter image description here
