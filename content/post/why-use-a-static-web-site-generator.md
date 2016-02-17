@@ -27,29 +27,22 @@ Now there is a rich ecosystem of service providers for anything including forms,
 
 Static site generator are getting more popular and a view on Google Trends shows this:
 <script>
-
 //function which gets screen width
 function getWidth() {
   if (self.innerHeight) {
     return self.innerWidth;
   }
-
   if (document.documentElement && document.documentElement.clientHeight) {
     return document.documentElement.clientWidth;
   }
-
   if (document.body) {
     return document.body.clientWidth;
   }
 }
-
-    //define screen width variable. Subtract 15 pixels from width just to be on the safe side and reduce chance of getting a horizontal scroll bar
+  //define screen width variable. Subtract 15 pixels from width just to be on the safe side and reduce chance of getting a horizontal scroll bar
     var screenWidth = getWidth()-Number(15);
-
-    //replace the following URL with your own. Be sure to keep the modified part of the string in tact where it replaces the width with screenWidth variable
+//replace the following URL with your own. Be sure to keep the modified part of the string in tact where it replaces the width with screenWidth variable
     var embedCode = "//www.google.com.au/trends/embed.js?hl=sv&q=static+site+generator&cmpt=q&tz=Etc/GMT-1&tz=Etc/GMT-1&content=1&cid=TIMESERIES_GRAPH_0&export=5&w="+screenWidth+"&h=330";
-
-
 //write this new code to browser. Split '<script'> tags to prevent browser errors when writing.
 document.write('<scr'+'ipt type=\"text/javascript\" src=\"'+embedCode+'\"></scr'+'ipt>');
 
