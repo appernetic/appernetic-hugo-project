@@ -23,7 +23,7 @@ Now to work with the theme I did a pull to my local computer, edited the theme w
 
 ![enter image description here][5]
 
-Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on GitHub Pages.
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on [GitHub Pages][6].
 
 
   [1]: /images/themes-opt.png
@@ -31,3 +31,4 @@ Notice also that I have all the social and collaborating features in GitHub so I
   [3]: https://github.com/mmrath/hugo-bootstrap
   [4]: /images/Sync-opt.png
   [5]: /images/githubdesktop-opt.png
+  [6]: https://appernetic.github.io/
