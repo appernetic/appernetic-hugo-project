@@ -21,13 +21,13 @@ You probably want to customize the theme before you use it and have a theme that
 
 Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor Atom and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for GitHub.
 
+![enter image description here][5]
 
-
-
-Notice also that I have all the collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync in Appernetic and then a Publish and after 10 min all is live on GitHub Pages.
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync in Appernetic and then a Publish and after 10 min all is live on GitHub Pages.
 
 
   [1]: /images/themes-opt.png
   [2]: https://appernetic.io
   [3]: https://github.com/mmrath/hugo-bootstrap
   [4]: /images/Sync-opt.png
+  [5]: /images/githubdesktop-opt.png
