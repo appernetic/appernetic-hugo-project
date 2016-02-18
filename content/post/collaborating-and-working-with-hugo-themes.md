@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2016-02-18T20:02:44Z"
+date = "2016-02-18T20:27:10Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key", "words"]
 tags = ["one", "two"]
 title = "collaborating and working with hugo themes"
@@ -10,7 +10,8 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-Customizing themes
+
+Customizing themes
 If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue Preview button to the right. 
 
 ![enter image description here][1]
