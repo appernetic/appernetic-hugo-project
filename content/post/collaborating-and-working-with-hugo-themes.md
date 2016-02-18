@@ -26,10 +26,10 @@ Now to work with the theme I did a pull to my local computer, edited the theme w
 ![enter image description here][7]
 
 ## Collaborating 
-Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on [GitHub Pages][8].
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a **Sync** again in Appernetic and then a **Publish** and after 10 min all is live on [GitHub Pages][8].
 
 ## Start blogging!
-From now on it is very easy to start blogging. Select the post directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically.Select toml or yaml front matter (toml as default selection),. The file tree will be updated and show the new file. Open the file and blog! Turn on auto save and all text you write will be saved every one minute. Remember to undraft the post if you would like to see it after publishing and add
+From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *toml* or *yaml* front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every one minute. Remember to undraft the post if you would like to see it after publishing and add
 
 ![enter image description here][9]
 
