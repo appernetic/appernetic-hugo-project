@@ -31,7 +31,7 @@ From now on it is very easy to start blogging. Select the post directory in the 
 
 Happy blogging!
 
-Tip, skip the headline in the post
+Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added) and edit the front matter located at the bottom of the editor 
   [1]: /images/themes-opt.png
   [2]: https://appernetic.io
   [3]: https://github.com/mmrath/hugo-bootstrap
