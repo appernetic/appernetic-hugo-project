@@ -21,17 +21,17 @@ Then to customize it further I pressed the **Sync** button which does a pull and
 
 ![enter image description here][5]
 
-Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for GitHub.
+Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for [GitHub][6].
 
-![enter image description here][6]
+![enter image description here][7]
 
 ## Collaborating 
-Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on [GitHub Pages][7].
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on [GitHub Pages][8].
 
 ## Start blogging!
 From now on it is very easy to start blogging. Select the post directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically.Select toml or yaml front matter (toml as default selection),. The file tree will be updated and show the new file. Open the file and blog! Turn on auto save and all text you write will be saved every one minute. Remember to undraft the post if you would like to see it after publishing and add
 
-![enter image description here][8]
+![enter image description here][9]
 
 Happy blogging!
 
@@ -44,6 +44,7 @@ Tip, skip the first headline in the post (at least in hugo-bootstrap it will be 
   [3]: https://appernetic.io
   [4]: https://github.com/mmrath/hugo-bootstrap
   [5]: /images/Sync-opt.png
-  [6]: /images/githubdesktop-opt.png
-  [7]: https://appernetic.github.io/
-  [8]: /images/Startblogging.png
+  [6]: https://desktop.github.com/
+  [7]: /images/githubdesktop-opt.png
+  [8]: https://appernetic.github.io/
+  [9]: /images/Startblogging.png
