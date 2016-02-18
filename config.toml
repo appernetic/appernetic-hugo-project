@@ -60,12 +60,12 @@ disqusShortname = "appernetic"
     googleAnalytics = "UA-73770938-2"
 
     # Sidebar social links.
-    github = "https://github.com/appernetic/" # Your Github profile ID
+    github = "appernetic" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
-    facebook = "https://www.facebook.com/appernetic/" # Your Facebook profile ID
-    twitter = "https://twitter.com/appernetic" # Your Twitter profile ID
+    facebook = "appernetic" # Your Facebook profile ID
+    twitter = "Appernetic" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
