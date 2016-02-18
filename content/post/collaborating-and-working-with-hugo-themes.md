@@ -1,7 +1,7 @@
 +++
 author = "author"
 date = "2016-02-18T20:27:25Z"
-description = "If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue **Preview** button to the right."
+description = "If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue Preview button to the right."
 draft = false
 keywords = ["Static", "Blogging", "GitHub"]
 tags = ["Static web site generator", "Blogging", "GitHub"]
