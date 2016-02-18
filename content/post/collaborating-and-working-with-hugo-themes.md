@@ -21,7 +21,7 @@ Then to customize it further I pressed the **Sync** button which does a pull and
 
 ![enter image description here][5]
 
-Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor Atom and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for GitHub.
+Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for GitHub.
 
 ![enter image description here][6]
 
