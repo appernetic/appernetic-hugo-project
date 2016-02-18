@@ -42,7 +42,7 @@ You're probably wondering why the heck we are using GitHub. First of all GitHub 
 4. http://www.theguardian.com/uk-news,  No SSL, Dynamic site, 4.3 MB, Time to Last Byte: **484 ms**
 5. https://medium.com/@erinleecarr/lessons-dbbaa0c8294d#.h25nipmyq, SSL, Dynamic blog, 3.2 MB, Time to Last Byte **492 ms**.
 
-A static site wins every time even if there is a lot of cache misses.
+> A static site wins every time even if there is a lot of cache misses.
 
 We also eat our own dog food and use it for everything possible. Keep your eye on the blog we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
 
