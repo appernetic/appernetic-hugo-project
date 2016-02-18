@@ -19,7 +19,7 @@ You probably want to customize the theme before you use it and have a theme that
 
 ![enter image description here][4]
 
-Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor Atom and after that I did a commit and a push back to my GitHub project repo. If you are a 
+Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor Atom and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very 
 
 
 Notice also that I have all the collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync in Appernetic and then a Publish and after 10 min all is live on GitHub Pages.
