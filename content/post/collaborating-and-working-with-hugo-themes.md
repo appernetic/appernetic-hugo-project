@@ -30,6 +30,8 @@ From now on it is very easy to start blogging. Select the post directory in the 
 ![enter image description here][7]
 
 Happy blogging!
+
+Tip, skip the headline in the post
   [1]: /images/themes-opt.png
   [2]: https://appernetic.io
   [3]: https://github.com/mmrath/hugo-bootstrap
