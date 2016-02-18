@@ -15,7 +15,7 @@ If you just have set up your Appernetic account you need to add a theme. The eas
 
 ![enter image description here][1]
 
-You probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic service][2]. Fortunately I found [hugo-bootstrap][3] and cloned it. Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at GitHub with the name appernetic-hugo-project . When you start out you will not have this repo so it is automatically created for you. All strange git commands i hidden away 
+You probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic service][2]. Fortunately I found [hugo-bootstrap][3] and cloned it. Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at GitHub with the name appernetic-hugo-project . When you start out you will not have this repo so it is automatically created for you. All strange git commands i hidden away so you do not have to think about it.
 
 ![enter image description here][4]
 
