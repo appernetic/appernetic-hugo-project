@@ -37,8 +37,8 @@ With Appernetic we are building a static web generator as a service that is easy
 You're probably wondering why the heck we are using GitHub. First of all GitHub use git which is a very good versioning system and they have [GitHub Pages][3]. Even if they only cache pages for 10 minutes and there are more cache misses then hits they have a fast CDN, Fastly.  I did a little unscientific performance test to see how it's really working out:
 
 1. https://appernetic.io/#/about, with Cloudflare CDN and SSL, Dynamic site, 4.7 MB, Time to Last Byte: **70 ms**
-2. https://appernetic.github.io/2016/02/10/firstpost/, with Fastly CDN and SSL, Static Blog Site 1.6 Mb, Time to Last Byte
-3. http://apple.com 378 ms No SSL, Dynamic site, 741 KB, Time to Last Byte: 171 ms
+2. https://appernetic.github.io/2016/02/10/firstpost/, with Fastly CDN and SSL, Static Blog Site 1.6 Mb, Time to Last Byte: 171 ms
+3. http://apple.com, No SSL, Dynamic site, 741 KB, Time to Last Byte: 171 ms
 4. http://www.theguardian.com/uk-news,  No SSL, Dynamic site, 4.3 MB, Time to Last Byte: 484 ms
 5. https://medium.com/@erinleecarr/lessons-dbbaa0c8294d#.h25nipmyq, SSL, Dynamic blog, 3.2 MB, Time to Last Byte 492 ms.
 
