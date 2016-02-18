@@ -3,8 +3,8 @@ author = "author"
 date = "2016-02-18T20:27:25Z"
 description = "description"
 draft = false
-keywords = ["key", "words"]
-tags = ["Static web site generator", "Blogging", ""]
+keywords = ["Static", "Blogging", "GitHub"]
+tags = ["Static web site generator", "Blogging", "GitHub"]
 title = "Collaborating and working with hugo themes"
 topics = ["topic 1"]
 type = "post"
@@ -33,7 +33,7 @@ From now on it is very easy to start blogging. Select the post directory in the 
 
 Happy blogging!
 
-Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the front matter located at the bottom of the editor after the preview and switch the first letter in the title to capital.
+Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the front matter located at the bottom of the editor after the preview and switch the first letter in the title to capital and add key words and
  
   [1]: /images/themes-opt.png
   [2]: https://appernetic.io
