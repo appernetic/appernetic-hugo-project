@@ -25,7 +25,7 @@ Now to work with the theme I did a pull to my local computer, edited the theme w
 
 Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a Sync again in Appernetic and then a Publish and after 10 min all is live on [GitHub Pages][6].
 
-From now on it is very easy to start blogging. Create a new file 
+From now on it is very easy to start blogging. SeCreate a new file name it with a headline, it will be slugified automatically 
 
 
   [1]: /images/themes-opt.png
