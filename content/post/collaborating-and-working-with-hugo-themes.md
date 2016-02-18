@@ -37,13 +37,13 @@ Notice also that I have all the social and collaborating features in GitHub so I
 > attempts to customize the theme.
 
 ## Start blogging!
-From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *toml* or *yaml* front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every one minute. Remember to **undraft** the post if you would like to see it after publishing and add
+From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *toml* or *yaml* front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every one minute. Remember to **undraft** the post if you would like to see it after publishing and  add key words, tags and topics.
 
 ![enter image description here][10]
 
 Happy blogging!
 
-Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the *front matter* located at the bottom of the editor after the preview and switch the first letter in the title to capital and add key words, tags and topics.
+Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the *front matter* located at the bottom of the editor after the preview and switch the first letter in the title to capital.
  
 
 
