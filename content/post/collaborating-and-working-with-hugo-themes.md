@@ -33,7 +33,7 @@ From now on it is very easy to start blogging. Select the post directory in the 
 
 Happy blogging!
 
-Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the front matter located at the bottom of the editor after the preview and switch the first letter in the title to capital and add key words and
+Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the front matter located at the bottom of the editor after the preview and switch the first letter in the title to capital and add key words, tags and topics.
  
   [1]: /images/themes-opt.png
   [2]: https://appernetic.io
