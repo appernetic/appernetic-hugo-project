@@ -13,7 +13,7 @@ type = "post"
 ## Customizing themes
 If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue **Preview** button to the right. 
 
-You can start by cloning my customized [hugo-bootstrap theme][1] or get one from [Hugo][3]. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder.
+You can start by cloning my customized [hugo-bootstrap theme][1] or get one from [Hugo][3]. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and 
 
 ![enter image description here][2]
 
