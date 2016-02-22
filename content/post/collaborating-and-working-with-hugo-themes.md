@@ -13,6 +13,8 @@ type = "post"
 ## Customizing themes
 If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue **Preview** button to the right. 
 
+You can start by cloning my customized theme 
+
 ![enter image description here][1]
 
 There is lots of themes at [Hugo][2], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic service][3]. Fortunately I found [hugo-bootstrap][4] and cloned it. 
