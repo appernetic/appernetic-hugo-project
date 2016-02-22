@@ -27,15 +27,15 @@ Here is the different bootswatch designs you can use:
  - flatly
  - journal
  - lumen
-paper
-readable
-sandstone
-simplex
-slate
-spacelab
-superhero
-united
-yeti 
+ - paper
+ - readable
+ - sandstone
+ - simplex
+ - slate
+ - spacelab
+ - superhero
+ - united
+ - yeti 
 
 ![enter image description here][2]
 
