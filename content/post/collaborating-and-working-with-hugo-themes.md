@@ -17,15 +17,16 @@ You can start by cloning my customized [hugo-bootstrap theme][1] or get one from
 
 You can change the bootswatch to another design by changing the theme = "paper" under [params].
 
-Here is the different bootswatch design
-cerulean
-cosmo
-cyborg
-darkly
-default
-flatly
-journal
-lumen
+Here is the different bootswatch designs you can use:
+
+ - cerulean
+ - cosmo
+ - cyborg
+ - darkly
+ - default
+ - flatly
+ - journal
+ - lumen
 paper
 readable
 sandstone
