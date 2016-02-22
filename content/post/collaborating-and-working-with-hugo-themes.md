@@ -15,8 +15,9 @@ If you just have set up your Appernetic account you need to add a theme. The eas
 
 You can start by cloning my customized [hugo-bootstrap theme][1] or get one from [Hugo][3]. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and change the settings as you would like to have it.
 
-You can change the bootswatch to another design by changing the 
+You can change the bootswatch to another design by changing the theme = "paper" under [params].
 
+Here is the different bootswatch design
 cerulean
 cosmo
 cyborg
