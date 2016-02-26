@@ -50,7 +50,6 @@ We also eat our own dog food and use it for everything possible. Keep your eye o
 
 We are using Hugo for fast site generation and GitHub for deploy. 
 
-
   [1]: /images/hugo-octocat.png
   [2]: /images/statisgoole.png
   [3]: https://pages.github.com/
