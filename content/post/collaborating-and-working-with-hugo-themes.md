@@ -51,10 +51,10 @@ Then to customize it further I pressed the **Sync** button which does a pull and
 
 Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for [GitHub][9].
 
-![enter image description here][10]
+enter image description here
 
 ## Collaborating 
-Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a **Sync** again in Appernetic and then a **Publish** and after 10 min all is live on [GitHub Pages][11].
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a **Sync** again in Appernetic and then a **Publish** and after 10 min all is live on [GitHub Pages][10].
 
 > Notice also that I have all the social and collaborating features in
 > GitHub so I can invite a real front end designer to have a look at my
@@ -63,7 +63,7 @@ Notice also that I have all the social and collaborating features in GitHub so I
 ## Start blogging!
 From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *toml* or *yaml* front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to **undraft** the post if you would like to see it after publishing and  add key words, tags and topics.
 
-![enter image description here][12]
+![enter image description here][11]
 
 Happy blogging!
 
@@ -80,6 +80,5 @@ Tip, skip the first headline in the post (at least in hugo-bootstrap it will be 
   [7]: https://github.com/
   [8]: https://res.cloudinary.com/appernetic/v1457304341/htdhjub2yfcw4bpkzklw
   [9]: https://desktop.github.com/
-  [10]: /images/githubdesktop-opt.png
-  [11]: https://appernetic.github.io/
-  [12]: /images/Startblogging.png
+  [10]: https://appernetic.github.io/
+  [11]: /images/Startblogging.png
