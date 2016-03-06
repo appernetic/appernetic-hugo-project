@@ -11,7 +11,7 @@ type = "post"
 
 +++
 ## Full circle
-Hugo plus octocat
+![Hugo plus octocat][1]
 Today we have come full circle with static site generators. A long time ago at the end of 1994 I built a static web site for the Swedish Tourist Association that contained hundreds of handcrafted html pages, it was quite advanced with a email to fax gateway that sent out bookings to remote mountain stations. Then I found ColdFusion in the beginning of 1995 and the the sites I built had dynamic content served from MS Access databases. Later I started to use mySQL and built my own hosted CMS that was easily updated by non-technical users. 
 
 ## The programmable web
@@ -26,7 +26,7 @@ Now there is a rich ecosystem of service providers for anything including forms,
  - **Versioning**, static-site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
 
 Static site generator are getting more popular and a view on Google Trends shows this:
- ![enter image description here][1]
+ enter image description here
 
 Interest over time. Web Search. Worldwide, 2004 to the present.
 
@@ -51,7 +51,7 @@ We also eat our own dog food and use it for everything possible. Keep your eye o
 We are using Hugo for fast site generation and GitHub for deploy. 
 
 
-  [1]: /images/statisgoole.png
+  [1]: https://res.cloudinary.com/appernetic/v1457306076/y8ylaazm8pet3nwpbffq
   [2]: https://pages.github.com/
   [3]: http://websitetest.com/
   [4]: /images/man-person-apple-iphone-opt.jpg
