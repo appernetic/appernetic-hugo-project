@@ -11,7 +11,7 @@ type = "post"
 
 +++
 ## Full circle
-![Hugo plus octocat][1]
+Hugo plus octocat
 Today we have come full circle with static site generators. A long time ago at the end of 1994 I built a static web site for the Swedish Tourist Association that contained hundreds of handcrafted html pages, it was quite advanced with a email to fax gateway that sent out bookings to remote mountain stations. Then I found ColdFusion in the beginning of 1995 and the the sites I built had dynamic content served from MS Access databases. Later I started to use mySQL and built my own hosted CMS that was easily updated by non-technical users. 
 
 ## The programmable web
@@ -26,7 +26,7 @@ Now there is a rich ecosystem of service providers for anything including forms,
  - **Versioning**, static-site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
 
 Static site generator are getting more popular and a view on Google Trends shows this:
- ![enter image description here][2]
+ ![enter image description here][1]
 
 Interest over time. Web Search. Worldwide, 2004 to the present.
 
@@ -34,7 +34,7 @@ Interest over time. Web Search. Worldwide, 2004 to the present.
 With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub and atomic deploy, auto save and theme cloning. 
 
 ## Why gitHub?
-You're probably wondering why the heck we are using GitHub. First of all GitHub use git which is a very good versioning system and they have [GitHub Pages][3] and you can use your own domain name and SSL (probably not the safest, but anyway its SSL!). Even if they only cache pages for 10 minutes and there are more cache misses then hits they have a fast CDN, Fastly.  I did a little unscientific performance test to see how it's really working out. All tests is done with [websitetest.com][4] from Berlin:
+You're probably wondering why the heck we are using GitHub. First of all GitHub use git which is a very good versioning system and they have [GitHub Pages][2] and you can use your own domain name and SSL (probably not the safest, but anyway its SSL!). Even if they only cache pages for 10 minutes and there are more cache misses then hits they have a fast CDN, Fastly.  I did a little unscientific performance test to see how it's really working out. All tests is done with [websitetest.com][3] from Berlin:
 
 1. https://appernetic.io/#/about, with Cloudflare CDN and SSL, Dynamic site, 4.7 MB, Time to Last Byte: **70 ms**
 2. https://appernetic.github.io/2016/02/10/firstpost/, with Fastly CDN and SSL, Static Blog Site 1.6 Mb, Time to Last Byte: **171 ms**
@@ -46,12 +46,12 @@ You're probably wondering why the heck we are using GitHub. First of all GitHub 
 
 We also eat our own dog food and use it for everything possible. Keep your eye on the blog where we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
 
-![working on computer pexels.com][5]
+![working on computer pexels.com][4]
 
 We are using Hugo for fast site generation and GitHub for deploy. 
 
-  [1]: /images/hugo-octocat.png
-  [2]: /images/statisgoole.png
-  [3]: https://pages.github.com/
-  [4]: http://websitetest.com/
-  [5]: /images/man-person-apple-iphone-opt.jpg
+
+  [1]: /images/statisgoole.png
+  [2]: https://pages.github.com/
+  [3]: http://websitetest.com/
+  [4]: /images/man-person-apple-iphone-opt.jpg
