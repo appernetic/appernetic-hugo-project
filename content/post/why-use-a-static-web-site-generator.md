@@ -46,7 +46,7 @@ You're probably wondering why the heck we are using GitHub. First of all GitHub 
 
 We also eat our own dog food and use it for everything possible. Keep your eye on the blog where we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
 
-working on computer pexels.com
+![working on computer pexels.com][5]
 
 We are using Hugo for fast site generation and GitHub for deploy. 
 
@@ -55,3 +55,4 @@ We are using Hugo for fast site generation and GitHub for deploy.
   [2]: https://res.cloudinary.com/appernetic/v1457306147/xm8rkllrfgr8xlznehix
   [3]: https://pages.github.com/
   [4]: http://websitetest.com/
+  [5]: https://res.cloudinary.com/appernetic/v1457306218/e3v66ludnvfweghdb91d
