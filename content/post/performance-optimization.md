@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2016-03-08T18:21:10Z"
+date = "2016-03-08T19:03:58Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key", "words"]
 tags = ["one", "two"]
 title = "Performance optimization"
@@ -10,7 +10,8 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-## Performance improvements
+
+## Performance improvements
 We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary's Akamai CDN.
 
 ## Speed Index
