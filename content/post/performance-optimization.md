@@ -26,9 +26,11 @@ Caching with CloudFlare is improving.
 ![Appernetic service, caching with CloudFlare][4]
 
 Pingdom test result logs
+![Pingdom test result logs for Appernetic service][5]
 
 
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
   [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
   [4]: https://res.cloudinary.com/appernetic/v1457461947/hzs05zxjzr8otv2nrvka
+  [5]: https://res.cloudinary.com/appernetic/v1457462179/ebgzsl3albw2qun5h4kb
