@@ -37,7 +37,6 @@ Appernetic service, caching with CloudFlare.
 ![Pingdom test result logs for Appernetic service][6]
 Pingdom test result logs.
 
-
 ![Response time diagram last 24 hours][7]
 Response time diagram last 24 hours.
 
