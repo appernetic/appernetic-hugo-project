@@ -28,6 +28,9 @@ Performance test from:
 
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. 
 
+![Response time diagram last 24 hours][7]
+Response time diagram last 24 hours.
+
 ![Pingdom test result logs for Appernetic service][6]
 Pingdom test result logs.
 
