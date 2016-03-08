@@ -30,7 +30,10 @@ Appernetic service, caching with CloudFlare.
 ![Pingdom test result logs for Appernetic service][5]
 Pingdom test result logs.
 
-Response time diagram last 24 hours:
+
+![Response time diagram last 24 hours][6]
+Response time diagram last 24 hours.
+
 
 
   [1]: http://www.webpagetest.org
@@ -38,3 +41,4 @@ Response time diagram last 24 hours:
   [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
   [4]: https://res.cloudinary.com/appernetic/v1457461947/hzs05zxjzr8otv2nrvka
   [5]: https://res.cloudinary.com/appernetic/v1457462179/ebgzsl3albw2qun5h4kb
+  [6]: https://res.cloudinary.com/appernetic/v1457462773/atscsb7z2qtr4cn8qid0
