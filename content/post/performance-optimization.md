@@ -10,13 +10,15 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary Akamai CDN.
+## 
+We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary Akamai CDN.
 
 We use [webpagetest][1] for our performance tests. As a measure of how one experiences the web page speed we use [Speed Index][2]. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on size of the view port. 
 
-![Speed Index Reference ][3]
+![Speed Index Reference Results][3]
 We are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get.
 
+Performance test from:
  - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: 1422
  - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: 2881
  - Singapore - EC2: http://www.webpagetest.org/result/160308_EC_166Y/  First View, Speed Index: 2884
