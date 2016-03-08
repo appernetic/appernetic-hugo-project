@@ -35,10 +35,9 @@ Pingdom test result logs.
 Response time diagram last 24 hours.
 
 
-
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
   [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
   [4]: https://res.cloudinary.com/appernetic/v1457461947/hzs05zxjzr8otv2nrvka
-  [5]: https://res.cloudinary.com/appernetic/v1457462179/ebgzsl3albw2qun5h4kb
+  [5]: https://res.cloudinary.com/appernetic/v1457463057/rbouqv8jnwpfsadjssgk
   [6]: https://res.cloudinary.com/appernetic/v1457462773/atscsb7z2qtr4cn8qid0
