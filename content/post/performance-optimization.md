@@ -26,6 +26,7 @@ Caching with CloudFlare is improving.
 ![Appernetic service, caching with CloudFlare][4]
 
 
+
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
   [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
