@@ -37,9 +37,6 @@ Caching with CloudFlare is improving. Once the cache has been properly warmed up
 ![Appernetic service, caching with CloudFlare][5]
 Appernetic service, caching with CloudFlare.
 
-![Response time diagram last 24 hours][7]
-Response time diagram last 24 hours.
-
 
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
