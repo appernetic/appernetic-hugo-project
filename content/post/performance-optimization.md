@@ -25,6 +25,7 @@ Our uptime monitoring with Pingdom also shows that the we are on the [right trac
 Caching with CloudFlare is improving. 
 ![Appernetic service, caching with CloudFlare][4]
 
+Pingdom test result logs
 
 
   [1]: http://www.webpagetest.org
