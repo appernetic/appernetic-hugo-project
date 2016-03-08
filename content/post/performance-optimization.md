@@ -20,6 +20,7 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
 We are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get.
 
 Performance test from:
+
  - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: 1422
 
  - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: 2881
