@@ -1,5 +1,5 @@
 +++
-author = "author"
+author = "Göran Svensson"
 date = "2016-03-08T19:03:58Z"
 description = "We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary's Akamai CDN."
 draft = false
