@@ -28,14 +28,14 @@ Performance test from:
 
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. 
 
+![Pingdom test result logs for Appernetic service][6]
+Pingdom test result logs.
+
 ## Caching
 Caching with CloudFlare is improving. Once the cache has been properly warmed up, it will even be better than this.
 
 ![Appernetic service, caching with CloudFlare][5]
 Appernetic service, caching with CloudFlare.
-
-![Pingdom test result logs for Appernetic service][6]
-Pingdom test result logs.
 
 ![Response time diagram last 24 hours][7]
 Response time diagram last 24 hours.
