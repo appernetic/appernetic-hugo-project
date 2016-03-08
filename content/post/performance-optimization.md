@@ -22,7 +22,7 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
 
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][3]. 
 
-Caching with CloudFlare is improving. When the cache has been warmed up it will even be better then this.
+Caching with CloudFlare is improving. When the cache has been properly warmed up it will even be better then this.
 ![Appernetic service, caching with CloudFlare][4]
 
 Pingdom test result logs
