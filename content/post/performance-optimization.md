@@ -20,10 +20,12 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
  - Brussels, BE: http://www.webpagetest.org/result/160308_NP_162K/ First View, Speed Index: 2408
  - Frankfurt, DE: http://www.webpagetest.org/result/160308_RX_6P2/  First View, Speed Index: 3759
 
-Our uptime monitoring with Pingdom also shows that the we are on the right track now: http://stats.pingdom.com/r7vt9tv6brq8/2014082
+Our uptime monitoring with Pingdom also shows that the we are on the [right track now][3]. 
 
 Caching with CloudFlare is improving. 
 
 
+
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
+  [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
