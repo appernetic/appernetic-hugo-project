@@ -23,9 +23,10 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][3]. 
 
 Caching with CloudFlare is improving. 
-
+![Appernetic service, caching with CloudFlare][4]
 
 
   [1]: http://www.webpagetest.org
   [2]: https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
   [3]: http://stats.pingdom.com/r7vt9tv6brq8/2014082
+  [4]: https://res.cloudinary.com/appernetic/v1457461947/hzs05zxjzr8otv2nrvka
