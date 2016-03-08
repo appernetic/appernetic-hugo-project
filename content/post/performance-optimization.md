@@ -11,7 +11,7 @@ type = "post"
 
 +++
 ## Performance improvements
-We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary's Akamai CDN.
+We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary's Akamai CDN. Every javascript file is compressed and minified. 
 
 ## Speed Index
 We use [webpagetest][1] for our performance tests. As a measure of how one experiences the web page speed we use [Speed Index][2]. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on size of the view port. 
