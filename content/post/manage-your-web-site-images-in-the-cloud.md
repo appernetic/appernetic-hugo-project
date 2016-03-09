@@ -18,7 +18,8 @@ When you upload your image to your article in the PageDown editor it will be sen
 ## Setup your account
 Start by signing up to [Cloudinary][1]. In the dashboard under the headline Account details you have the **Cloud name**, that you need to add in the Appernetic user settings. 
 
-![Cloud na][2]
+![Cloud name in the dashboard ][2]
+Cloud name settings in the dashboad.
 
 Now to create a **Upload preset**  click Settings down to the left in the dashboard, select the Upload tab and scroll down to Upload Presets and configure it.
 
