@@ -41,7 +41,7 @@ Front page performance test from:
  - Dulles, VA - Thinkpad T430: http://www.webpagetest.org/result/160309_PX_87N/  First view, Speed Index: 900
  - Frankfurt, DE: http://www.webpagetest.org/result/160309_GG_8DS/ First view, Speed Index: 1309
 
-Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. 
+Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. For the front page we now have 92/100
 
 ![Response time diagram last 24 hours][7]
 Response time diagram last 24 hours.
