@@ -21,14 +21,10 @@ We have now also separated the routes for the front page and the Angular app. Th
 
 Angular app performance test from:
 
- - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: 1422
-
- - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: 2881
-
- - Singapore - EC2: http://www.webpagetest.org/result/160308_EC_166Y/  First View, Speed Index: 2884
-
+ - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: **1422**
+ - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: **2881**
+ - Singapore - EC2: http://www.webpagetest.org/result/160308_EC_166Y/  First View, Speed Index: **2884**
  - Brussels, BE: http://www.webpagetest.org/result/160308_NP_162K/ First View, Speed Index: 2408
-
  - Frankfurt, DE: http://www.webpagetest.org/result/160308_RX_6P2/  First View, Speed Index: 3759
 
 Front page performance test from:
@@ -47,7 +43,7 @@ Our uptime monitoring with Pingdom also shows that the we are on the [right trac
 Response time diagram last 24 hours for the Angular app.
 
 ![Pingdom test result logs for the Angular app (Appernetic service)][6]
-Pingdom test result logs.
+Pingdom test result logs for the Angular app (Appernetic service).
 
 ## Caching
 Caching with CloudFlare is improving. Once the cache has been properly warmed up, it will even be better than this.
