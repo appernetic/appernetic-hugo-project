@@ -23,7 +23,11 @@ Configure upload presets.
 
 To be able to list images you need to unmark resource list in security settings.
 
- 
+![Unmark resource list][3] 
+Unmark resource list in security settings.
+
+
 
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
   [2]: https://res.cloudinary.com/appernetic/v1457538951/s4jzrkhlauoororjskki
+  [3]: https://res.cloudinary.com/appernetic/v1457539163/ybd0y47g0ojzsshvdfd4
