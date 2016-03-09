@@ -16,7 +16,10 @@ Cloudinary is a cloud service that offers a solution to a web application's enti
 When you upload your image to your article in the PageDown editor it will be sent to your Cloudinary account where you can use the web interface to interactively manage your media library. 
 
 ## Setup your account
-Start by signing up to [Cloudinary][1]. In the dashboard under the headline Account details you have the **Cloud name**, that you need to add in the Appernetic user settings. Now to create a **Upload preset**  click Settings down to the left in the dashboard, select the Upload tab and scroll down to Upload Presets. 
+Start by signing up to [Cloudinary][1]. In the dashboard under the headline Account details you have the **Cloud name**, that you need to add in the Appernetic user settings. Now to create a **Upload preset**  click Settings down to the left in the dashboard, select the Upload tab and scroll down to Upload Presets and configure it.
+
+![Configure upload preset][2]
 
 
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
+  [2]: https://res.cloudinary.com/appernetic/v1457538951/s4jzrkhlauoororjskki
