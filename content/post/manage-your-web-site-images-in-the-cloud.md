@@ -38,7 +38,8 @@ Now all should be configured at Cloudinary! Don't forget to verify your account 
 ![Appernetic cloudinary settings.][5]
 Add your Cloudinary settings to your Appernetic account. 
 
-Continue with your 
+
+Continue with your content strategy, now with a new tool in your arsenal!
 
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
   [2]: https://res.cloudinary.com/appernetic/v1457539317/mgwu3dyjasovzrq7risa
