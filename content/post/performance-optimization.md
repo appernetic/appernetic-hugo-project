@@ -19,7 +19,7 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
 ![Speed Index Reference Results][3]
 We have now also separated the routes for the front page and the Angular app. The Angular app are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
 
-Angular app (Appernetic Static Sit) performance test from:
+Angular app (Appernetic Static Site Generator) performance test from:
  - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: **1422**
  - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: **2881**
  - Singapore - EC2: http://www.webpagetest.org/result/160308_EC_166Y/  First View, Speed Index: **2884**
@@ -32,7 +32,7 @@ Front page performance test from:
  - Sydney, Australia (Servers Australia) http://www.webpagetest.org/result/160309_04_6GN/ First view, Speed Index: **1600**
  - Johannesburg, South Africa http://www.webpagetest.org/result/160309_MC_6GQ/ First view, Speed Index: **1305**
  - Seoul, Korea EC2 http://www.webpagetest.org/result/160309_85_6GZ/ First view, Speed Index: **1519**
- - San Francisco, CA USA - Yottaa: http://www.webpagetest.org/result/160309_1S_83M/ First view, Speed Index: 1672
+ - San Francisco, CA USA - Yottaa: http://www.webpagetest.org/result/160309_1S_83M/ First view, Speed Index: **1672**
  - Dulles, VA - Thinkpad T430: http://www.webpagetest.org/result/160309_PX_87N/  First view, Speed Index: **900**
  - Frankfurt, DE: http://www.webpagetest.org/result/160309_GG_8DS/ First view, Speed Index: **1309**
 
