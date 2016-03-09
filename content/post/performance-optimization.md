@@ -35,7 +35,12 @@ Front page performance test from:
  - Amsterdam: http://www.webpagetest.org/result/160309_E3_6HP/ First view, Speed Index: 600
  - Singapore: http://www.webpagetest.org/result/160309_DG_6HB/ First view, Speed Index: 769
  - Sydney, Australia (Servers Australia) http://www.webpagetest.org/result/160309_04_6GN/ First view, Speed Index: 1600
- - 
+ - Johannesburg, South Africa http://www.webpagetest.org/result/160309_MC_6GQ/ First view, Speed Index: 1305
+ - Seoul, Korea EC2 http://www.webpagetest.org/result/160309_85_6GZ/ First view, Speed Index: 1519
+ - San Francisco, CA USA - Yottaa: http://www.webpagetest.org/result/160309_1S_83M/ First view, Speed Index: 1672
+ - Dulles, VA - Thinkpad T430: http://www.webpagetest.org/result/160309_PX_87N/  First view, Speed Index: 900
+ - Frankfurt, DE: http://www.webpagetest.org/result/160309_GG_8DS/ First view, Speed Index: 1309
+
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. 
 
 ![Response time diagram last 24 hours][7]
