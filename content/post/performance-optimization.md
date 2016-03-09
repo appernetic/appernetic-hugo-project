@@ -32,6 +32,9 @@ Angular app performance test from:
  - Frankfurt, DE: http://www.webpagetest.org/result/160308_RX_6P2/  First View, Speed Index: 3759
 
 Front page performance test from:
+ - Amsterdam: http://www.webpagetest.org/result/160309_E3_6HP/ First view, Speed Index: 600
+ - Singapore: http://www.webpagetest.org/result/160309_DG_6HB/ First view, Speed Index: 769
+ - Sydney, Australia (Servers Australia) http://www.webpagetest.org/result/160309_04_6GN/ First view, Speed Index: 1600
  - 
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. 
 
