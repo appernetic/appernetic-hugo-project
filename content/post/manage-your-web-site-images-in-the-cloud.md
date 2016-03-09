@@ -10,4 +10,4 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-
+Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline.
