@@ -16,4 +16,4 @@ Cloudinary is a cloud service that offers a solution to a web application's enti
 When you upload your image to your article in the PageDown editor it will be sent to your Cloudinary account where you can use the web interface to interactively manage your media library. 
 
 ## Setup your account
-Start by creating a
+Start by signing up to Cloudinary
