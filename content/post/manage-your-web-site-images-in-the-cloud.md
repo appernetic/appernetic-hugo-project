@@ -33,8 +33,11 @@ Unmark resource list in security settings.
 
 Now all should be configured at Cloudinary! Don't forget to verify your account otherwise it will be disabled. Now the last thing to do is add the information to your Apernetic settings.
 
+![Appernetic cloudinary settings.][5]
+
 
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
   [2]: https://res.cloudinary.com/appernetic/v1457539317/mgwu3dyjasovzrq7risa
   [3]: https://res.cloudinary.com/appernetic/v1457538951/s4jzrkhlauoororjskki
   [4]: https://res.cloudinary.com/appernetic/v1457539163/ybd0y47g0ojzsshvdfd4
+  [5]: https://res.cloudinary.com/appernetic/v1457539785/yglkvrt4wjhns4xtmzwi
