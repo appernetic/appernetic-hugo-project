@@ -19,14 +19,14 @@ When you upload your image to your article in the PageDown editor it will be sen
 Start by signing up to [Cloudinary][1]. In the dashboard under the headline Account details you have the **Cloud name**, that you need to add in the Appernetic user settings. 
 
 ![Cloud name in the dashboard ][2]
-Cloud name settings in the dashboad.
+Cloud name settings in the dashboard.
 
-Now to create a **Upload preset**  click Settings down to the left in the dashboard, select the Upload tab and scroll down to Upload Presets and configure it.
+Now to create a **Upload preset**  click Settings down to the left in the dashboard, select the Upload tab and scroll down to Upload Presets and configure a unsigned upload preset.
 
 ![Configure upload presets][3]
-Configure upload presets.
+Configure unsigned upload presets.
 
-To be able to list images you need to unmark resource list in security settings.
+To be able to list images you also need to unmark resource list in security settings.
 
 ![Unmark resource list][4] 
 Unmark resource list in security settings.
