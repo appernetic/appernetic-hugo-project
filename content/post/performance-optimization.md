@@ -17,7 +17,7 @@ We have made significant performance improvements of our service and have dug de
 We use [webpagetest][1] for our performance tests. As a measure of how one experiences the web page speed we use [Speed Index][2]. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on size of the view port. 
 
 ![Speed Index Reference Results][3]
-We have now also separated the routes for the front page and the Angular app. The Angular app are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 
+We have now also separated the routes for the front page and the Angular app. The Angular app are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
 
 Performance test from:
 
