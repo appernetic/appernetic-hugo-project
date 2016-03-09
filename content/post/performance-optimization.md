@@ -44,9 +44,9 @@ Front page performance test from:
 Our uptime monitoring with Pingdom also shows that the we are on the [right track now][4]. For the front page we now have performance grade 92 of 100. Google PageSpeed Insights shows 67 of 100 for mobile devices and 87 of 100 for computers. 
 
 ![Response time diagram last 24 hours][7]
-Response time diagram last 24 hours.
+Response time diagram last 24 hours for the Angular app.
 
-![Pingdom test result logs for Appernetic service][6]
+![Pingdom test result logs for the Angular app (Appernetic service)][6]
 Pingdom test result logs.
 
 ## Caching
