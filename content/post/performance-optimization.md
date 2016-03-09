@@ -20,6 +20,7 @@ We use [webpagetest][1] for our performance tests. As a measure of how one exper
 We have now also separated the routes for the front page and the Angular app. The Angular app are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
 
 Angular app (Appernetic Static Site Generator) performance test from:
+
  - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: **1422**
 
  - San Francisco, CA USA - Yottaa:  http://www.webpagetest.org/result/160308_YB_15ZA/  First View, Speed Index: **2881**
@@ -30,7 +31,9 @@ Angular app (Appernetic Static Site Generator) performance test from:
 
  - Frankfurt, DE: http://www.webpagetest.org/result/160308_RX_6P2/  First View, Speed Index: **3759**
 
+
 Front page performance test from:
+
  - Amsterdam: http://www.webpagetest.org/result/160309_E3_6HP/ First view, Speed Index: **600**
 
  - Singapore: http://www.webpagetest.org/result/160309_DG_6HB/ First view, Speed Index: **769**
