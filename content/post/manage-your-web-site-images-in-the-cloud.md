@@ -38,6 +38,8 @@ Now all should be configured at Cloudinary! Don't forget to verify your account 
 ![Appernetic cloudinary settings.][5]
 Add your Cloudinary settings to your Appernetic account. 
 
+Continue with your 
+
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
   [2]: https://res.cloudinary.com/appernetic/v1457539317/mgwu3dyjasovzrq7risa
   [3]: https://res.cloudinary.com/appernetic/v1457538951/s4jzrkhlauoororjskki
