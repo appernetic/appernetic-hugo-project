@@ -31,7 +31,9 @@ To be able to list images you also need to unmark resource list in security sett
 ![Unmark resource list][4] 
 Unmark resource list in security settings.
 
-Now all should be configured! Don't forget to verify your account otherwise it will be disabled
+Now all should be configured at Cloudinary! Don't forget to verify your account otherwise it will be disabled. Now the last thing to do is add the information to your Apernetic settings.
+
+
   [1]: https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/csv1uzzgc8ei8ww3ijtf
   [2]: https://res.cloudinary.com/appernetic/v1457539317/mgwu3dyjasovzrq7risa
   [3]: https://res.cloudinary.com/appernetic/v1457538951/s4jzrkhlauoororjskki
