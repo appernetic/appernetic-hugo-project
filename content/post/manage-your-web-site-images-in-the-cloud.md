@@ -11,4 +11,6 @@ type = "post"
 
 +++
 ## Cloudinary
-Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline. Easily upload images to the cloud. Automatically perform smart image resizing, cropping and conversion without installing any complex software.
+Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline. Easily upload images to the cloud. Automatically perform smart image resizing, cropping and conversion without installing any complex software. 
+
+When you upload
