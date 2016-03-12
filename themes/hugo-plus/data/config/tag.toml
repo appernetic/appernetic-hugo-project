@@ -1,9 +1,0 @@
-name = "Tags"
-taxonomy = "tags"
-disabled = []
-[templates]
-[metadata]
-	date = false
-	author = false
-	series = false
-
