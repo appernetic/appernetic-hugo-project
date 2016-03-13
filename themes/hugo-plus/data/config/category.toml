@@ -1,8 +1,0 @@
-name = "Categories"
-taxonomy = "categories"
-disabled = []
-[metadata]
-	date = false
-	author = false
-	series = false
-

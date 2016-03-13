@@ -1,4 +1,0 @@
-is_taxonomy = false
-[components]
-	disabled = ["jumbotron","carousel","about_author",]
-
