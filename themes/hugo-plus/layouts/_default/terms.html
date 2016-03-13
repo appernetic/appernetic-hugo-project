@@ -1,0 +1,19 @@
+{{ $site := .Site.Data.config.site }}
+{{ $section := or (index .Site.Data.config (or .Section (or .Data.Singular (.Title|lower)))) .Params }}
+{{ $layout := (index .Site.Data.addons (or .Params.layout (or $section.layout (or $site.layout "default")))).layout }}
+
+{{ partial "header.html" . }}
+
+{{ if $layout.template }}
+	{{ partial (print "layouts/" $layout.template) . }}
+{{ else }}
+{{ $layoutName := or (and (ne .Title .Site.Title) .Params.layout) (or $section.layout (or $site.layout "default")) }}
+	<h3>In Layout "{{ $layoutName }}", failed to find template "{{ $layout.template }}"</h3>
+	<p>
+		The template is defined within '/data/layouts/{{ $layoutName }}.toml'
+		Layouts are stored relative to the 'layouts/partials/' directory.
+	</p>
+{{ end }}
+
+{{ partial "footer.html" . }}
+

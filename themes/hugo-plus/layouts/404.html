@@ -1,0 +1,16 @@
+{{ $site := .Site.Data.config.site }}
+{{ $section := or $site $site }}
+{{ $layout := (index .Site.Data.addons (or .Params.layout (or $section.layout (or $site.layout "default")))).layout }}
+
+{{ $.Scratch.Set "is404" true }}
+
+{{ partial "header.html" . }}
+
+{{ if $layout.error_404_layout }}
+	{{ partial (print "layouts/" $layout.error_404_layout) . }}
+{{ else }}
+	{{ partial (print "layouts/" $layout.template) . }}
+{{ end }}
+
+{{ partial "footer.html" . }}
+

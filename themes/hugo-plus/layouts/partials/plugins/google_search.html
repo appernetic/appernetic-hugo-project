@@ -1,0 +1,52 @@
+<!--
+Create your own custom google search [here](https://www.google.com/cse/create/new).
+Once done, to get this plugin working you'll need to:
+	* Go to "Control Panel" and then "Search engine ID" and Copy the ID
+	* Set the `google_search` within 'data/profiles.toml' under the section
+		you want this applied to (or 'default' to apply site-wide). 
+You can also create a second widget with a dark theme, and set the id to 
+	'google_search_dark'.
+-->
+{{ $site := .Site.Data.config.site }}
+{{ $section := or (index .Site.Data.config (or .Section (or .Data.Singular (.Title|lower)))) .Params }}
+{{ $profiles := or (index .Site.Data.profiles $section.name) .Site.Data.profiles.site }}
+{{ $theme := (index .Site.Data.addons (or .Params.theme (or $section.theme $site.theme))).theme }}
+
+{{ $id := or (and $theme.is_dark (or $.Params.profiles.google_search_dark $profiles.google_search_dark)) (or .Params.profiles.google_search $profiles.google_search) }}
+
+
+{{ with $id }}
+<script>
+  (function() {
+    var cx = '{{ . }}';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+{{ end }}
+
+
+<style>
+	#___gcse_0 { margin:0px 0px 15px; }
+	.gsc-control-cse {
+		padding:5px 15px 5px 15px !important;
+		border-radius:3px !important;
+	}
+	.gsc-search-box-tools { margin:0px !important; }
+	.gsc-search-button-v2 {
+		padding:5px 20px !important;
+		min-width:55px !important;
+		min-height:25px !important;
+	}
+	input[class="gsc-input"] { line-height:1; background:none !important; }
+	#gsc-i-id1 { color:{{ if $theme.is_dark }}white{{ else }}black{{ end }}; }
+</style>
+
+
+
