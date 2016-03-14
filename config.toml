@@ -43,7 +43,7 @@ disqusShortname = "appernetic"
 # All parameters below here are optional and can be mixed and matched.
 #
 [params.theme]
-  name = "paper"
+  name = "default"
 [params]
     # You can use markdown here.
     brand = "Appernetic"
