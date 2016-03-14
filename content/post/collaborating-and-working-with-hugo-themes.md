@@ -72,7 +72,7 @@ Tip, skip the first headline in the post (at least in hugo-bootstrap it will be 
 
 
   [1]: https://res.cloudinary.com/appernetic/v1457304135/pig3qgwntchbkk0x9tab
-  [2]: https://github.com/appernetic/hugo-bootstrap.git
+  [2]: https://github.com/appernetic/hugo-bootstrap-mod.git
   [3]: http://themes.gohugo.io/
   [4]: http://themes.gohugo.io/
   [5]: https://appernetic.io
