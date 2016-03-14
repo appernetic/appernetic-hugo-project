@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Appernetic.io</title>
-    <link>/</link>
-    <description>Recent content on Appernetic.io</description>
+    <title>Icarus</title>
+    <link>http://www.yourdomain.com/</link>
+    <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>support@appernetic.io (Admin)</managingEditor>
-    <webMaster>support@appernetic.io (Admin)</webMaster>
-    <copyright>(c) 2016 Appernetic.io</copyright>
+    <language>en-us</language>
     <lastBuildDate>Wed, 09 Mar 2016 14:28:30 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Manage your web site images in the cloud</title>
-      <link>/2016/03/09/manage-your-web-site-images-in-the-cloud/</link>
+      <link>http://www.yourdomain.com/2016/03/09/manage-your-web-site-images-in-the-cloud</link>
       <pubDate>Wed, 09 Mar 2016 14:28:30 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/2016/03/09/manage-your-web-site-images-in-the-cloud/</guid>
+      
+      <guid>http://www.yourdomain.com/2016/03/09/manage-your-web-site-images-in-the-cloud</guid>
       <description>
 
 &lt;h2 id=&#34;cloudinary:9bd471ef0ef2a66fa50897ac50a9df0a&#34;&gt;Cloudinary&lt;/h2&gt;
@@ -57,17 +54,17 @@ Continue with your content strategy, now with a new tool in your arsenal!&lt;/p&
     
     <item>
       <title>Performance optimization</title>
-      <link>/2016/03/08/performance-optimization/</link>
+      <link>http://www.yourdomain.com/2016/03/08/performance-optimization</link>
       <pubDate>Tue, 08 Mar 2016 19:03:58 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/2016/03/08/performance-optimization/</guid>
+      
+      <guid>http://www.yourdomain.com/2016/03/08/performance-optimization</guid>
       <description>
 
-&lt;h2 id=&#34;performance-improvements&#34;&gt;Performance improvements&lt;/h2&gt;
+&lt;h2 id=&#34;performance-improvements:3c9c8d3358db586236c8bc0e9810f67f&#34;&gt;Performance improvements&lt;/h2&gt;
 
 &lt;p&gt;We have made significant performance improvements of our service and have dug deep into everything on the client and server side. All images is now sent with Cloudinary&amp;rsquo;s Akamai CDN including the favicon, and every css, html and Javascript file is compressed and minified.&lt;/p&gt;
 
-&lt;h2 id=&#34;speed-index&#34;&gt;Speed Index&lt;/h2&gt;
+&lt;h2 id=&#34;speed-index:3c9c8d3358db586236c8bc0e9810f67f&#34;&gt;Speed Index&lt;/h2&gt;
 
 &lt;p&gt;We use &lt;a href=&#34;http://www.webpagetest.org&#34;&gt;webpagetest&lt;/a&gt; for our performance tests. As a measure of how one experiences the web page speed we use &lt;a href=&#34;https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index&#34;&gt;Speed Index&lt;/a&gt;. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on size of the view port.&lt;/p&gt;
 
@@ -116,7 +113,7 @@ Response time diagram last 24 hours for the Angular app.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457463057/rbouqv8jnwpfsadjssgk&#34; alt=&#34;Pingdom test result logs for the Angular app (Appernetic service)&#34; /&gt;
 Pingdom test result logs for the Angular app (Appernetic service).&lt;/p&gt;
 
-&lt;h2 id=&#34;caching&#34;&gt;Caching&lt;/h2&gt;
+&lt;h2 id=&#34;caching:3c9c8d3358db586236c8bc0e9810f67f&#34;&gt;Caching&lt;/h2&gt;
 
 &lt;p&gt;Caching with CloudFlare is improving. Once the cache has been properly warmed up, it will even be better than this.&lt;/p&gt;
 
@@ -127,13 +124,13 @@ Appernetic service, caching with CloudFlare.&lt;/p&gt;
     
     <item>
       <title>Collaborating and working with hugo themes</title>
-      <link>/2016/02/18/collaborating-and-working-with-hugo-themes/</link>
+      <link>http://www.yourdomain.com/2016/02/18/collaborating-and-working-with-hugo-themes</link>
       <pubDate>Thu, 18 Feb 2016 20:27:25 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/2016/02/18/collaborating-and-working-with-hugo-themes/</guid>
+      
+      <guid>http://www.yourdomain.com/2016/02/18/collaborating-and-working-with-hugo-themes</guid>
       <description>
 
-&lt;h2 id=&#34;customizing-themes&#34;&gt;Customizing themes&lt;/h2&gt;
+&lt;h2 id=&#34;customizing-themes:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Customizing themes&lt;/h2&gt;
 
 &lt;p&gt;If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue &lt;strong&gt;Preview&lt;/strong&gt; button to the right.&lt;/p&gt;
 
@@ -141,7 +138,7 @@ Appernetic service, caching with CloudFlare.&lt;/p&gt;
 
 &lt;p&gt;You can start by cloning my customized &lt;a href=&#34;https://github.com/appernetic/hugo-bootstrap-mod.git&#34;&gt;hugo-bootstrap theme&lt;/a&gt; or get one from &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and change the settings as you would like to have it.&lt;/p&gt;
 
-&lt;p&gt;You can change the bootswatch to another design by changing the theme = &amp;laquo;paper&amp;raquo; under [params].&lt;/p&gt;
+&lt;p&gt;You can change the bootswatch to another design by changing the theme = &amp;ldquo;paper&amp;rdquo; under [params].&lt;/p&gt;
 
 &lt;p&gt;Here is the different bootswatch designs you can use:&lt;/p&gt;
 
@@ -181,7 +178,7 @@ not have to think about it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457304455/tdsbe75348lm3dxa1csw&#34; alt=&#34;GitHub Desktop app&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;collaborating&#34;&gt;Collaborating&lt;/h2&gt;
+&lt;h2 id=&#34;collaborating:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Collaborating&lt;/h2&gt;
 
 &lt;p&gt;Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a &lt;strong&gt;Sync&lt;/strong&gt; again in Appernetic and then a &lt;strong&gt;Publish&lt;/strong&gt; and after 10 min all is live on &lt;a href=&#34;https://appernetic.github.io/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
 
@@ -191,7 +188,7 @@ GitHub so I can invite a real front end designer to have a look at my
 attempts to customize the theme.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;start-blogging&#34;&gt;Start blogging!&lt;/h2&gt;
+&lt;h2 id=&#34;start-blogging:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Start blogging!&lt;/h2&gt;
 
 &lt;p&gt;From now on it is very easy to start blogging. Select the &lt;strong&gt;post&lt;/strong&gt; directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select &lt;em&gt;toml&lt;/em&gt; or &lt;em&gt;yaml&lt;/em&gt; front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to &lt;strong&gt;undraft&lt;/strong&gt; the post if you would like to see it after publishing and  add key words, tags and topics.&lt;/p&gt;
 
@@ -205,21 +202,21 @@ attempts to customize the theme.&lt;/p&gt;
     
     <item>
       <title>Test</title>
-      <link>/test/</link>
+      <link>http://www.yourdomain.com/test/</link>
       <pubDate>Thu, 11 Feb 2016 10:42:36 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/test/</guid>
+      
+      <guid>http://www.yourdomain.com/test/</guid>
       <description>&lt;p&gt;test
-&lt;img src=&#34;/images/The_Payment_of_the_Tithes_Bonhams.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://www.yourdomain.com/images/The_Payment_of_the_Tithes_Bonhams.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Why use a static web site generator?</title>
-      <link>/2016/02/10/why-use-a-static-web-site-generator/</link>
+      <link>http://www.yourdomain.com/2016/02/10/why-use-a-static-web-site-generator</link>
       <pubDate>Wed, 10 Feb 2016 19:50:09 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/2016/02/10/why-use-a-static-web-site-generator/</guid>
+      
+      <guid>http://www.yourdomain.com/2016/02/10/why-use-a-static-web-site-generator</guid>
       <description>
 
 &lt;h2 id=&#34;full-circle:f405389e24819888f4339a200bcc1557&#34;&gt;Full circle&lt;/h2&gt;

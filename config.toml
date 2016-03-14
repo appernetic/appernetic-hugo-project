@@ -1,93 +1,79 @@
-baseurl = "http://www.yourdomain.com/"
-languageCode = "en-us"
-title = "Icarus"
-# Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-# Define the number of posts per site
-paginate = 10
-footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "http://www.example.com"
 
+# Site title
+title = "sitename"
+
+# Copyright
+copyright = "(c) 2015 yourname."
+
+# Language
+languageCode = "en-EN"
+
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+# theme = "hugo-bootstrap"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "your_disqus_shortname"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
 
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
 
-[params]
-    # Tell me who you are
-    author = "John Doe"
-    bio = "Blogger - Programmer - Gopher"
-    location = "Earth"
-    site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "css/images/avatar.png"
+[author]
+    name = "yourname"
+    email = "yourname@example.com"
 
-    # Format dates with Go's time formatting
-    date_format = "2006-01-02"
-
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
 #
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-[[params.menu]]
-    before = true
-    label  = "Home"
-    link   = "/"
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = "foobar"
+    topline = "few words about your site"
+    footline = "code with <i class='fa fa-heart'></i>"
 
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
 
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
 
-# Enter a link for the follow button on the left
-[params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
 
+    # Sidebar social links.
+    github = "enten/hugo-boilerplate" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
 
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# create automatically.
-    github          = "digitalcraftsman"
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = ""
-    slideshare      = ""
-    stackoverflow   = ""
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = ""
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "spf13"
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []

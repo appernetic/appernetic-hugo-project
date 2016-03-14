@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloudinary on Appernetic.io</title>
-    <link>/tags/cloudinary/</link>
-    <description>Recent content in Cloudinary on Appernetic.io</description>
+    <title>Cloudinary on Icarus</title>
+    <link>http://www.yourdomain.com/tags/cloudinary/</link>
+    <description>Recent content in Cloudinary on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>support@appernetic.io (Admin)</managingEditor>
-    <webMaster>support@appernetic.io (Admin)</webMaster>
-    <copyright>(c) 2016 Appernetic.io</copyright>
+    <language>en-us</language>
     <lastBuildDate>Wed, 09 Mar 2016 14:28:30 +0000</lastBuildDate>
-    <atom:link href="/tags/cloudinary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.yourdomain.com/tags/cloudinary/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Manage your web site images in the cloud</title>
-      <link>/2016/03/09/manage-your-web-site-images-in-the-cloud/</link>
+      <link>http://www.yourdomain.com/2016/03/09/manage-your-web-site-images-in-the-cloud</link>
       <pubDate>Wed, 09 Mar 2016 14:28:30 +0000</pubDate>
-      <author>support@appernetic.io (Admin)</author>
-      <guid>/2016/03/09/manage-your-web-site-images-in-the-cloud/</guid>
+      
+      <guid>http://www.yourdomain.com/2016/03/09/manage-your-web-site-images-in-the-cloud</guid>
       <description>
 
 &lt;h2 id=&#34;cloudinary:9bd471ef0ef2a66fa50897ac50a9df0a&#34;&gt;Cloudinary&lt;/h2&gt;
