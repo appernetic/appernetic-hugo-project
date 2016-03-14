@@ -28,6 +28,6 @@ public/
 .DS_Store
 ```
 
-That's all for now, happy static blogging :)
+That's all for now, happy static blogging :-)
 
   [1]: https://res.cloudinary.com/appernetic/v1457939591/c25ymnmuqsfsmqjkk52b
