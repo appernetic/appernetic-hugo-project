@@ -1,79 +1,93 @@
-# hostname (and path) to the root eg. http://spf13.com/
-baseurl = "/"
-
-# Site title
-title = "Appernetic.io"
-
-# Copyright
-copyright = "(c) 2016 Appernetic.io"
-
-# Language
-languageCode = "en-EN"
-
-# SES friendly url:s
-canonifyurls = true
-
-# Frontmatter format
-# "yaml", "toml", "json"
-metaDataFormat = "toml"
-
-# Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap"
-
-# Pagination
+baseurl = "http://www.yourdomain.com/"
+languageCode = "en-us"
+title = "Icarus"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "spf13"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# Define the number of posts per site
 paginate = 10
-paginatePath = "page"
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
 
-# Enable Disqus integration
-disqusShortname = "appernetic"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
-    code = "/:slug/"
+    post = "/:year/:month/:day/:slug"
 
-[taxonomies]
-    tag = "tags"
-    topic = "topics"
 
-[author]
-    name = "Admin"
-    email = "support@appernetic.io"
-
-#
-# All parameters below here are optional and can be mixed and matched.
-#
 [params]
-    # You can use markdown here.
-    brand = "Appernetic"
-    topline = "A Static Site Generator as a Service"
-    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
-    theme = "paper"
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    home = "https://appernetic.io"
+    # Tell me who you are
+    author = "John Doe"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Earth"
+    site_description = ""
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    avatar = "css/images/avatar.png"
 
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "default"
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
 
-    # Google Analytics.
-    googleAnalytics = "UA-73770938-2"
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
 
-    # Sidebar social links.
-    github = "appernetic" # Your Github profile ID
-    bitbucket = "" # Your Bitbucket profile ID
-    linkedin = "" # Your LinkedIn profile ID (from public URL)
-    googleplus = "" # Your Google+ profile ID
-    facebook = "appernetic" # Your Facebook profile ID
-    twitter = "Appernetic" # Your Twitter profile ID
-    youtube = ""  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
 
-[blackfriday]
-    angledQuotes = true
-    fractions = false
-    hrefTargetBlank = false
-    latexDashes = true
-    plainIdAnchors = true
-    extensions = []
-    extensionmask = []
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://github.com/digitalcraftsman"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "digitalcraftsman"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "spf13"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
