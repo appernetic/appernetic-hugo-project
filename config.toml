@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "/"
+baseurl = "http://www.example.com"
 
 # Site title
-title = "Appernetic.io"
+title = "sitename"
 
 # Copyright
-copyright = "(c) 2016 Appernetic.io"
+copyright = "(c) 2015 yourname."
 
 # Language
 languageCode = "en-EN"
@@ -18,14 +18,14 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap"
+# theme = "hugo-bootstrap"
 
 # Pagination
 paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "appernetic"
+disqusShortname = "your_disqus_shortname"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -36,40 +36,36 @@ disqusShortname = "appernetic"
     topic = "topics"
 
 [author]
-    name = "Admin"
-    email = "support@appernetic.io"
+    name = "yourname"
+    email = "yourname@example.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
-#[params.theme]
-#  name = "paper"
 [params]
     # You can use markdown here.
-    brand = "Appernetic"
-    topline = "A Static Site Generator as a Service"
-    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
-    theme = "paper"
+    brand = "foobar"
+    topline = "few words about your site"
+    footline = "code with <i class='fa fa-heart'></i>"
+
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "https://appernetic.io"
-    #home = "Home"
-	# Show a sidebar menu
-    showRightSidebar = false
+    home = "home"
+
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "UA-73770938-2"
+    googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "appernetic" # Your Github profile ID
+    github = "enten/hugo-boilerplate" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
-    facebook = "appernetic" # Your Facebook profile ID
-    twitter = "Appernetic" # Your Twitter profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 

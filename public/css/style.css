@@ -10,6 +10,7 @@ body {
     /* Margin bottom by footer height */
     font-family: 'Open Sans', 'sans-serif';
     margin-bottom: 60px;
+    font-size: 14px;
 }
 .footer {
     position: absolute;

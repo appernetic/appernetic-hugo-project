@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://appernetic.io/preview/</loc>
-    <lastmod>2016-02-11T10:42:36+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2016-03-09T14:28:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://appernetic.io/preview/test/</loc>
+    <loc>/2016/03/09/manage-your-web-site-images-in-the-cloud/</loc>
+    <lastmod>2016-03-09T14:28:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/03/08/performance-optimization/</loc>
+    <lastmod>2016-03-08T19:03:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/02/18/collaborating-and-working-with-hugo-themes/</loc>
+    <lastmod>2016-02-18T20:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/test/</loc>
     <lastmod>2016-02-11T10:42:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://appernetic.io/preview/about/</loc>
-    <lastmod>2016-02-10T20:21:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://appernetic.io/preview/2016/02/10/firstpost/</loc>
+    <loc>/2016/02/10/why-use-a-static-web-site-generator/</loc>
     <lastmod>2016-02-10T19:50:09+00:00</lastmod>
   </url>
   

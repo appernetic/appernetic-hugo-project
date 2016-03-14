@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Appernetic.io</title>
+    <link>/tags/blogging/</link>
+    <description>Recent content in Blogging on Appernetic.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>support@appernetic.io (Admin)</managingEditor>
+    <webMaster>support@appernetic.io (Admin)</webMaster>
+    <copyright>(c) 2016 Appernetic.io</copyright>
+    <lastBuildDate>Thu, 18 Feb 2016 20:27:25 +0000</lastBuildDate>
+    <atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Collaborating and working with hugo themes</title>
+      <link>/2016/02/18/collaborating-and-working-with-hugo-themes/</link>
+      <pubDate>Thu, 18 Feb 2016 20:27:25 +0000</pubDate>
+      <author>support@appernetic.io (Admin)</author>
+      <guid>/2016/02/18/collaborating-and-working-with-hugo-themes/</guid>
+      <description>
+
+&lt;h2 id=&#34;customizing-themes:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Customizing themes&lt;/h2&gt;
+
+&lt;p&gt;If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue &lt;strong&gt;Preview&lt;/strong&gt; button to the right.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457304135/pig3qgwntchbkk0x9tab&#34; alt=&#34;Install a theme&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can start by cloning my customized &lt;a href=&#34;https://github.com/appernetic/hugo-bootstrap-mod.git&#34;&gt;hugo-bootstrap theme&lt;/a&gt; or get one from &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and change the settings as you would like to have it.&lt;/p&gt;
+
+&lt;p&gt;You can change the bootswatch to another design by changing the theme = &amp;laquo;paper&amp;raquo; under [params].&lt;/p&gt;
+
+&lt;p&gt;Here is the different bootswatch designs you can use:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cerulean&lt;/li&gt;
+&lt;li&gt;cosmo&lt;/li&gt;
+&lt;li&gt;cyborg&lt;/li&gt;
+&lt;li&gt;darkly&lt;/li&gt;
+&lt;li&gt;default&lt;/li&gt;
+&lt;li&gt;flatly&lt;/li&gt;
+&lt;li&gt;journal&lt;/li&gt;
+&lt;li&gt;lumen&lt;/li&gt;
+&lt;li&gt;paper&lt;/li&gt;
+&lt;li&gt;readable&lt;/li&gt;
+&lt;li&gt;sandstone&lt;/li&gt;
+&lt;li&gt;simplex&lt;/li&gt;
+&lt;li&gt;slate&lt;/li&gt;
+&lt;li&gt;spacelab&lt;/li&gt;
+&lt;li&gt;superhero&lt;/li&gt;
+&lt;li&gt;united&lt;/li&gt;
+&lt;li&gt;yeti&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is lots of themes at &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for &lt;a href=&#34;https://appernetic.io&#34;&gt;Appernetic service&lt;/a&gt;. Fortunately I found &lt;a href=&#34;https://github.com/mmrath/hugo-bootstrap&#34;&gt;hugo-bootstrap&lt;/a&gt; and cloned it.&lt;/p&gt;
+
+&lt;p&gt;Then to customize it further I pressed the &lt;strong&gt;Sync&lt;/strong&gt; button which does a pull and then a push to your Appernetic project repository at &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; with the name &lt;strong&gt;appernetic-hugo-project&lt;/strong&gt; . When you start out you will not have this repo so it is automatically created for you and all strange git commands i hidden away so you do not have to think about it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;When you start out you will not have this repo so it is automatically
+created for you and all strange git commands i hidden away so you do
+not have to think about it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457304341/htdhjub2yfcw4bpkzklw&#34; alt=&#34;Sync with GitHub&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor &lt;em&gt;Atom&lt;/em&gt; and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for &lt;a href=&#34;https://desktop.github.com/&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457304455/tdsbe75348lm3dxa1csw&#34; alt=&#34;GitHub Desktop app&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;collaborating:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Collaborating&lt;/h2&gt;
+
+&lt;p&gt;Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a &lt;strong&gt;Sync&lt;/strong&gt; again in Appernetic and then a &lt;strong&gt;Publish&lt;/strong&gt; and after 10 min all is live on &lt;a href=&#34;https://appernetic.github.io/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Notice also that I have all the social and collaborating features in
+GitHub so I can invite a real front end designer to have a look at my
+attempts to customize the theme.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;start-blogging:ac4cc3988a245fe44051722c4a01ffd6&#34;&gt;Start blogging!&lt;/h2&gt;
+
+&lt;p&gt;From now on it is very easy to start blogging. Select the &lt;strong&gt;post&lt;/strong&gt; directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select &lt;em&gt;toml&lt;/em&gt; or &lt;em&gt;yaml&lt;/em&gt; front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to &lt;strong&gt;undraft&lt;/strong&gt; the post if you would like to see it after publishing and  add key words, tags and topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/appernetic/v1457304529/clqxr6v6xhxum0jvqabz&#34; alt=&#34;Start blogging&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy blogging!&lt;/p&gt;
+
+&lt;p&gt;Tip, skip the first headline in the post (at least in hugo-bootstrap it will be added automatically) and edit the &lt;em&gt;front matter&lt;/em&gt; located at the bottom of the editor after the preview and switch the first letter in the title to capital.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
