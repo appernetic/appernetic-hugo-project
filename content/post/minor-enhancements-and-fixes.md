@@ -13,7 +13,7 @@ type = "post"
 ![enter image description here][1]
 
 ## Site preview fixes and enhancements
-We have been working with the site preview. We had a case of a very sticky cache and this doesn't work well if you immediately would want to check changes. Now it is also possible to view the site preview if you are not signed in, so it is easier to share the URL and collaborate.
+I have been working with the site preview. There was a case of a very sticky cache and this doesn't work well if you immediately would want to check changes. Site preview  has also been moved to its own subdomain: **preview.appernetic.io**,  and now it is also possible to view the site preview if you are not signed in, so it is easier to share the URL and collaborate.
 
 ## Add a .gitignore to your theme repo
 The bug we reported last week wasn't a bug. When you delete a theme, we have git delete everything, and it doesn't delete dot files. The fix is to add a **.gitignore** file to your theme repo and exclude files such as **.DS_Store**. 
