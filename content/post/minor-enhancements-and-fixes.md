@@ -1,7 +1,7 @@
 +++
 author = "author"
 date = "2016-03-14T07:06:27Z"
-description = "I have been working with the site preview. There was a case of a very sticky cache and this doesn’t work well if you immediately would want to check changes. Site preview has also been moved to its own subdomain: preview.appernetic.io, and now it is also possible to view the site preview if you are not signed in, so it is easier to share the URL and collaborate."
+description = "There was a case of a very sticky cache and this doesn’t work well if you immediately would want to check changes. Site preview has also been moved to its own subdomain: preview.appernetic.io, and now it is also possible to view the site preview if you are not signed in, so it is easier to share the URL and collaborate."
 draft = false
 keywords = ["Site preview", "theme", ".gitignore" ]
 tags = ["Apperentic Static Site Generator", "Appernetic Service", "Git"]
