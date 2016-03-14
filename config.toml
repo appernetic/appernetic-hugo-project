@@ -42,14 +42,14 @@ disqusShortname = "appernetic"
 #
 # All parameters below here are optional and can be mixed and matched.
 #
-[params.theme]
-  name = "paper"
+#[params.theme]
+#  name = "paper"
 [params]
     # You can use markdown here.
     brand = "Appernetic"
     topline = "A Static Site Generator as a Service"
     footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
-   # theme = "paper"
+    theme = "paper"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
     home = "https://appernetic.io"
