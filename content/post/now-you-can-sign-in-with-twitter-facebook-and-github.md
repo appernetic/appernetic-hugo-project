@@ -12,6 +12,6 @@ type = "post"
 +++
 ![Appernetic Static Site Generator with Twitter, Facebook and GitHub sign in!][1]
 We have just released a new version! Now you can sign in with Twitter, Facebook and GitHub.  Enjoy folks!
-
+https://t.co/9iOL2TpMg6 #contentmanagement
 
   [1]: https://res.cloudinary.com/appernetic/v1459917514/xffcn0sgfvrk6xbawhep
