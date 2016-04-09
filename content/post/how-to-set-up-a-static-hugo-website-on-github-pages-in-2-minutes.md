@@ -26,13 +26,8 @@ hugo new site blog
 cd blog
  hugo new post/easy-peasy.MD
  ```
+Open the file and create content.
 
-Then you have left to do this:
-1. hugo new site blog 
-2. cd blog
-3. hugo new post/easy-peasy.md 
-4. open file
-5. edit file
 6. mkdir themes 
 7. cd themes 
 8. git clone https://github.com/appernetic/hugo-bootstrap.git
