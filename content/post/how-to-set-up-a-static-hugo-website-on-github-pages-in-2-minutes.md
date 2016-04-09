@@ -49,8 +49,8 @@ You have just published your first blog! Check your live server at: http://easyp
 All this 17 steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.
 
 We assume the following is already done:
-1. You have signed up for a subscription.
-2. You have created a GitHub account.
+ 1. You have signed up for a subscription.
+ 2. You have created a GitHub account.
 
 Watch the instructive video for 2:13 minutes.
 
