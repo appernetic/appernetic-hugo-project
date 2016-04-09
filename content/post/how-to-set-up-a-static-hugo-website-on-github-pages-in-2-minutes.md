@@ -4,8 +4,8 @@ date = "2016-04-09T05:53:13Z"
 description = "A static website is fast and secure but it is not easy to start a new blog or website if you don’t know a lot of commands, tools and also how to install them."
 draft = false
 keywords = ["Hugo static website generator", "Interwebz", "Appernetic"]
-tags = ["Appernetic st", "two"]
-title = "how to set up a static hugo website on github pages"
+tags = ["Static website generator", "Hugo", "How to"]
+title = "How to set up a static hugo website on github pages in 2 minutes"
 topics = ["topic 1"]
 type = "post"
 
