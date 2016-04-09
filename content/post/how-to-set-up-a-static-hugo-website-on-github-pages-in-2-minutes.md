@@ -12,7 +12,7 @@ type = "post"
 +++
 ![A static website - appernetic.io][1]
 
-***A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them, you would rather like to be writing exciting content to distribute over the Interwebz!***
+***A static website is fast and secure but it is not easy to set up a new blog or website if you don't know a lot of commands, tools and also how to install them when you would rather like to be writing exciting content to distribute over the intermingling webz!***
  
 First you have to:
 
@@ -30,7 +30,7 @@ Before I created Appernetic I had to do all these 17 steps in the terminal after
     hugo new post/easy-peasy.MD
  
    
-Open the file in a text editor and  write content, then dive back in to terminal:
+Then open the file in a text editor and  write content, then dive back in to terminal:
 
     mkdir themes 
     cd themes 
@@ -47,16 +47,18 @@ Open the file in a text editor and  write content, then dive back in to terminal
     git push origin master
 
 
-You have just published your first blog! Check your live server at: http://easypeasy.github.io
+You have just published your first blog! Check your live server at:
 
-All this 17 steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.
+     http://easypeasy.github.io
+
+All these 17 steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.
 
 We assume the following is already done:
 
  1. You have signed up for a subscription.
  2. You have created a GitHub account.
 
-**Watch the instructive video for 2:13 minutes.**
+**Now watch this instructive how-to video for 2:13 minutes.**
 
 {{< vimeo 162159974 >}}
 
