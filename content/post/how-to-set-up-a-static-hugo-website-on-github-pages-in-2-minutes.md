@@ -31,18 +31,18 @@ Open the file and create content.
 
     mkdir themes 
      cd themes 
- git clone https://github.com/appernetic/hugo-bootstrap.git
-  hugo undraft content/post/easy-peasy.md
-  hugo --theme=hugo-bootstrap
-  mkdir blog-public
-  cd blog-public
-  git init
- git remote add origin https://easypeasy:236102a7cf231y2a5084a4847e0de99e636e391c@github.com/easypeasy
- cp -r ../blog/public/ .
- git add --all
-  git commit -am ”Publish site”
- git push origin master
-```
+     git clone https://github.com/appernetic/hugo-bootstrap.git
+     hugo undraft content/post/easy-peasy.md
+     hugo --theme=hugo-bootstrap
+     mkdir blog-public
+    cd blog-public
+    git init
+    git remote add origin https://easypeasy:236102a7cf231y2a5084a4847e0de99e636e391c@github.com/easypeasy
+    cp -r ../blog/public/ .
+    git add --all
+    git commit -am ”Publish site”
+    git push origin master
+
 
 You have just published your first blog! Check your live server at: http://easypeasy.github.io
 
