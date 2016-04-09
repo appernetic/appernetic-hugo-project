@@ -13,7 +13,7 @@ type = "post"
 A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them.
 
  1. List item
-2.  You have to download the right version of the static site generator for your OS and architecture.
+ 2.  You have to download the right version of the static site generator for your OS and architecture.
  3.  You have to Install git
  4.  You have to create a GitHub, Bitbucket, Dropbox or Amazon S3 account or set-up a web server with a web Host.
 
