@@ -21,7 +21,7 @@ Then when the installation and configuration are ready there are lots of steps t
 
 Before I created Appernetic.io I had to do all these 17 steps in terminal :
 
-  ```
+ 
   hugo new site blog 
   cd blog
    hugo new post/easy-peasy.MD
