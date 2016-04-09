@@ -27,7 +27,7 @@ Before I created Appernetic I had to do all these 17 steps in the terminal :
     hugo new post/easy-peasy.MD
  
    
-Open the file and create content, then dive back in to terminal:
+Open the file in a text editor and  write content, then dive back in to terminal:
 
     mkdir themes 
     cd themes 
