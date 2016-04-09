@@ -19,7 +19,7 @@ type = "post"
 
 Then when the installation and configuration are ready there are lots of steps to just have the website up and running on the Interwebz.
 
-Before I created Appernetic.io I had to do all these 17 steps in terminal :
+Before I created Appernetic I had to do all these 17 steps in the terminal :
 
  
     hugo new site blog 
@@ -27,7 +27,7 @@ Before I created Appernetic.io I had to do all these 17 steps in terminal :
     hugo new post/easy-peasy.MD
  
    
-Open the file and create content.
+Open the file and create content, then dive back in to terminal:
 
     mkdir themes 
     cd themes 
