@@ -53,4 +53,7 @@ We assume the following is already done:
 2. You have created a GitHub account.
 
 Watch the instructive video for 2:13 minutes.
+
+{{< vimeo 146022717 >}}
+
 .
