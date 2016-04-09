@@ -16,12 +16,9 @@ type = "post"
 2. You have to Install git
 3. You have to create a GitHub, Bitbucket, Dropbox or Amazon S3 account or set-up a web server with a web Host.
 
-Before Appernetic.io:
-We assume the following is already done:
-1. You have downloaded the appropriate Hugo version for your OS and architecture.
-2. Installed git
-3. You have created a GitHub account
-4. You have set up GitHub Pages
+Then when the installation and configuration are ready there are lots of steps to just have the website up and running on the Interwebz.
+
+Before I created Appernetic.io I had to do all these steps:
 
 Then you have left to do this:
 1. hugo new site blog 
