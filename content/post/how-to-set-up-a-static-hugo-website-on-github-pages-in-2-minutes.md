@@ -21,7 +21,7 @@ First you have to:
 
 Then when the installation and configuration are ready there are lots of steps to just have the website up and running on the Interwebz.
 
-Before I created Appernetic I had to do all these 17 steps in the terminal after the installation and configuration :
+Before I created Appernetic I had to do all these 17 steps in the terminal after installation and configuration :
 
  
     hugo new site blog 
