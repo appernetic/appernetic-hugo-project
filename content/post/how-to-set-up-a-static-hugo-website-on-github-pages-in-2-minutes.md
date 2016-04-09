@@ -46,7 +46,7 @@ Open the file and create content, then dive back in to terminal:
 
 You have just published your first blog! Check your live server at: http://easypeasy.github.io
 
-This steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.io,
+All this 17 steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.
 
 We assume the following is already done:
 1. You have signed up for a subscription.
