@@ -12,6 +12,10 @@ type = "post"
 +++
 A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them.
 
+1. You have to download the right version of the static site generator for your OS and architecture.
+2. You have to Install git
+3. You have to create a GitHub, Bitbucket, Dropbox or Amazon S3 account or set-up a web server with a web Host.
+
 Before Appernetic.io:
 We assume the following is already done:
 1. You have downloaded the appropriate Hugo version for your OS and architecture.
