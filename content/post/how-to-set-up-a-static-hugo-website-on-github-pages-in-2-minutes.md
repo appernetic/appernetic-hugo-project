@@ -53,4 +53,5 @@ We assume the following is already done:
 1. You have signed up for a subscription.
 2. You have created a GitHub account.
 
-Watch the instructive  video.
+Watch the instructive video for 2:13 minutes.
+.
