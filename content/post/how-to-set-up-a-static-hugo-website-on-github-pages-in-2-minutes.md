@@ -16,8 +16,7 @@ type = "post"
  
 First you have to:
 
- - List item
- -  download the right version of the static site generator for your OS and architecture.
+ - download the right version of the static site generator for your OS and architecture.
  -  install git
  - create a GitHub, Bitbucket, Dropbox or Amazon S3 account or set-up a web server with a web Host.
 
