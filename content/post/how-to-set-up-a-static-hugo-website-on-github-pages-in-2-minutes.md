@@ -44,9 +44,10 @@ Open the file and create content.
   git commit -am ”Publish site”
  git push origin master
 ```
-17. You have just published your first blog! Check your live server at: http://easypeasy.github.io
 
-Now we do the same with Appernetic.io,
+You have just published your first blog! Check your live server at: http://easypeasy.github.io
+
+This steps will take at least 30 min if you have the knowledge. Now we do the same with Appernetic.io,
 
 We assume the following is already done:
 1. You have signed up for a subscription.
