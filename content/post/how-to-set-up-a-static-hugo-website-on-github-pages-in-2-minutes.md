@@ -10,7 +10,9 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them.
+![enter image description here][1]
+
+A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them.
  
  - You have to download the right version of the static site generator for your OS and architecture.
  - You have to Install git
@@ -55,3 +57,6 @@ We assume the following is already done:
 Watch the instructive video for 2:13 minutes.
 
 {{< vimeo 162159974 >}}
+
+
+  [1]: https://res.cloudinary.com/appernetic/v1460186011/k1seurwnwzitp8tbchvx
