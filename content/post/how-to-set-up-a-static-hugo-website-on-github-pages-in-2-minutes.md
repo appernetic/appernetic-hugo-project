@@ -10,9 +10,9 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-![enter image description here][1]
+![A static website - appernetic.io][1]
 
-A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them.
+A static website is fast and secure but it is not easy to start a new blog or website if you don't know a lot of commands, tools and also how to install them, you rather would like to write exc
  
  - You have to download the right version of the static site generator for your OS and architecture.
  - You have to Install git
