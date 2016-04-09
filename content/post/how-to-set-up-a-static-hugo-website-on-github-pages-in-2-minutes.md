@@ -1,9 +1,9 @@
 +++
-author = "author"
+author = "Göran Svensson"
 date = "2016-04-09T05:53:13Z"
-description = "description"
-draft = true
-keywords = ["key", "words"]
+description = "A static website is fast and secure but it is not easy to start a new blog or website if you don’t know a lot of commands, tools and also how to install them."
+draft = false
+keywords = ["Hugo static web", "words"]
 tags = ["one", "two"]
 title = "how to set up a static hugo website on github pages"
 topics = ["topic 1"]
