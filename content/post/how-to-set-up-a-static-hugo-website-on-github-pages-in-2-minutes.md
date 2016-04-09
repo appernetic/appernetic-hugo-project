@@ -54,6 +54,4 @@ We assume the following is already done:
 
 Watch the instructive video for 2:13 minutes.
 
-{{< vimeo 146022717 >}}
-
-.
+{{< vimeo 162159974 >}}
