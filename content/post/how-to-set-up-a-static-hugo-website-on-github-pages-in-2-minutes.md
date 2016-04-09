@@ -52,3 +52,5 @@ This steps will take at least 30 min if you have the knowledge. Now we do the sa
 We assume the following is already done:
 1. You have signed up for a subscription.
 2. You have created a GitHub account.
+
+Watch the instructive  video.
