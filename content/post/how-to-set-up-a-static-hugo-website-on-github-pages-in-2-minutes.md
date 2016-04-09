@@ -22,19 +22,19 @@ Then when the installation and configuration are ready there are lots of steps t
 Before I created Appernetic.io I had to do all these 17 steps in terminal :
 
  
-     hugo new site blog 
-     cd blog
-     hugo new post/easy-peasy.MD
+    hugo new site blog 
+    cd blog
+    hugo new post/easy-peasy.MD
  
    
 Open the file and create content.
 
     mkdir themes 
-     cd themes 
-     git clone https://github.com/appernetic/hugo-bootstrap.git
-     hugo undraft content/post/easy-peasy.md
-     hugo --theme=hugo-bootstrap
-     mkdir blog-public
+    cd themes 
+    git clone https://github.com/appernetic/hugo-bootstrap.git
+    hugo undraft content/post/easy-peasy.md
+    hugo --theme=hugo-bootstrap
+    mkdir blog-public
     cd blog-public
     git init
     git remote add origin https://easypeasy:236102a7cf231y2a5084a4847e0de99e636e391c@github.com/easypeasy
