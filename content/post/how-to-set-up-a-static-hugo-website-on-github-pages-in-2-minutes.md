@@ -62,8 +62,7 @@ We assume the following is already done:
 
 {{< vimeo 162159974 >}}
 
-What about custom domains?
-==========================
+## What about custom domains?
 
   
 No problem, it is easy to connect your custom domain to your GitHub Pages. 
