@@ -66,7 +66,7 @@ We assume the following is already done:
 
  No problem, it is easy to connect your custom domain to your GitHub Pages. 
 
-Place this file in your appernetic-hugo-project repositorys static folder:
+Place this file in your appernetic-hugo-project repositories static folder:
 
 Filename: CNAME
 
