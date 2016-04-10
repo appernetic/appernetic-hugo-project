@@ -62,7 +62,11 @@ We assume the following is already done:
 
 {{< vimeo 162159974 >}}
 
-What about custom domains?  No problem, it is easy to connect your custom domain to your GitHub Pages. 
+What about custom domains?
+==========================
+
+  
+No problem, it is easy to connect your custom domain to your GitHub Pages. 
 
 Place this file in your appernetic-hugo-project repositorys static folder:
 
@@ -72,6 +76,7 @@ Filename: CNAME
 
 Here you can see how [we did this][2].
 
+That's it! Give fast, secure blogging a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
 
   [1]: https://res.cloudinary.com/appernetic/v1460186011/k1seurwnwzitp8tbchvx
   [2]: https://github.com/appernetic/appernetic-hugo-project-1/blob/master/static/CNAME
