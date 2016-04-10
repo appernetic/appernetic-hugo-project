@@ -74,7 +74,11 @@ Filename: CNAME
 
 Here you can see how [we did this][2].
 
+Now you also have to make a CNAME record in your DNS or your service providers DNS and wait for everything to propagate over the interwebz. Read more [here][3].
+
 That's it! Give fast, secure blogging a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
+
 
   [1]: https://res.cloudinary.com/appernetic/v1460186011/k1seurwnwzitp8tbchvx
   [2]: https://github.com/appernetic/appernetic-hugo-project-1/blob/master/static/CNAME
+  [3]: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
