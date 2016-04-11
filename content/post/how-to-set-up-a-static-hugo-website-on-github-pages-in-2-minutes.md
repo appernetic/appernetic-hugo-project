@@ -64,17 +64,16 @@ We assume the following is already done:
 
 ## What about custom domains?
 
- No problem, it is easy to connect your custom domain to your GitHub Pages. 
+ No problem, it is easy to connect your custom domain to your GitHub Pages. Follow these five steps (no programming or terminal console needed):
 
-Place this file in your appernetic-hugo-project repositories static folder:
-
-Filename: CNAME
+1. In your Appernetic dashboard, Sync you appernetic project with GitHub, this will create a appernetic-hugo-project with all your files on GitHub. We do this so that we can work with files outside the content folder.
+2. Place this file in your GitHub, appernetic-hugo-project repositories static folder: Filename: CNAME
 
     blog.easypeasy.com
-
 Here you can see how [we did this][2].
-
-Now you also have to make a CNAME record in your DNS or your service providers DNS and wait for everything to propagate over the interwebz. Read more [here][3].
+3. Sync your project again in your Appernetic Dashboard.
+4. Publish your blog (if you have something un-drafted to publish). Now your CNAME file also lives in the compiled GitHub Pages site.
+5. Now the last step is to make it work over the Internet. For this, you have to make a CNAME record in your DNS or your service providers DNS and wait for everything to propagate  (give it 8 to 24 hours). Read more: [using a custom domain with GitHub pages][3].
 
 That's it! Give fast, secure blogging a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
 
@@ -82,3 +81,4 @@ That's it! Give fast, secure blogging a try and you will never go back to WordPr
   [1]: https://res.cloudinary.com/appernetic/v1460186011/k1seurwnwzitp8tbchvx
   [2]: https://github.com/appernetic/appernetic-hugo-project-1/blob/master/static/CNAME
   [3]: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+  [4]: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
