@@ -5,7 +5,7 @@ description = "A static website is fast and secure but it is not easy to start a
 draft = false
 keywords = ["Hugo static website generator", "Interwebz", "Appernetic"]
 tags = ["Static website generator", "Hugo", "How to"]
-title = "How to set up a static hugo website on github pages in 2 minutes"
+title = "How to set up a static Hugo website on GitHub pages in 2 minutes"
 topics = ["topic 1"]
 type = "post"
 
