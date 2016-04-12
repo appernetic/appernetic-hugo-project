@@ -77,10 +77,10 @@ Here you can see how [we did this][2].
 4. Publish your blog (if you have something un-drafted to publish). Now your CNAME file also lives in the compiled GitHub Pages site.
 5. Now the last step is to make it work over the Internet. For this, you have to make a CNAME record in your DNS or your service providers DNS and wait for everything to propagate  (give it 8 to 24 hours). Read more: [using a custom domain with GitHub pages][3].
 
-That's it! Give fast, secure blogging a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
+That's it! [Give fast, secure blogging a try][4] and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
 
 
   [1]: https://res.cloudinary.com/appernetic/v1460186011/k1seurwnwzitp8tbchvx
   [2]: https://github.com/appernetic/appernetic-hugo-project-1/blob/master/static/CNAME
   [3]: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
-  [4]: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+  [4]: https://appernetic.io
