@@ -10,8 +10,25 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-![Appernetic Static Site Generator with Twitter, Facebook and GitHub sign in!][1]
-We have just released a new version! Now you can sign in with Twitter, Facebook and GitHub.  Enjoy folks!
+## Update!
+
+After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password.  
+
+For us and the service there is the problem with:
+
+* Users that are not verified signing up
+* Maintaining a user database
+* Users that are not following GitHub Pages policy
+* Sending out verification e-mail to users
+* Developing and testing
+
+Everything has a cost. In the end, we decided to implement it with Auth0 and it was liberatingly simple to implement. No server side or client side development and the time-consuming testing and then gulp minifying and annotation. 
+
+Just flip a switch in the auth0 dashboard.
+
+![Appernetic Static Site Generator with Twitter, Facebook and GitHub sign in!][1]
+After We have just released a new version! Now you can sign in with Twitter, Facebook and GitHub.  Enjoy folks!
 https://appernetic.io #contentmanagement
 
-  [1]: https://res.cloudinary.com/appernetic/v1459917514/xffcn0sgfvrk6xbawhep
+
+  [1]: https://res.cloudinary.com/appernetic/v1461667876/bvzstocens1wcwu3vba1
