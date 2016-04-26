@@ -73,6 +73,9 @@ optin = true #opt-in: true/false
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
     home = "https://blog.appernetic.io"
+    mailmunchid = "207656" # Mailmunch site id
+    sumomeid = "10b7b6402734c894bc9ceb82feaaa9778a3eb6a936d292b51e723f2c24a31fe8" # Sumome id
+    
 	# Show a sidebar menu
     showRightSidebar = true
     # Select a syntax highight.
