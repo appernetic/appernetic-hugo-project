@@ -46,15 +46,15 @@ disqusShortname = "appernetic"
 name = "paper"
 [params.popover]
 enablepopover = false #enable or disable popover: true/false.
-posturl = "https://zapier.com/hooks/..."
-headerimage = "//placehold.it/1000x600"
-expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
-cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-signupheader = "Join Our Newsletter"
-showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+posturl = "https://zapier.com/hooks/catch/1227569/2vcwb6/"
+headerimage = "https://res.cloudinary.com/appernetic/v1461282690/placeitipad_sj067i.jpg"
+expirecookie = 7 #show it again after number of days to visitor that has not subscribed.
+cookiename = "appzapc" #give the cookie a unique name variable (avoid spaces and strange characters).
+signupheader = "Appernetic.io"
+showmodaltimeout = 20000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
 modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
-imagedescription = "Placeholder image for this popover modal optin form"
+imagedescription = "Appernetic.io"
 signuptext = "Signup today for free and be the first to get notified on new updates."
 inputplaceholder = "Enter your email"
 submitbutton = "Subscribe"
@@ -73,14 +73,14 @@ optin = true #opt-in: true/false
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
     home = "https://blog.appernetic.io"
-    mailmunchid = "207656" # Mailmunch site id
+    mailmunchid = "" # Mailmunch site id
     sumomeid = "10b7b6402734c894bc9ceb82feaaa9778a3eb6a936d292b51e723f2c24a31fe8" # Sumome id
     
 	# Show a sidebar menu
     showRightSidebar = true
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "dark"
+    highlight = "codepen-embed"
 
     # Google Analytics.
     googleAnalytics = "UA-73770938-2"
