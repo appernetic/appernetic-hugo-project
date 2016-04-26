@@ -3,7 +3,7 @@ author = "Göran Svensson"
 date = "2016-04-06T04:34:49Z"
 description = "Now you can sign in with Twitter, Facebook and GitHub"
 draft = false
-keywords = ["Twitter", "Facebook", "Sign in"]
+keywords = ["E-mail si", "Twitter", "Facebook", "Sign in"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements"]
 title = "Now you can sign in with twitter facebook and github"
 topics = ["topic 1"]
@@ -29,7 +29,8 @@ Everything has a cost. In the end, we decided to implement it with Auth0 and it 
 Just flip a switch in the auth0 dashboard.
 
 
-After We have just released a new version! Now you can sign in with Twitter, Facebook and GitHub.  Enjoy folks!
+We have just released a new version! Now you can sign in with your E-mail, Twitter, Facebook and GitHub.  Enjoy folks!
+
 https://appernetic.io #contentmanagement
 
 
