@@ -1,12 +1,12 @@
 +++
 author = "Göran Svensson"
-date = "2016-04-06T04:34:49Z"
+date = "2016-04-26T13:10:05Z"
 description = "Now you can sign in with Twitter, Facebook and GitHub"
 draft = false
-keywords = ["E-mail si", "Twitter", "Facebook", "Sign in"]
+keywords = ["E-mail sign up", "Twitter", "Facebook", "Sign in", "Auth0"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements"]
 title = "Now you can sign in with twitter facebook and github"
-topics = ["topic 1"]
+topics = ["Enhancements"]
 type = "post"
 
 +++
