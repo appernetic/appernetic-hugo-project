@@ -39,6 +39,28 @@ disqusShortname = "appernetic"
     name = "Admin"
     email = "support@appernetic.io"
 
+# bootswatch theme name, unmark and select one: cerulean, cosmo, cyborg, darkly,
+# default, flatly, journal, lumen, paper, readable, sandstone, simplex,
+# slate, spacelab, superhero, united, yeti.
+[params.theme]
+name = "paper"
+[params.popover]
+enablepopover = false #enable or disable popover: true/false.
+posturl = "https://zapier.com/hooks/..."
+headerimage = "//placehold.it/1000x600"
+expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
+cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
+signupheader = "Join Our Newsletter"
+showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+mouseleave = true #show popover when mouse leaves window: true/false.
+modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
+imagedescription = "Placeholder image for this popover modal optin form"
+signuptext = "Signup today for free and be the first to get notified on new updates."
+inputplaceholder = "Enter your email"
+submitbutton = "Subscribe"
+successmessage = "Thanks for your subscription!"
+errormessage = "Submitting form failed!"
+optin = true #opt-in: true/false
 #
 # All parameters below here are optional and can be mixed and matched.
 #
