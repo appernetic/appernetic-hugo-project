@@ -29,7 +29,7 @@ Everything has a cost. In the end, we decided to implement it with Auth0 and it 
 Just flip a switch in the auth0 dashboard.
 
 
-We have just released a new version! Now you can sign in with your E-mail, Twitter, Facebook and GitHub.  Enjoy folks!
+Sign in with your E-mail, Twitter, Facebook and GitHub.  Enjoy folks!
 
 https://appernetic.io #contentmanagement
 
