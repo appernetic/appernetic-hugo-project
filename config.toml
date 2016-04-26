@@ -2,7 +2,7 @@
 baseurl = "/"
 
 # Site title
-title = "Appernetic.io"
+title = "Appernetic.io blog"
 
 # Copyright
 copyright = "(c) 2016 Appernetic.io"
@@ -18,7 +18,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap"
+theme = "hugo-bootstrap-premium"
 
 # Pagination
 paginate = 10
