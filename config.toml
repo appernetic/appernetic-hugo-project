@@ -65,19 +65,19 @@ optin = true #opt-in: true/false
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
-    # You can use markdown here.
-    brand = "Appernetic"
+	BrandImage = "/images/apperneticlogo.png" #top header brand image.
+	brand = "Appernetic blog" # brand image alt text.
     topline = "A Static Site Generator as a Service"
-    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/mmrath/hugo-bootstrap'>Hugo-bootstrap</a>"
-    theme = "paper"
+    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/appernetic/hugo-bootstrap-premium'>Hugo-bootstrap-premium</a>"
+   # theme = "paper"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "https://appernetic.io"
+    home = "https://blog.appernetic.io"
 	# Show a sidebar menu
     showRightSidebar = true
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "default"
+    highlight = "dark"
 
     # Google Analytics.
     googleAnalytics = "UA-73770938-2"
