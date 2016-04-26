@@ -14,6 +14,8 @@ type = "post"
 
 After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password.  
 
+![Appernetic Static Site Generator with e-mail sign up, Twitter, Facebook and GitHub sign in!][1]
+
 For us and the service there is the problem with:
 
 * Users that are not verified signing up
@@ -26,7 +28,7 @@ Everything has a cost. In the end, we decided to implement it with Auth0 and it 
 
 Just flip a switch in the auth0 dashboard.
 
-![Appernetic Static Site Generator with Twitter, Facebook and GitHub sign in!][1]
+
 After We have just released a new version! Now you can sign in with Twitter, Facebook and GitHub.  Enjoy folks!
 https://appernetic.io #contentmanagement
 
