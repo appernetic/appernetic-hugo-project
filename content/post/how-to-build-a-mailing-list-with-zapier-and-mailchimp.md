@@ -10,9 +10,12 @@ topics = ["How-to"]
 type = "post"
 
 +++
-"I'm looking to put up a 'coming soon' page for a podcast I'm working on to collect some e-mails for the upcoming launch.
-
-What's a good ready-made solution for this (e.g. WordPress plugin, hosted landing page, etc.) that allows for easy lead collection without custom coding or monthly fee?"
+> "I'm looking to put up a 'coming soon' page for a podcast I'm working
+> on to collect some e-mails for the upcoming launch.
+> 
+> What's a good ready-made solution for this (e.g. WordPress plugin,
+> hosted landing page, etc.) that allows for easy lead collection
+> without custom coding or monthly fee?"
 
 That was the question I saw in the 7 Day Startup group on Facebook. Similar questions were asked in Hugo Community discuss : Is it possible to add a contact form to a site?
 
@@ -22,8 +25,15 @@ With a static website, you don't have anything that can process form submissions
 
 For this, you need a newsletter opt-in form, a mailing list and a service that handles the submitted content.
 
-In our latest theme: hugo-bootstrap-premium we have integrated a newsletter opt-in form that is super easy to customize without any coding.
+In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter opt-in form that is super easy to customize without any coding.
 
-You only have to enable the form and add your Zapier post hook that's post to MailChimp to use it. 
+You only have to enable the form and add your [Zapier][2] post hook that's post to [MailChimp][3] to use it. 
 
-We also integrated MailMunch and SumoMe so you can use it instead  if you prefer.
+We also integrated [MailMunch][4] and [SumoMe][5] so you can use it instead  if you prefer.
+
+
+  [1]: https://github.com/appernetic/hugo-bootstrap-premium
+  [2]: https://zapier.com
+  [3]: http://mailchimp.com/
+  [4]: https://www.mailmunch.co/
+  [5]: https://sumome.com/
