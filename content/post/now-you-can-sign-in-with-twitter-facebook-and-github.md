@@ -1,11 +1,11 @@
 +++
 author = "Göran Svensson"
 date = "2016-04-26T13:10:05Z"
-description = "Now you can sign in with Twitter, Facebook, GitHub or your e-mail!"
+description = "Update! After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password."
 draft = false
 keywords = ["E-mail sign up", "Twitter", "Facebook", "Sign in", "Auth0"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements"]
-title = "Update! After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password. Now you can sign in with twitter, facebook, github or your e-mail!"
+title = "Now you can sign in with twitter, facebook, github or your e-mail!"
 topics = ["Enhancements"]
 type = "post"
 +++
