@@ -10,7 +10,9 @@ topics = ["How-to"]
 type = "post"
 
 +++
-> I'm looking to put up a 'coming soon' page for a podcast I'm working
+# Pain point
+
+> I'm looking to put up a 'coming soon' page for a podcast I'm working
 > on to collect some e-mails for the upcoming launch.
 > 
 > What's a good ready-made solution for this (e.g. WordPress plugin,
