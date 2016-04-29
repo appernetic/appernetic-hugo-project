@@ -31,13 +31,14 @@ In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter
 
 You only have to enable the form and add your [Zapier][3] post hook that's post to [MailChimp][4] to use it. 
 
-
-We also integrated [MailMunch][5] and [SumoMe][6] so you can use it instead  if you prefer.
+![Appernetic.io Newsl][5]
+We also integrated [MailMunch][6] and [SumoMe][7] so you can use it instead  if you prefer.
 
 
   [1]: https://github.com/appernetic/hugo-bootstrap-premium
   [2]: https://res.cloudinary.com/appernetic/v1461945240/aaxlgeo4btp4ih5hlhtb
   [3]: https://zapier.com
   [4]: http://mailchimp.com/
-  [5]: https://www.mailmunch.co/
-  [6]: https://sumome.com/
+  [5]: https://res.cloudinary.com/appernetic/v1461945371/jdx7evqmqmrli2ib7wzf
+  [6]: https://www.mailmunch.co/
+  [7]: https://sumome.com/
