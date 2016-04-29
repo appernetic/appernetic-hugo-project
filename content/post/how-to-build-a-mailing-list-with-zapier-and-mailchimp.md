@@ -29,6 +29,8 @@ For this, you need a newsletter opt-in form, a mailing list and a service that h
 
 In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter opt-in form that is super easy to customize without any coding.
 
+It has all the features you need such as bootstrap theming, exit detection, customized delay, add your custom image, change text etc. It also detects mobile devices and shows larger buttons for devices with small screen sizes.
+
 ![enter image description here][2]
 
 You only have to enable the form and add your [Zapier][3] post hook that's post to [MailChimp][4] to use it. 
