@@ -31,6 +31,7 @@ In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter
 
 You only have to enable the form and add your [Zapier][3] post hook that's post to [MailChimp][4] to use it. 
 
+
 We also integrated [MailMunch][5] and [SumoMe][6] so you can use it instead  if you prefer.
 
 
