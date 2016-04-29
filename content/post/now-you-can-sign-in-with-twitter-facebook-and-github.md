@@ -5,7 +5,7 @@ description = "Now you can sign in with Twitter, Facebook and GitHub"
 draft = false
 keywords = ["E-mail sign up", "Twitter", "Facebook", "Sign in", "Auth0"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements"]
-title = "Now you can sign in with twitter facebook and github"
+title = "Update! After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password. Now you can sign in with twitter, facebook, github OR your e-mail!"
 topics = ["Enhancements"]
 type = "post"
 
