@@ -21,21 +21,21 @@ type = "post"
 
 That was the question I saw in the 7 Day Startup group on Facebook. Similar questions were asked in Hugo Community discuss : Is it possible to add a contact form to a site?
 
-It seems to be a common pain point.
+***It seems to be a common pain point.***
 
 With a static website, you don't have anything that can process form submissions so it is not a simple task to do it yourself. 
 
 For this, you need a newsletter opt-in form, a mailing list and a service that handles the submitted content.
 
-In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter opt-in form that is super easy to customize without any coding.
+In our latest theme: [hugo-bootstrap-premium][1] we have integrated a popover newsletter opt-in form that is super easy to customize without any coding.
 
 It has all the features you need such as bootstrap theming, exit detection, customized delay, add your custom image, change text etc. It also detects mobile devices and shows larger buttons for devices with small screen sizes.
 
-![enter image description here][2]
+![blog.appernetic.io using theme hugo-bootstrap-premium with popover opt-in form.][2]
 
-You only have to enable the form and add your [Zapier][3] post hook that's post to [MailChimp][4] to use it. 
+You only have to enable the form and add your [Zapier][3] post hook that post to [MailChimp][4] to use it. 
 
-![Appernetic.io Newsletter opt-in form with Zapier hook][5]
+![Popover newsletter opt-in form with Zapier hook at blog.appernetic.io][5]
 
 This is  the enabled newsletter opt-in form with a Zapier hook.
 
