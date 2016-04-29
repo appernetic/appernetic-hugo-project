@@ -41,7 +41,9 @@ This is  the enabled newsletter opt-in form with a Zapier hook.
 
 We also integrated [MailMunch][6] and [SumoMe][7] in the theme so you can use it instead  if you prefer by simply adding your mailmunchid or sumomeid.
 
-That’s it! Give fast, secure blogging a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
+That’s it! Give [fast, secure blogging][8] a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
+
+
   [1]: https://github.com/appernetic/hugo-bootstrap-premium
   [2]: https://res.cloudinary.com/appernetic/v1461945240/aaxlgeo4btp4ih5hlhtb
   [3]: https://zapier.com
@@ -49,3 +51,4 @@ That’s it! Give fast, secure blogging a try and you will never go back to Word
   [5]: https://res.cloudinary.com/appernetic/v1461945371/jdx7evqmqmrli2ib7wzf
   [6]: https://www.mailmunch.co/
   [7]: https://sumome.com/
+  [8]: https://appernetic.io
