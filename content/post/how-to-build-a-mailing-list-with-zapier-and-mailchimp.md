@@ -10,7 +10,7 @@ topics = ["How-to"]
 type = "post"
 
 +++
-# Pain point
+## Pain point
 
 > I'm looking to put up a 'coming soon' page for a podcast I'm working
 > on to collect some e-mails for the upcoming launch.
