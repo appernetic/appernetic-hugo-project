@@ -27,15 +27,16 @@ For this, you need a newsletter opt-in form, a mailing list and a service that h
 
 In our latest theme: [hugo-bootstrap-premium][1] we have integrated a newsletter opt-in form that is super easy to customize without any coding.
 
+![enter image description here][2]
 
+You only have to enable the form and add your [Zapier][3] post hook that's post to [MailChimp][4] to use it. 
 
-You only have to enable the form and add your [Zapier][2] post hook that's post to [MailChimp][3] to use it. 
-
-We also integrated [MailMunch][4] and [SumoMe][5] so you can use it instead  if you prefer.
+We also integrated [MailMunch][5] and [SumoMe][6] so you can use it instead  if you prefer.
 
 
   [1]: https://github.com/appernetic/hugo-bootstrap-premium
-  [2]: https://zapier.com
-  [3]: http://mailchimp.com/
-  [4]: https://www.mailmunch.co/
-  [5]: https://sumome.com/
+  [2]: https://res.cloudinary.com/appernetic/v1461945240/aaxlgeo4btp4ih5hlhtb
+  [3]: https://zapier.com
+  [4]: http://mailchimp.com/
+  [5]: https://www.mailmunch.co/
+  [6]: https://sumome.com/
