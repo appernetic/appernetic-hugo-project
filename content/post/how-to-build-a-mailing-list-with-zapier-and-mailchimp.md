@@ -1,8 +1,8 @@
 +++
-author = "author"
+author = "Göran Svensson"
 date = "2016-04-29T15:46:20Z"
-description = "description"
-draft = true
+description = "In our latest theme: hugo-bootstrap-premium we have integrated a newsletter opt-in form that is super easy to customize without any coding. You only have to enable the form and add your Zapier post hook that’s post to MailChimp to use it."
+draft = false
 keywords = ["Appernetic static site generator", "How to", "Hugo", "Zapier"]
 tags = ["Zapier", "MailChimp", "MailMunch", "SumoMe"]
 title = "How to build a mailing list with Zapier and MailChimp"
