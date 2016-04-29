@@ -1,7 +1,7 @@
 +++
 author = "Göran Svensson"
 date = "2016-04-26T13:10:05Z"
-description = "Now you can sign in with Twitter, Facebook and GitHub"
+description = "Now you can sign in with Twitter, Facebook, GitHub OR your e-mail!"
 draft = false
 keywords = ["E-mail sign up", "Twitter", "Facebook", "Sign in", "Auth0"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements"]
