@@ -10,9 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-
-# Theme showcase gallery 
-![enter image description here][1]
+![enter image description here][1]
 ***The theme showcase gallery is ready! Now you can browse the gallery and install a theme just by clicking on it. This is the themes listed at [Hugo Theme Showcase][2].*** 
 
 ## Aggregated meta information
