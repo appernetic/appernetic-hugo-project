@@ -17,7 +17,7 @@ type = "post"
 > 
 > What's a good ready-made solution for this (e.g. WordPress plugin,
 > hosted landing page, etc.) that allows for easy lead collection
-> without custom coding or monthly fee?
+> without custom coding or monthly fee? 
 
 That was the question I saw in the 7 Day Startup group on Facebook. Similar questions were asked in Hugo Community discuss : Is it possible to add a contact form to a site?
 
