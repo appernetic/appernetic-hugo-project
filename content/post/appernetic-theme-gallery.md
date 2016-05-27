@@ -3,9 +3,9 @@ author = "author"
 date = "2016-05-27T17:30:52Z"
 #description = "description"
 draft = true
-keywords = ["key", "words"]
-tags = ["one", "two"]
-title = "appernetic theme gallery"
+keywords = ["Static website service", "Hugo", "Theme showcase gallery"]
+tags = ["Static website service", "Hugo", "Theme showcase gallery"]
+title = "Appernetic theme showcase gallery"
 topics = ["topic 1"]
 type = "post"
 
