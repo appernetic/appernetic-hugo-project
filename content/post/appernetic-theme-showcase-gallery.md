@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2016-05-27T18:04:03Z"
+date = "2016-05-27T17:30:52Z"
 #description = "description"
-draft = false
+draft = true
 keywords = ["Static website service", "Hugo", "Theme showcase gallery"]
 tags = ["Static website service", "Hugo", "Theme showcase gallery"]
 title = "Appernetic theme showcase gallery"
@@ -10,8 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-
-# Theme showcase gallery 
+# Theme showcase gallery 
 ![enter image description here][1]
 ***The theme showcase gallery is ready! Now you can browse the gallery and install a theme just by clicking on it. This is the themes listed at [Hugo Theme Showcase][2].*** 
 
