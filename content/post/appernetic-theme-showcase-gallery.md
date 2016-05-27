@@ -35,7 +35,10 @@ With the aggregated meta information and the themes gallery ready it was now als
 
 ![enter image description here][3]
 
+Click on the dashboard link up to the right and see for yourself and build a [static website][4]!
+
 
   [1]: https://res.cloudinary.com/appernetic/v1464371165/bqz05luuepoonqfutf5n
   [2]: http://themes.gohugo.io/
   [3]: https://res.cloudinary.com/appernetic/v1464371347/mgc1lnbrytafkitsjmma
+  [4]: https://appernetic.io/app/#/dashboard/list/create
