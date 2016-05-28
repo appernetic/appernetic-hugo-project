@@ -14,7 +14,11 @@ type = "post"
 ***The theme showcase gallery is ready! Now you can browse the gallery and install a theme just by clicking on it. This is the themes listed at [Hugo Theme Showcase][2].*** 
 
 ## Aggregated meta information
-We automatically aggregate and build a JSON file each week that contains the extracted meta information from each of the 86 themes. We also check if each theme has an exampleSite folder and a config.toml file and if they have we give them a star in the frontend. Everything is served as a JSON file from a REST API endpoint, then we have Angular mangling the arrays and objects to make them look intelligible to us humans.   
+We automatically aggregate and build a JSON file each week that contains the extracted meta information from each of the 86 themes. 
+
+I also check if each theme has an exampleSite folder and a config.toml file and if they have we give them a star in the frontend. 
+
+Everything is served as a JSON file from a REST API endpoint, then we have Angular mangling the arrays and objects to make them look intelligible to us humans.   
 
 If you are not the most patient type of person, avoid themes that have no star, they  need some extra attention to get your website working.
 
@@ -38,7 +42,8 @@ Click on the dashboard link up to the right and see for yourself and build a [st
 
 ![Theme showcase gallery item in appernetic dashboard][5]
 
-
+By the way, I have just removed Twitter user sign-in. It was an easy decision. Twitter users had no email in their meta info and was lagging behind in the interwebs, and behaved inconsistently. Also, I had no Twitter freemium or paying users and I had exceeded Auth0's social connection limits anyway.
+ 
   [1]: https://res.cloudinary.com/appernetic/v1464414173/suli8vdkjsw9luw1ol3f
   [2]: http://themes.gohugo.io/
   [3]: https://res.cloudinary.com/appernetic/v1464371347/mgc1lnbrytafkitsjmma
