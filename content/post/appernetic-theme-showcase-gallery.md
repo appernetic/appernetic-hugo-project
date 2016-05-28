@@ -10,7 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-![enter image description here][1]
+![Setup wizard, now with theme showcase gallery in appernetic dashboard][1]
 ***The theme showcase gallery is ready! Now you can browse the gallery and install a theme just by clicking on it. This is the themes listed at [Hugo Theme Showcase][2].*** 
 
 ## Aggregated meta information
@@ -32,11 +32,11 @@ Included in each theme listing is:
 
 With the aggregated meta information and the themes gallery ready it was now also possible to include the one-click theme install feature in the quick start wizard.  This will make it much easier to get started.
 
-![enter image description here][3]
+![Theme showcase gallery item in appernetic dashboard][3]
 
 Click on the dashboard link up to the right and see for yourself and build a [static website][4]!
 
-![enter image description here][5]
+![Theme showcase gallery item in appernetic dashboard][5]
 
 
   [1]: https://res.cloudinary.com/appernetic/v1464414173/suli8vdkjsw9luw1ol3f
