@@ -55,14 +55,14 @@ Our uptime monitoring with Pingdom also shows that the we are on the [right trac
 ![Response time diagram last 24 hours][6]
 Response time diagram last 24 hours for the Angular app.
 
-![Pingdom test result logs for the Angular app (Appernetic service)][7]
-Pingdom test result logs for the Angular app (Appernetic service).
+![Pingdom test result logs for the Angular app (Appernetic static website service)][7]
+Pingdom test result logs for the Angular app (Appernetic static website service).
 
 ## Caching
 Caching with CloudFlare is improving. Once the cache has been properly warmed up, it will even be better than this.
 
-![Appernetic service, caching with CloudFlare][8]
-Appernetic service, caching with CloudFlare.
+![Appernetic static website service, caching with CloudFlare][8]
+Appernetic static website service, caching with CloudFlare.
 
 
   [1]: https://appernetic.io
