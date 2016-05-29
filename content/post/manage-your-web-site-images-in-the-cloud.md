@@ -10,7 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-## Cloudinary
+## Cloudinary for image and video assets management 
 We no longer use GitHub to manage images in your Appernetic service account. You can still use GitHub and they have a easy to use image upload, but to use Appernetic's image upload you now have to first create a Cloudinary account. The advantages of using Cloudinary is so big that it was an easy decision to integrate it. Images are seamlessly delivered through Akamai's fast CDN. By not bogging down GitHub with large images you are also being a good netizen.
 
 Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline. Easily upload images to the cloud. Automatically perform smart image resizing, cropping and conversion without installing any complex software. Integrate Facebook or Twitter profile image extraction in a snap, in any dimension and style to match your website’s graphics requirements. 
