@@ -3,10 +3,10 @@ author = "author"
 date = "2016-05-27T18:04:58Z"
 #description = "description"
 draft = false
-keywords = ["Static website service", "Hugo", "Theme showcase gallery"]
-tags = ["Static website service", "Hugo", "Theme showcase gallery"]
+keywords = ["Static website service", "static website", "Hugo", "Theme showcase gallery"]
+tags = ["Static website service", "Hugo", "Theme showcase gallery", "static website"]
 title = "Appernetic theme showcase gallery"
-topics = ["topic 1"]
+topics = ["Static website"]
 type = "post"
 
 +++
