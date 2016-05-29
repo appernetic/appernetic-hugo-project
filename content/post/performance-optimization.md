@@ -11,13 +11,13 @@ type = "post"
 
 +++
 ## Static website service performance improvements
-We have made significant performance improvements of our [static website service][1] and have dug deep into everything on the client and server side. All images is now sent with Cloudinary's Akamai CDN including the favicon, and every css, html and Javascript file is compressed and minified. 
+We have made significant performance improvements in our [static website service][1] and have dug deep into everything on the client and server side. All images are now sent with Cloudinary's Akamai CDN including the favicon, and every CSS, HTML and Javascript file are compressed and minified. 
 
 ## Speed Index
-We use [webpagetest][2] for our performance tests. As a measure of how one experiences the web page speed we use [Speed Index][3]. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on size of the view port. 
+We use [webpagetest][2] for our performance tests. As a measure of how one experiences the web page speed we use [Speed Index][3]. The Speed Index is the average time at which visible parts of the page are displayed.  It is expressed in milliseconds and dependent on the size of the viewport. 
 
 ![Speed Index Reference Results][4]
-We have now also separated the routes for the front page and the Angular app. The Angular app are now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
+We have now also separated the routes for the front page and the Angular app. The Angular app is now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
 
 Angular app (Appernetic Static Site Generator) performance test from:
 
@@ -50,7 +50,7 @@ Front page performance test from:
 
  - Frankfurt, DE: http://www.webpagetest.org/result/160309_GG_8DS/ First view, Speed Index: **1309**
 
-Our uptime monitoring with Pingdom also shows that the we are on the [right track now][5]. For the front page we now have performance grade 92 of 100. Google PageSpeed Insights shows 67 of 100 for mobile devices and 87 of 100 for computers. 
+Our uptime monitoring with Pingdom also shows that the we are on the [right track now][5]. For the front page, we now have the ​performance grade 92 of 100. Google PageSpeed Insights shows 67 of 100 for mobile devices and 87 of 100 for computers. 
 
 ![Response time diagram last 24 hours][6]
 Response time diagram last 24 hours for the Angular app.
