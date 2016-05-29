@@ -1,12 +1,12 @@
 +++
-author = "Admin"
+author = "Göran Svensson"
 date = "2016-02-10T19:50:09Z"
 description = "With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub, auto save and theme cloning."
 draft = false
-keywords = ["Static web site generator", "dynamic CMS", "Appernetic", "Fast", "Secure"]
-tags = ["Static web site generator", "Internet"]
-title = "Why use a static web site generator?"
-topics = ["Static web site generator"]
+keywords = ["Static website generator", "dynamic CMS", "Appernetic", "Fast", "Secure", "static website"]
+tags = ["Static website generator", "Internet", "static website"]
+title = "Why use a static website generator?"
+topics = ["Static website generator"]
 type = "post"
 
 +++
