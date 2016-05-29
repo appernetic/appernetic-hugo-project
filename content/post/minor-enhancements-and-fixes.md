@@ -6,7 +6,7 @@ draft = false
 keywords = ["Site preview", "theme", ".gitignore" ]
 tags = ["Apperentic Static Site Generator", "Appernetic Service", "Git"]
 title = "Minor enhancements and fixes"
-topics = ["topic 1"]
+topics = ["Enhancements"]
 type = "post"
 
 +++
