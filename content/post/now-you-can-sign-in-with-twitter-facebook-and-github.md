@@ -30,6 +30,8 @@ Just flip a switch in the auth0 dashboard.
 
 Sign in with your E-mail, Twitter, Facebook and GitHub.  Enjoy folks!
 
+UPDATE (28052016): I have just removed Twitter user sign-in. It was an easy decision. Twitter users had no email in their meta info and was lagging behind in the interwebs, and behaved inconsistently. Also, I had no Twitter freemium or paying users and I had exceeded Auth0’s social connection limits anyway.
+
 https://appernetic.io #contentmanagement
 
 
