@@ -9,7 +9,7 @@ title = "Now you can sign in with twitter, facebook, github or your e-mail!"
 topics = ["Static website enhancements"]
 type = "post"
 +++
-## Static website servic update!
+## Static website service update!
 
 After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password to the [static website service][1].  
 
