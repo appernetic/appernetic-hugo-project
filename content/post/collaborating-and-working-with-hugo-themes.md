@@ -11,11 +11,11 @@ type = "post"
 
 +++
 ## Customizing themes
-If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue **Preview** button to the right. 
+If you just have set up your Appernetic [static website service][1] account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue **Preview** button to the right. 
 
-![Install a theme][1]
+![Install a theme][2]
 
-You can start by cloning my customized [hugo-bootstrap theme][2] or get one from [Hugo][3]. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and change the settings as you would like to have it.
+You can start by cloning my customized [hugo-bootstrap theme][3] or get one from [Hugo][4]. Then select the theme from the list of themes and click Use Theme. When you do that the theme config settings will be copied to your project folder. Now open the settings tab and change the settings as you would like to have it.
 
 You can change the bootswatch to another design by changing the theme = "paper" under [params].
 
@@ -39,22 +39,22 @@ Here is the different bootswatch designs you can use:
  - united
  - yeti 
 
-There are lots of themes at [Hugo][4], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business website or service. I am using Bootswatch Paper theme for [Appernetic static website service][5]. Fortunately, I found [hugo-bootstrap][6] and cloned it. 
+There are lots of themes at [Hugo][5], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business website or service. I am using Bootswatch Paper theme for [Appernetic static website service][6]. Fortunately, I found [hugo-bootstrap][7] and cloned it. 
 
-Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at [GitHub][7] with the name **appernetic-hugo-project** . When you start out you will not have this repo so it is automatically created for you and all strange git commands is hidden away so you do not have to think about it.
+Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at [GitHub][8] with the name **appernetic-hugo-project** . When you start out you will not have this repo so it is automatically created for you and all strange git commands is hidden away so you do not have to think about it.
 
 > When you start out you will not have this repo so it is automatically
 > created for you and all strange git commands is hidden away so you do
 > not have to think about it.
 
-![Sync with GitHub][8]
+![Sync with GitHub][9]
 
-Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for [GitHub][9].
+Now to work with the theme I did a pull to my local computer, edited the theme with my favorite editor *Atom* and after that I did a commit and a push back to my GitHub project repo. If you are a hard-core git user you would start terminal and add the commands. There is also a very easy to use desktop client for [GitHub][10].
 
-![GitHub Desktop app][10]
+![GitHub Desktop app][11]
 
 ## Collaborating 
-Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a **Sync** again in Appernetic and then a **Publish** and after 10 min all is live on [GitHub Pages][11].
+Notice also that I have all the social and collaborating features in GitHub so I can invite a real front end designer to have a look at my attempts to customize the theme. My last step is to do a **Sync** again in Appernetic and then a **Publish** and after 10 min all is live on [GitHub Pages][12].
 
 > Notice also that I have all the social and collaborating features in
 > GitHub so I can invite a real front end designer to have a look at my
@@ -63,7 +63,7 @@ Notice also that I have all the social and collaborating features in GitHub so I
 ## Start blogging!
 From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *TOML* or *YAML* front matter (TOML as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to **undraft** the post if you would like to see it after publishing and  add key words, tags, and topics.
 
-![Start blogging][12]
+![Start blogging][13]
 
 Happy blogging!
 
@@ -71,15 +71,16 @@ Tip, skip the first headline in the post (at least in hugo-bootstrap it will be 
  
 
 
-  [1]: https://res.cloudinary.com/appernetic/v1457304135/pig3qgwntchbkk0x9tab
-  [2]: https://github.com/appernetic/hugo-bootstrap-mod.git
-  [3]: http://themes.gohugo.io/
+  [1]: https://appernetic.io
+  [2]: https://res.cloudinary.com/appernetic/v1457304135/pig3qgwntchbkk0x9tab
+  [3]: https://github.com/appernetic/hugo-bootstrap-mod.git
   [4]: http://themes.gohugo.io/
-  [5]: https://appernetic.io
-  [6]: https://github.com/mmrath/hugo-bootstrap
-  [7]: https://github.com/
-  [8]: https://res.cloudinary.com/appernetic/v1457304341/htdhjub2yfcw4bpkzklw
-  [9]: https://desktop.github.com/
-  [10]: https://res.cloudinary.com/appernetic/v1457304455/tdsbe75348lm3dxa1csw
-  [11]: https://appernetic.github.io/
-  [12]: https://res.cloudinary.com/appernetic/v1457304529/clqxr6v6xhxum0jvqabz
+  [5]: http://themes.gohugo.io/
+  [6]: https://appernetic.io
+  [7]: https://github.com/mmrath/hugo-bootstrap
+  [8]: https://github.com/
+  [9]: https://res.cloudinary.com/appernetic/v1457304341/htdhjub2yfcw4bpkzklw
+  [10]: https://desktop.github.com/
+  [11]: https://res.cloudinary.com/appernetic/v1457304455/tdsbe75348lm3dxa1csw
+  [12]: https://appernetic.github.io/
+  [13]: https://res.cloudinary.com/appernetic/v1457304529/clqxr6v6xhxum0jvqabz
