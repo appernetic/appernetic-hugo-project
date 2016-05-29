@@ -14,7 +14,7 @@ type = "post"
 
 ***A static website is fast and secure but it is not easy to set up a new blog or website if you don't know a lot of commands, tools and also how to install them when you would rather like to be writing exciting content to distribute over the interwebz!***
  
-First you have to:
+First,​ you have to:
 
  - download the right version of the [static website generator][2] for your OS and architecture.
  -  install git
@@ -64,7 +64,7 @@ We assume the following is already done:
 
 ## What about custom domains?
 
- No problem, it is easy to connect your custom domain to your GitHub Pages. Follow these five steps (no programming or terminal console needed):
+ No problem, it is easy to connect your custom domain to your GitHub Pages. Follow these five steps (no programming or terminal console needed):
 
 1. In your Appernetic dashboard, Sync you appernetic project with GitHub, this will create a appernetic-hugo-project with all your files on GitHub. We do this so that we can work with files outside the content folder.
 2. Place this file in your GitHub, appernetic-hugo-project repositories static folder: 
