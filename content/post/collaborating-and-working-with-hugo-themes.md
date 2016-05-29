@@ -3,10 +3,10 @@ author = "author"
 date = "2016-02-18T20:27:25Z"
 description = "If you just have set up your Appernetic account you need to add a theme. The easiest way is to clone a theme which you can do from the drop down button beside the blue Preview button to the right."
 draft = false
-keywords = ["Static", "Blogging", "GitHub"]
-tags = ["Static web site generator", "Blogging", "GitHub"]
+keywords = ["Static", "Blogging", "GitHub","static website"]
+tags = ["Static web site generator", "Blogging", "GitHub","static website"]
 title = "Collaborating and working with hugo themes"
-topics = ["topic 1"]
+topics = ["static website"]
 type = "post"
 
 +++
