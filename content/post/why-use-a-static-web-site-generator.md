@@ -22,16 +22,16 @@ Now there is a rich ecosystem of service providers for anything including forms,
 
  - **Fast**, static files can be served fast. There is no database or templating layer that slows requests down. A static website will always be the fastest way to deliver content.
  - **Secure**, static websites do not contain dynamic content, and are therefore immune to most common attacks that dynamic systems like Wordpress and Joomla are plagued with.  Recently 12 million Drupal sites needed emergency patching.
- - **Previewable**, It is easy to separate preview from the live site.
- - **Versioning**, static-site generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
+ - **Previewable**, It is easy to separate preview from the live website.
+ - **Versioning**, static website generators store their content in flat text files. This makes them ideal to be used with version control systems, such as Git. 
 
-Static site generator are getting more popular and a view on Google Trends shows this:
+Static website generator are getting more popular and a view on Google Trends shows this:
  ![Static site generator statistics][3]
 
 Interest over time. Web Search. Worldwide, 2004 to the present.
 
-## A static site generator as a service
-With Appernetic we are building a static web generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub and atomic deploy, auto save and theme cloning. 
+## A static website generator as a service
+With Appernetic we are building a static website generator as a service that is easy to use for non-technical users and add some extra value. To start with we have included an easy to use editor, visual tree view, image upload, site preview, continuous integration with GitHub and atomic deploy, auto save and theme cloning. 
 
 ## Why gitHub?
 You're probably wondering why the heck we are using GitHub. First of all GitHub use git which is a very good versioning system and they have [GitHub Pages][4] and you can use your own domain name and SSL (probably not the safest, but anyway its SSL!). Even if they only cache pages for 10 minutes and there are more cache misses then hits they have a fast CDN, Fastly.  I did a little unscientific performance test to see how it's really working out. All tests is done with [websitetest.com][5] from Berlin:
