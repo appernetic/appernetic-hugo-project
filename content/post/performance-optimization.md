@@ -19,7 +19,7 @@ We use [webpagetest][2] for our performance tests. As a measure of how one exper
 ![Speed Index Reference Results][4]
 We have now also separated the routes for the front page and the Angular app. The Angular app is now between the median to 10th percentile compared to the reference speed index, which is as good as it can get. Our front page which we want to be as quick as possible is now below the 10th percentile 6 of 8 times.
 
-Angular app (Appernetic Static Site Generator) performance test from:
+Angular app (Appernetic Static website Generator service) performance test from:
 
  - Dulles, VA Thinkpad T430: http://www.webpagetest.org/result/160308_C8_15P4/1/details/  First View, Speed Index: **1422**
 
@@ -50,7 +50,7 @@ Front page performance test from:
 
  - Frankfurt, DE: http://www.webpagetest.org/result/160309_GG_8DS/ First view, Speed Index: **1309**
 
-Our uptime monitoring with Pingdom also shows that the we are on the [right track now][5]. For the front page, we now have the ​performance grade 92 of 100. Google PageSpeed Insights shows 67 of 100 for mobile devices and 87 of 100 for computers. 
+Our uptime monitoring with Pingdom also shows that the we are on the [right track now][5]. For the front page, we now have the performance grade 92 of 100. Google PageSpeed Insights shows 67 of 100 for mobile devices and 87 of 100 for computers. 
 
 ![Response time diagram last 24 hours][6]
 Response time diagram last 24 hours for the Angular app.
