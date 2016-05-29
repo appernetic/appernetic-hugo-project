@@ -23,13 +23,14 @@ That was the question I saw in the 7 Day Startup group on Facebook. Similar ques
 
 ***It seems to be a common pain point.***
 
+## Process forms in a static website
 With a [static website][1], you don't have anything that can process form submissions so it is not a simple task to do it yourself. 
 
 For this, you need a newsletter opt-in form, a mailing list and a service that handles the submitted content.
 
 In our latest theme: [hugo-bootstrap-premium][2] we have integrated a popover newsletter opt-in form that is super easy to customize without any coding.
 
-It has all the features you need such as bootstrap theming, exit detection, customized delay, add your custom image, change text etc. It also detects mobile devices and shows larger buttons for devices with small screen sizes.
+It has all the features you need such as bootstrap theming, exit detection, customized delay, add your custom image,  change text etc. It also detects mobile devices so it can show larger buttons for devices with small screen sizes.
 
 ![blog.appernetic.io using theme hugo-bootstrap-premium with popover opt-in form.][3]
 
@@ -39,7 +40,7 @@ You only have to enable the form and add your [Zapier][4] post hook that post to
 
 This is  the enabled newsletter opt-in form with a Zapier hook.
 
-We also integrated [MailMunch][7] and [SumoMe][8] in the theme so you can use it instead  if you prefer by simply adding your mailmunchid or sumomeid.
+We also integrated [MailMunch][7] and [SumoMe][8] in the theme so you can use it in your static website  instead  if you prefer by simply adding your mailmunchid or sumomeid.
 
 That’s it! Give [fast, secure blogging][9] a try and you will never go back to WordPress, Joomla or Drupal. We support you both in Swedish and English.
 
