@@ -39,7 +39,7 @@ Here is the different bootswatch designs you can use:
  - united
  - yeti 
 
-There is lots of themes at [Hugo][4], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic service][5]. Fortunately I found [hugo-bootstrap][6] and cloned it. 
+There is lots of themes at [Hugo][4], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic static website service][5]. Fortunately I found [hugo-bootstrap][6] and cloned it. 
 
 Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at [GitHub][7] with the name **appernetic-hugo-project** . When you start out you will not have this repo so it is automatically created for you and all strange git commands i hidden away so you do not have to think about it.
 
