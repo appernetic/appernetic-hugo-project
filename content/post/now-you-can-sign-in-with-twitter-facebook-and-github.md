@@ -1,7 +1,7 @@
 +++
 author = "Göran Svensson"
 date = "2016-04-26T13:10:05Z"
-description = "Update! After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password."
+description = "Update! After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password to the static website service."
 draft = false
 keywords = ["E-mail sign up", "Twitter", "Facebook", "Sign in", "Auth0", "static website"]
 tags = ["Appernetic Static Site Generator", "Appernetic Service", "Enhancements", "static website"]
@@ -11,9 +11,9 @@ type = "post"
 +++
 ## Update!
 
-After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password.  
+After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password to the s.  
 
-![Appernetic Static Site Generator with e-mail sign up, Twitter, Facebook and GitHub sign in!][1]
+![Appernetic Static website Generator with e-mail sign up, Twitter, Facebook and GitHub sign in!][1]
 
 For us and the service there is the problem with:
 
