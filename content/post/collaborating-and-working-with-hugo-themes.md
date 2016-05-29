@@ -11,7 +11,7 @@ type = "post"
 
 +++
 ## Customizing themes
-If you just have set up your Appernetic [static website service][1] account you need to add a theme. The easiest way is to clone a theme which you can do from the menu <span class="glyphicon glyphicon-blackboard"></span> button. 
+If you just have set up your Appernetic [static website service][1] account you need to add a theme. The easiest way is to clone a theme which you can do from the menu <span class="glyphicon glyphicon-blackboard"></span> button​. 
 
 ![Install a theme][2]
 
