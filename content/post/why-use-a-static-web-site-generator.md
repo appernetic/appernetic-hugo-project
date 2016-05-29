@@ -42,13 +42,13 @@ You're probably wondering why the heck we are using GitHub. First of all GitHub 
 4. http://www.theguardian.com/uk-news,  No SSL, Dynamic site, 4.3 MB, Time to Last Byte: **484 ms**
 5. https://medium.com/@erinleecarr/lessons-dbbaa0c8294d#.h25nipmyq, SSL, Dynamic blog, 3.2 MB, Time to Last Byte **492 ms**.
 
-> A static site wins every time even if there is a lot of cache misses.
+> A static website wins every time even if there is a lot of cache misses.
 
-We also eat our own dog food and use it for everything possible. Keep your eye on the blog where we will be posting tips and tricks how you can get the best advantage of a static blog or web site.
+We also eat our own dog food and use it for everything possible. Keep your eye on the blog where we will be posting tips and tricks how you can get the best advantage of a static blog or website.
 
 ![working on computer pexels.com][6]
 
-We are using Hugo for fast site generation and GitHub for deploy. 
+We are using Hugo for fast website generation and GitHub for deploy. 
 
 
   [1]: https://res.cloudinary.com/appernetic/v1457306076/y8ylaazm8pet3nwpbffq
