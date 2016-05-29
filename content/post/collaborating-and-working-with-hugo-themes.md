@@ -39,7 +39,7 @@ Here is the different bootswatch designs you can use:
  - united
  - yeti 
 
-There are lots of themes at [Hugo][4], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business web site or service. I am using Bootswatch Paper theme for [Appernetic static website service][5]. Fortunately, I found [hugo-bootstrap][6] and cloned it. 
+There are lots of themes at [Hugo][4], but you probably want to customize the theme before you use it so that you have a blog with  a theme that is matching your business website or service. I am using Bootswatch Paper theme for [Appernetic static website service][5]. Fortunately, I found [hugo-bootstrap][6] and cloned it. 
 
 Then to customize it further I pressed the **Sync** button which does a pull and then a push to your Appernetic project repository at [GitHub][7] with the name **appernetic-hugo-project** . When you start out you will not have this repo so it is automatically created for you and all strange git commands is hidden away so you do not have to think about it.
 
@@ -61,7 +61,7 @@ Notice also that I have all the social and collaborating features in GitHub so I
 > attempts to customize the theme.
 
 ## Start blogging!
-From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *TOML* or *YAML* front matter (toml as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to **undraft** the post if you would like to see it after publishing and  add key words, tags, and topics.
+From now on it is very easy to start blogging. Select the **post** directory in the tree view, it is where blog post lives. Create a new file,  name it with a headline, it will be sluggified automatically. Select *TOML* or *YAML* front matter (TOML as default selection). The file tree will be updated and show the new file. Open the file and blog away! Turn on auto save and all text you write will be saved every other minute. Remember to **undraft** the post if you would like to see it after publishing and  add key words, tags, and topics.
 
 ![Start blogging][12]
 
