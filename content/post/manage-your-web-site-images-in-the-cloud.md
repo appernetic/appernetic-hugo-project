@@ -3,10 +3,10 @@ author = "Göran Svensson"
 date = "2016-03-09T14:28:30Z"
 description = "Cloudinary is a cloud service that offers a solution to a web application’s entire image management pipeline. Easily upload images to the cloud. Automatically perform smart image resizing, cropping and conversion without installing any complex software."
 draft = false
-keywords = ["Digital Asset Management", "Cloudinary", "Appernetic Cloudinary setup"]
-tags = ["Cloudinary", "Digital Asset Management", "Appernetic Service","Appernetic Static Site Generator", "Help"]
+keywords = ["Digital Asset Management", "Cloudinary", "Appernetic Cloudinary setup", "static website"]
+tags = ["Cloudinary", "Digital Asset Management", "Appernetic Service","Appernetic Static Site Generator", "Help", "static website"]
 title = "Manage your web site images in the cloud"
-topics = ["topic 1"]
+topics = ["How-to"]
 type = "post"
 
 +++
