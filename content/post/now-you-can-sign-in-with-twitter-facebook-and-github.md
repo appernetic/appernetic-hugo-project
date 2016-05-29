@@ -9,11 +9,11 @@ title = "Now you can sign in with twitter, facebook, github or your e-mail!"
 topics = ["Static website enhancements"]
 type = "post"
 +++
-## Update!
+## Static website servic update!
 
-After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password to the s.  
+After users having expressed concerns about privacy we contemplated the implications over the weekend what impact it would have to add a custom sign up and log in with e-mail and a user-generated password to the [static website service][1].  
 
-![Appernetic Static website Generator with e-mail sign up, Twitter, Facebook and GitHub sign in!][1]
+![Appernetic Static website Generator with e-mail sign up, Twitter, Facebook and GitHub sign in!][2]
 
 For us and the service there is the problem with:
 
@@ -35,4 +35,5 @@ UPDATE (28052016): I have just removed Twitter user sign-in. It was an easy deci
 https://appernetic.io #contentmanagement
 
 
-  [1]: https://res.cloudinary.com/appernetic/v1461667876/bvzstocens1wcwu3vba1
+  [1]: https://appernetic.io
+  [2]: https://res.cloudinary.com/appernetic/v1461667876/bvzstocens1wcwu3vba1
