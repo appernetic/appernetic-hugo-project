@@ -68,7 +68,7 @@ optin = true #opt-in: true/false
 	BrandImage = "/images/apperneticlogo.png" #top header brand image.
 	brand = "Appernetic blog" # brand image alt text.
     topline = "A Static Site Generator as a Service"
-    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/appernetic/hugo-bootstrap-premium'>Hugo-bootstrap-premium</a> <a href='http://www.bloggranking.se/in/361' target='_blank'><img src='http://www.bloggranking.se/bild/361' alt='Bloggranking'></a> <a href='http://www.ontoplist.com/' target='_blank'><img src='http://www.ontoplist.com/images/ontoplist31.png?id=574eee935b577' alt='Blog Directory & Business Pages - OnToplist.com' border='0' /></a>"
+    footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/appernetic/hugo-bootstrap-premium'>Hugo-bootstrap-premium</a> <a href='http://www.bloggranking.se/in/361' target='_blank'><img src='http://www.bloggranking.se/bild/361' alt='Bloggranking'></a> <a href='http://www.ontoplist.com/' target='_blank'><img src='http://www.ontoplist.com/images/ontoplist31.png?id=574eee935b577' alt='Blog Directory & Business Pages - OnToplist.com' border='0' /></a> <a href='http://www.sutradirectory.com/'>Web Directory</a>"
    # theme = "paper"
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
