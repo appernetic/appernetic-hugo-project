@@ -1,6 +1,6 @@
 +++
-author = "author"
-date = "2016-05-27T18:04:58Z"
+author = "Göran Svensson"
+date = "2016-06-01T12:04:58Z"
 #description = "description"
 draft = false
 keywords = ["Static website service", "static website", "Hugo", "Theme showcase gallery"]
