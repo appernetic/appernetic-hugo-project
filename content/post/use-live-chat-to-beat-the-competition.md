@@ -2,7 +2,7 @@
 author = "author"
 date = "2016-07-14T15:31:16Z"
 description = "You’re trying to evaluate an online service, wondering if they’d have the features you are looking for when - katching, a window pops up on the bottom of the page asking if it can be of any assistance. You reply, and your queries are quickly answered by a real, live human. That’s the magic of live chat. Online SaaS and e-commerce systems can be uninhabited, impersonal places. Adding the digital equivalent of a salesperson helping website visitors can be the difference between a happy customer and another sale lost to competitors."
-draft = true
+draft = false
 keywords = ["Customer Support", "Live Chat", "Happyfox", "Zoho Support"]
 tags = ["Chat", "Support", "Happyfox", "Zoho Support", "Helpdesk"]
 title = "Use live chat to beat the competition"
