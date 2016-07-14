@@ -3,10 +3,10 @@ author = "author"
 date = "2016-07-14T15:31:16Z"
 description = "description"
 draft = true
-keywords = ["key", "words"]
-tags = ["one", "two"]
+keywords = ["Customer Support", "Live Chat", "Happyfox", "Zoho Support"]
+tags = ["Chat", "Support", "Happyfox", "Zoho Support"]
 title = "Use live chat to beat the competition"
-topics = ["topic 1"]
+topics = ["Customer Support"]
 type = "post"
 
 +++
