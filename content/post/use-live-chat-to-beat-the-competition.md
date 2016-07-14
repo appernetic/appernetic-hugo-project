@@ -44,12 +44,13 @@ We want to interact with and help our visitors and hopefully, get feedback with 
 FreshDesk had all the bells and whistles, live chat, integrated ticket system with Twitter, Facebook messenger, branding, customer portal etc, but only if you paid $49/month. JivoChat had no customization in the free version so it was very annoying to have it on the dashboard. Slack is useful if you are a team that needs to communicate, but it is not useful when you have to invite visitors when they need support. HipChat has a lot of integration options but it is too developer centric. 
 
 So after contemplating we came up with our criteria for a customer support service:
-- free or freemium 
-- one agent 
-- pause incoming live chats
-- easy for visitors to engage in real time
-- easy to operate, manage and customize
-- seamless integration with the SaaS system 
+
+ - Free or freemium 
+- One agent 
+- Pause incoming live chats
+- Easy for visitors to engage in real time
+- Easy to operate, manage and customize
+- Seamless integration with the SaaS system 
 
 I researched and evaluated the following tools:
 
