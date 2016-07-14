@@ -54,50 +54,91 @@ So after contemplating we came up with our criteria for a customer support servi
 I researched and evaluated the following tools:
 
 http://livechat24-7.com
+
 http://tawk.to
+
 http://livezilla.net
+
 https://sdelements.github.io/lets-chat/
+
 https://fleep.io/
+
 https://www.flowdock.com/
+
 https://www.enchant.com/
+
 https://www.drift.com
+
 http://chato.ps
+
 https://chatra.io
+
 https://chatlio.com
+
 https://chatpirate.com
+
 http://helprace.com/help-desk-software
+
 https://keyreply.com/chat/
+
 https://www.jostle.me/
+
 http://moxtra.com/
+
 https://www.messagebird.com/
+
 https://get.slaask.com/
+
 https://www.hipchat.com
+
 https://www.smartsupp.com
+
 https://rocket.chat/
+
 http://www.ryver.com/
+
 http://matrix.org/
+
 https://vector.im/
+
 https://glip.com/
+
 https://clearchat.com/
+
 https://www.reamaze.com/
+
 https://www.purechat.com/
+
 https://happyfoxchat.com/
+
 https://www.wrike.com/
+
 http://meetfranz.com/
+
 http://www.hipmob.com/
+
 https://www.olark.com/
+
 https://www.zoho.com/support/
 
 The one who stand out was:
+
 https://www.zoho.com/support/
+
 https://happyfoxchat.com/
+
 https://keyreply.com/chat/
+
 https://www.drift.com
+
 https://rocket.chat/
+
 http://www.ryver.com/
 https://chatra.io
 
-In the end, I chose Happyfoxchat for Live Chat and Zoho Support for helpdesk/customer portal. 
+In the end, there was only Drift, HappyFox, Chatra and Zoho Support left. 
+
+I chose HappyFox Chat for Live Chat and Zoho Support for helpdesk/customer portal, no integration between them.
 
 It was easy to implement Happyfoxchat and I built a branded customer portal with Zoho Support: https://help.appernetic.io
 
