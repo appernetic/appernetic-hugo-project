@@ -147,7 +147,7 @@ It was easy to implement Happyfoxchat and I built a branded customer portal with
 
 ![Appernetic.io with Happyfoxchat ][2]
 
-Today I found [crisp][3] and [smooch][4] which are promising Live Chats. Check them out and let me know if it is good!
+Today I found [crisp][3] and [smooch][4] which are promising Live Chats. Check them out and let me know if they are good!
 
 
   [1]: https://res.cloudinary.com/appernetic/v1468511020/qk7aidqewk3xr7msnie1
