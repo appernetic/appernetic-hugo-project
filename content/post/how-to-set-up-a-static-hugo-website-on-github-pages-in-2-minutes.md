@@ -3,7 +3,7 @@ author = "Göran Svensson"
 date = "2016-04-09T05:53:13Z"
 description = "A static website is fast and secure but it is not easy to start a new blog or website if you don’t know a lot of commands, tools and also how to install them."
 draft = false
-keywords = ["Hugo static website generator", "Interwebz", "Appernetic", "static website"]
+keywords = ["Hugo static website generator", "Appernetic", "static website"]
 tags = ["Static website generator", "Hugo", "How to", "static website"]
 title = "How to set up a static Hugo website on GitHub pages in 2 minutes"
 topics = ["static website"]
@@ -60,7 +60,7 @@ We assume the following is already done:
 
 **Now watch this instructive how-to video for 2:13 minutes.**
 
-{{< vimeo 162159974 >}}
+{{< youtube saui7cic0MQ >}}
 
 ## What about custom domains?
 
