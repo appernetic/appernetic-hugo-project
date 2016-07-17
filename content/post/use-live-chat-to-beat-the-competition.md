@@ -23,7 +23,7 @@ Customers today simply want efficient, effortless service. Forrester Research fo
 
  As a result, customers are increasingly leveraging chat for effortless service. 
 
-Forrester Research found that more than one-third of older Boomers (ages 57 to 67) and the Golden Generation (68 and over) already using chat for customer service. customers are also increasingly comfortable with a proactive chat offer during an online research or purchase interaction.
+Forrester Research found that more than one-third of older Boomers (ages 57 to 67) and the Golden Generation (68 and over) already using chat for customer service. Customers are also increasingly comfortable with a proactive chat offer during an online research or purchase.
 
 Nets, a nordic provider of payments, cards, and information services, have moved 75% of all email and phone inquiries to chat.
 
