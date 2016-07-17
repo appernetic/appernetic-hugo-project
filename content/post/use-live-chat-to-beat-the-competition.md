@@ -145,17 +145,18 @@ In the end, there was only Drift, HappyFox, Chatra and Zoho Support left.
 
 I chose HappyFox Chat for Live Chat and Zoho Support for helpdesk/customer portal, no integration between them.
 
-
+![HappyFox Chat][3]
 
 It was easy to implement Happyfoxchat and I also built a branded customer portal with Zoho Support: https://help.appernetic.io. One problem I have found with HappyFox chat is that the mobile version is opening a window in a new tab which is a bit annoying.
 
-![Appernetic.io with Happyfoxchat ][3]
+![Appernetic.io with Happyfoxchat ][4]
 
-Now I have found [crisp][4] and [smooch][5] which are promising Live Chats. Check them out and let me know if they are good!
+Now I have found [crisp][5] and [smooch][6] which are promising Live Chats. Check them out and let me know if they are good!
 
 
   [1]: https://res.cloudinary.com/appernetic/v1468511020/qk7aidqewk3xr7msnie1
   [2]: https://res.cloudinary.com/appernetic/v1468797954/fv8jynh5paottf7bjztl
-  [3]: https://res.cloudinary.com/appernetic/v1468510895/nnymxeuwo5odxf5vw3ge
-  [4]: https://crisp.im
-  [5]: https://smooch.io/
+  [3]: https://res.cloudinary.com/appernetic/v1468798408/yxjt1dn4jfj3a7teuhsm
+  [4]: https://res.cloudinary.com/appernetic/v1468510895/nnymxeuwo5odxf5vw3ge
+  [5]: https://crisp.im
+  [6]: https://smooch.io/
