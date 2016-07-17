@@ -37,6 +37,8 @@ To find the right app for customer support can be a time-consuming and overwhelm
 
 When I started to search for tools I found hundreds and hundreds of them and endless of ways to integrate them with the help of Zapier or Sameroom.io. I could set up webhooks and open tubes and portals between them. I could customize so that we had a live chat that triggered a persistent HipChat room  or created a ticket when someone mentioned the keyword bug in a tweet. I could easily build a custom Live Chat that used Moxtra as an intranet groupware  (but I found the metaphor "pärm" a bit strange). 
 
+![enter image description here][2]
+
 For me, this was the second or third evaluation of our customer support. In the past, I have tried JivoChat, Slack, Gitter, GitHub Issues, Trello, FreshDesk and LiveChat 24-7. They all have their shortcomings and we have got no interaction and feedback from any visitors in any of these tools.
 
 We want to interact with and help our visitors and hopefully, get feedback with as little management and operations overhead as possible. Our SaaS system is freemium and we are bootstrapping so we can't add more spendings on top of the one we already have.
@@ -145,12 +147,13 @@ I chose HappyFox Chat for Live Chat and Zoho Support for helpdesk/customer porta
 
 It was easy to implement Happyfoxchat and I also built a branded customer portal with Zoho Support: https://help.appernetic.io. One problem I have found with HappyFox chat is that the mobile version is opening a window in a new tab which is a bit annoying.
 
-![Appernetic.io with Happyfoxchat ][2]
+![Appernetic.io with Happyfoxchat ][3]
 
-Now I have found [crisp][3] and [smooch][4] which are promising Live Chats. Check them out and let me know if they are good!
+Now I have found [crisp][4] and [smooch][5] which are promising Live Chats. Check them out and let me know if they are good!
 
 
   [1]: https://res.cloudinary.com/appernetic/v1468511020/qk7aidqewk3xr7msnie1
-  [2]: https://res.cloudinary.com/appernetic/v1468510895/nnymxeuwo5odxf5vw3ge
-  [3]: https://crisp.im
-  [4]: https://smooch.io/
+  [2]: https://res.cloudinary.com/appernetic/v1468797954/fv8jynh5paottf7bjztl
+  [3]: https://res.cloudinary.com/appernetic/v1468510895/nnymxeuwo5odxf5vw3ge
+  [4]: https://crisp.im
+  [5]: https://smooch.io/
