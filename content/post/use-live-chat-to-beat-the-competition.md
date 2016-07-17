@@ -143,7 +143,7 @@ In the end, there was only Drift, HappyFox, Chatra and Zoho Support left.
 
 I chose HappyFox Chat for Live Chat and Zoho Support for helpdesk/customer portal, no integration between them.
 
-It was easy to implement Happyfoxchat and I built a branded customer portal with Zoho Support: https://help.appernetic.io
+It was easy to implement Happyfoxchat and I built a branded customer portal with Zoho Support: https://help.appernetic.io.
 
 ![Appernetic.io with Happyfoxchat ][2]
 
