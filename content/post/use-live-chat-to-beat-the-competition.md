@@ -125,7 +125,7 @@ https://www.olark.com/
 https://www.zoho.com/support/
 
 
-The one who stand out was:
+The ones who stand out was:
 
 https://www.zoho.com/support/
 
@@ -144,6 +144,8 @@ https://chatra.io
 In the end, there was only Drift, HappyFox, Chatra and Zoho Support left. 
 
 I chose HappyFox Chat for Live Chat and Zoho Support for helpdesk/customer portal, no integration between them.
+
+
 
 It was easy to implement Happyfoxchat and I also built a branded customer portal with Zoho Support: https://help.appernetic.io. One problem I have found with HappyFox chat is that the mobile version is opening a window in a new tab which is a bit annoying.
 
