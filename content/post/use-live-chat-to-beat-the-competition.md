@@ -37,7 +37,7 @@ To find the right app for customer support can be a time-consuming and overwhelm
 
 When I started to search for tools I found hundreds and hundreds of them and endless of ways to integrate them with the help of Zapier or Sameroom.io. I could set up webhooks and open tubes and portals between them. I could customize so that we had a live chat that triggered a persistent HipChat room  or created a ticket when someone mentioned the keyword bug in a tweet. I could easily build a custom Live Chat that used Moxtra as an intranet groupware  (but I found the metaphor "pärm" a bit strange). 
 
-![enter image description here][2]
+![Sameroom.io][2]
 
 For me, this was the second or third evaluation of our customer support. In the past, I have tried JivoChat, Slack, Gitter, GitHub Issues, Trello, FreshDesk and LiveChat 24-7. They all have their shortcomings and we have got no interaction and feedback from any visitors in any of these tools.
 
