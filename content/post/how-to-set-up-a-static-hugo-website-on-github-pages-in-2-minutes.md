@@ -12,7 +12,7 @@ type = "post"
 +++
 ![A static website - appernetic.io][1]
 
-***A static website is fast and secure but it is not easy to set up a new blog or website if you don't know a lot of commands, tools and also how to install them when you would rather like to be writing exciting content to distribute over the interwebz!***
+***A static website is fast and secure but it is not easy to set up a new blog or website if you don't know a lot of commands, tools and also how to install them when you would rather like to be writing exciting content to distribute on the  Internet!***
  
 First,​ you have to:
 
