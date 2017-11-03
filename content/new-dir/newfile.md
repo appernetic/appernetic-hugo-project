@@ -10,7 +10,6 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-
-# Headline
+# Headline
 
 Text
