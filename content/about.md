@@ -2,9 +2,9 @@
 title = "About Hugo"
 date = "2014-04-09"
 menu = "main"
+draft = true
 +++
-
-Hugo is a static site engine written in go.
+Hugo is a static site engine written in go.
 
 
 It makes use of a variety of open source projects including:
