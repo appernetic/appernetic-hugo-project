@@ -116,7 +116,7 @@ identifier = ""
 url = "https://appernetic.io/app/#/about"
 #pre = "<i class='fa fa-road'></i>"
 
-[[Languages.menu.main]]
+[[menu.main]]
 name = "Dashboard"
 identifier = ""
 weight = 3
