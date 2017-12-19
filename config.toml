@@ -1,11 +1,13 @@
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "https://blog.appernetic.io/"
+# Remark if you want to disable multilingual support.
+#DefaultContentLanguage = "en"
 
 # Site title
 title = "Appernetic.io blog"
 
 # Copyright
-copyright = "(c) 2016 Appernetic.io"
+copyright = "(c) 2017 Appernetic.io"
 
 # Language
 languageCode = "en-EN"
@@ -28,8 +30,8 @@ paginatePath = "page"
 disqusShortname = "appernetic"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
-    code = "/:slug/"
+post = "/:year/:month/:day/:filename/"
+code = "/:filename/"
 
 [taxonomies]
     tag = "tags"
@@ -49,11 +51,11 @@ enablepopover = true #enable or disable popover: true/false.
 posturl = "https://zapier.com/hooks/catch/1227569/2vcwb6/"
 headerimage = "https://res.cloudinary.com/appernetic/v1461282690/placeitipad_sj067i.jpg"
 expirecookie = 7 #show it again after number of days to visitor that has not subscribed.
-cookiename = "appzapc" #give the cookie a unique name variable (avoid spaces and strange characters).
+cookiename = "appzapc2" #give the cookie a unique name variable (avoid spaces and strange characters).
 signupheader = "Appernetic.io"
-showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+showmodaltimeout = 16000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
-modalsize = "sm" #lg or sm. Empty is md. If phone is detected lg is used.
+modalsize = "md" #lg or sm. Empty is md. If phone is detected lg is used.
 imagedescription = "Appernetic.io"
 signuptext = "Signup today for free and be the first to get notified on new updates."
 inputplaceholder = "Enter your email"
@@ -65,17 +67,22 @@ optin = true #opt-in: true/false
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
+# menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+switchlang = false
 	BrandImage = "/images/apperneticlogo.png" #top header brand image.
 	brand = "Appernetic blog" # brand image alt text.
     topline = "A Static Site Generator as a Service"
     footline = "Coded with <i class='fa fa-heart'></i>. Theme: <a href='https://github.com/appernetic/hugo-bootstrap-premium'>Hugo-bootstrap-premium</a> <a href='http://www.bloggranking.se/in/361' target='_blank'><img src='http://www.bloggranking.se/bild/361' alt='Bloggranking'></a> <a href='http://www.ontoplist.com/' target='_blank'><img src='http://www.ontoplist.com/images/ontoplist31.png?id=574eee935b577' alt='Blog Directory & Business Pages - OnToplist.com' border='0' /></a> <a href='http://www.sutradirectory.com/'>Web Directory</a>"
-   # theme = "paper"
+    
+customJS = []
+customCSS = ["/css/style_custom.css"]
+
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
     home = "https://blog.appernetic.io"
     mailmunchid = "" # Mailmunch site id
     sumomeid = "10b7b6402734c894bc9ceb82feaaa9778a3eb6a936d292b51e723f2c24a31fe8" # Sumome id
-    
+    mathjax = "" # cdnjs hosted version; empty string to disable mathjax
 	# Show a sidebar menu
     showRightSidebar = true
     # Select a syntax highight.
@@ -94,6 +101,26 @@ optin = true #opt-in: true/false
     twitter = "Appernetic" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
+
+[[Languages.en.menu.main]]
+name = "Blog"
+pre = ""
+weight = 2
+identifier = "post"
+url = "/post/"
+
+[[Languages.en.menu.main]]
+name = "About"
+weight = 1
+identifier = ""
+url = "https://appernetic.io/app/#/about"
+pre = "<i class='fa fa-road'></i>"
+
+[[Languages.en.menu.main]]
+name = "Dashboard"
+identifier = ""
+weight = 3
+url = "https://appernetic.io/app/"
 
 [blackfriday]
     angledQuotes = true
