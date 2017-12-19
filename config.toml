@@ -55,7 +55,7 @@ cookiename = "appzapc2" #give the cookie a unique name variable (avoid spaces an
 signupheader = "Appernetic.io"
 showmodaltimeout = 16000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
-modalsize = "md" #lg or sm. Empty is md. If phone is detected lg is used.
+modalsize = "sm" #lg or sm. Empty is md. If phone is detected lg is used.
 imagedescription = "Appernetic.io"
 signuptext = "Signup today for free and be the first to get notified on new updates."
 inputplaceholder = "Enter your email"
@@ -102,21 +102,21 @@ customCSS = ["/css/style_custom.css"]
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
-[[Languages.en.menu.main]]
+[[Languages.menu.main]]
 name = "Blog"
 pre = ""
 weight = 2
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
+[[Languages.menu.main]]
 name = "About"
 weight = 1
 identifier = ""
 url = "https://appernetic.io/app/#/about"
-pre = "<i class='fa fa-road'></i>"
+#pre = "<i class='fa fa-road'></i>"
 
-[[Languages.en.menu.main]]
+[[Languages.menu.main]]
 name = "Dashboard"
 identifier = ""
 weight = 3
