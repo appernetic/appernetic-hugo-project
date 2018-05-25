@@ -106,7 +106,8 @@ We process personal data to comply with the requirements of the law.
 
 We store personal data as long as there is a documented purpose for the processing. Contact our data protection officer for details privacy@appernetic.io.
 
-To whom do we share personal data
+## To whom do we share personal data
+
 Partners, subcontractors and other companies within Appernetic.
 
 We have agreements with all partners and subcontractors in the EU, and EU standard contract clauses for all outside the EU. EU/US Privacy Shield certification is used if the processing takes place in the United States. The agreements regulate what personal data is being processed, why the processing is done, how personal data are to be protected and for how long it is being processed. The agreements also contain instructions from the data controller to the data processor on how personal data can be processed.
@@ -118,15 +119,15 @@ We implement appropriate safeguards to ensure that your personal data is handled
 For the following purposes, we may share certain data with the mentioned partners and subcontractors.
 
 
-Auth0, data required for authentication and authorization.
+**Auth0**, data required for authentication and authorization.
 
-GitHub,  data required for authentication and authorization.
+**GitHub**,  data required for authentication and authorization.
 
-Google, analysis data through third party cookies for marketing, web analytics to improve our services and data required for authentication and authorization.
+**Google**, analysis data through third party cookies for marketing, web analytics to improve our services and data required for authentication and authorization.
 
-Facebook, third-party cookie analysis data for marketing purposes and data required for authentication and authorization.
+**Facebook**, third-party cookie analysis data for marketing purposes and data required for authentication and authorization.
 
-Stripe, data required to complete a card payment.
+**Stripe**, data required to complete a card payment.
 
 Happy Fox Chat, data required to provide support services such as chat.
 
