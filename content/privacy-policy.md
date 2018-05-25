@@ -96,13 +96,13 @@ We process personal data to detect and prevent the following for our services an
 
 *Legal basis: Necessary to fulfill the contract and legal obligation.*
 
-Regulatory obligations
+## Regulatory obligations
 
 We process personal data to comply with the requirements of the law.
 
-Legal basis: Legal obligation.
+*Legal basis: Legal obligation.*
 
-For how long time we store personal data
+## For how long time we store personal data
 
 We store personal data as long as there is a documented purpose for the processing. Contact our data protection officer for details privacy@appernetic.io.
 
