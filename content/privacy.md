@@ -1,9 +1,11 @@
----
++++
 
-draft: false
-author: "author"
+title = "Privacy Policy"
+date = "2018-04-09"
+menu = "main"
+draft = false
 
----
++++
 
 
 # Privacy and Data Protection Policy
