@@ -165,17 +165,13 @@ You control your own personal information, meaning that you decide which data yo
 
 However, we need some personal data to provide our services to you. If you choose to revoke your consent, this may mean that we can not provide all our services to you.
 
-Learn more about what rights you have regarding your personal data »
-
-
-
-How we process your data when you are no longer a customer
+## How we process your data when you are no longer a customer
 
 When you terminate your account, we will remove all your personal data where there is no purpose for further processing. We also notify any potential partners and subcontractors who processed your data to also delete the data.
 
 Among the things that are removed is your:
 
-    - website.
+ - website.
     - email addresses with associated emails.
     - personal data in our CRM system.
     - backups of the above are removed by our backup schedule.
