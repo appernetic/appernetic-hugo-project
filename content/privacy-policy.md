@@ -94,7 +94,8 @@ We process personal data to detect and prevent the following for our services an
  - law violations
  - terms violations
 
-Legal basis: Necessary to fulfill the contract and legal obligation.
+*Legal basis: Necessary to fulfill the contract and legal obligation.*
+
 Regulatory obligations
 
 We process personal data to comply with the requirements of the law.
