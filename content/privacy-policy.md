@@ -148,14 +148,14 @@ The protection is implemented with systematic, organizational and technical meas
 
 We have policies and security practices implemented regarding:
 
-    information security
-    incident management
-    risk analysis
-    software updates
-    secure configuration and management of devices
-    office and data centers
-    software development
-    education and training
+information security
+incident management
+risk analysis
+software updates
+secure configuration and management of devices
+office and data centers
+software development
+education and training
 
 Appernetic's staff are bound by confidentiality agreements and only process the data their specific tasks require.
 
