@@ -3,6 +3,7 @@
 date = "2018-04-09"
 menu = "main"
 draft = true
+aliases = "/privacy/"
 +++
 # Privacy and Data Protection Policy
 
