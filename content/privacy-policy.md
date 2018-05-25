@@ -89,11 +89,10 @@ We process personal data about what services you use and how you use them to mar
 We process personal data to detect and prevent the following for our services and our network:
 
  - abuse
-
-    intrusion attempts
-    attacks such as viruses and DDOS
-    law violations
-    terms violations
+ - intrusion attempts
+ - attacks such as viruses and DDOS
+ - law violations
+ - terms violations
 
 Legal basis: Necessary to fulfill the contract and legal obligation.
 Regulatory obligations
