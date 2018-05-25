@@ -129,11 +129,11 @@ For the following purposes, we may share certain data with the mentioned partner
 
 **Stripe**, data required to complete a card payment.
 
-Happy Fox Chat, data required to provide support services such as chat.
+**Happy Fox Chat**, data required to provide support services such as chat.
 
-Gitter, data required to provide support services such as chat.
+**Gitter**, data required to provide support services such as chat.
 
-Inline Manual, data required to provide support services such as documentation.
+**Inline Manual**, data required to provide support services such as documentation.
 
 
 
