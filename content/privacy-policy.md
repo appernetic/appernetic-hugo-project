@@ -142,7 +142,7 @@ We may be required to provide specific personal data by law and authority decisi
 
 ## How we protect your personal data
 
-We use industry standards to store, process and communicate sensitive personal information such as personal data and passwords in a safe way. For example, SSL/TLS, PGP, Multifactor authenticand one-way hash algorithms.
+We use industry standards to store, process and communicate sensitive personal information such as personal data and passwords in a safe way. For example, SSL/TLS, PGP, Multifactor authentication and one-way hash algorithms.
 
 The protection is implemented with systematic, organizational and technical measures to ensure integrity, confidentiality, and accessibility.
 
