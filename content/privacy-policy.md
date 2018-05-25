@@ -64,7 +64,7 @@ We process personal data to identify you as a customer and to manage and deliver
 
 **Legal basis: Necessary to fulfill the contract.**
 
-**Communication and support**
+## Communication and support
 
 We may use personal information from previous communication between you and us to provide better assistance.
 
