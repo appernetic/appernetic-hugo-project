@@ -78,16 +78,18 @@ We process personal data on how you use our services, and from your communicatio
 
 *Legal basis: Legitimate interest and consent.*
 
-Marketing
+## Marketing
 
 We process personal data about what services you use and how you use them to market relevant products and services to you according to your needs.
 
-Legal basis: Legitimate interest and consent.
-Security and prevention of abuse
+*Legal basis: Legitimate interest and consent.*
+
+## Security and prevention of abuse
 
 We process personal data to detect and prevent the following for our services and our network:
 
-    abuse
+ - abuse
+
     intrusion attempts
     attacks such as viruses and DDOS
     law violations
