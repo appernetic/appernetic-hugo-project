@@ -2,12 +2,9 @@
 
 title = "Privacy Policy"
 date = "2018-04-09"
-menu = "main"
 draft = false
 
 +++
-
-
 # Privacy and Data Protection Policy
 
 On May 25, 2018, the new General Data Protection Regulation (GDPR) will be implemented in the EU. The new regulations replace the Personal Data Act and increase your ability to determine how companies and organizations handle data about you and the personal data created when using its services or products.
