@@ -159,7 +159,7 @@ We have policies and security practices implemented regarding:
 
 Appernetic's staff are bound by confidentiality agreements and only process the data their specific tasks require.
 
-You control your personal data.
+## You control your personal data.
 
 You control your own personal information, meaning that you decide which data you want to give and what processing of your data you approve. You can revoke your consent at any time.
 
