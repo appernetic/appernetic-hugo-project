@@ -7,7 +7,7 @@ baseurl = "https://blog.appernetic.io/"
 title = "Appernetic.io blog"
 
 # Copyright
-copyright = "(c) 2017 Appernetic.io"
+copyright = "(c) 2018 Appernetic.io"
 
 # Language
 languageCode = "en-EN"
