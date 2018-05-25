@@ -58,7 +58,7 @@ In order for us to process your data, one of the following legal bases must be m
 
 For us to provide our services to you, we need to process your data. Below you will find information about what we use your data for, and the legal basis each processing is supported.
 
-Provision of services
+## Provision of services
 
 We process personal data to identify you as a customer and to manage and deliver the services you ordered and subscribe. As well as personal data required to handle billing and payments of the services you use.
 
