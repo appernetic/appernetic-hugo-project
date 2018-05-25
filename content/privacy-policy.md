@@ -172,11 +172,11 @@ When you terminate your account, we will remove all your personal data where the
 Among the things that are removed is your:
 
  - website.
-    - email addresses with associated emails.
-    - personal data in our CRM system.
-    - backups of the above are removed by our backup schedule.
+ - email addresses with associated emails.
+ - personal data in our CRM system.
+ - backups of the above are removed by our backup schedule.
 
 
 Among the things that are not removed are:
 
-   - data required by the Accounting Act.
+ - data required by the Accounting Act.
