@@ -62,7 +62,7 @@ For us to provide our services to you, we need to process your data. Below you w
 
 We process personal data to identify you as a customer and to manage and deliver the services you ordered and subscribe. As well as personal data required to handle billing and payments of the services you use.
 
-**Legal basis: Necessary to fulfill the contract.**
+*Legal basis: Necessary to fulfill the contract.*
 
 ## Communication and support
 
@@ -70,13 +70,14 @@ We may use personal information from previous communication between you and us t
 
 We use your contact information and information about which services you use as the basis for invoices, newsletters, important information about your services, offers and tips on how to use our services.
 
-Legal basis: Legitimate interest, consent and necessary to fulfill the contract.
+*Legal basis: Legitimate interest, consent and necessary to fulfill the contract.*
 
-Development of our services and products
+## Development of our services and products
 
 We process personal data on how you use our services, and from your communication with us as a basis for improving your experience specifically and our services in general.
 
-Legal basis: Legitimate interest and consent.
+*Legal basis: Legitimate interest and consent.*
+
 Marketing
 
 We process personal data about what services you use and how you use them to market relevant products and services to you according to your needs.
