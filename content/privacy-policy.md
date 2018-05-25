@@ -136,14 +136,13 @@ For the following purposes, we may share certain data with the mentioned partner
 **Inline Manual**, data required to provide support services such as documentation.
 
 
-
-Authorities
+## Authorities
 
 We may be required to provide specific personal data by law and authority decisions upon request from for example the police.
 
-How we protect your personal data
+## How we protect your personal data
 
-We use industry standards to store, process and communicate sensitive personal information such as personal data and passwords in a safe way. For example, SSL/TLS, PGP, and one-way hash algorithms.
+We use industry standards to store, process and communicate sensitive personal information such as personal data and passwords in a safe way. For example, SSL/TLS, PGP, Multifactor authenticand one-way hash algorithms.
 
 The protection is implemented with systematic, organizational and technical measures to ensure integrity, confidentiality, and accessibility.
 
